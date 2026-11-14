@@ -26,7 +26,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-6afb5eb9fa6292aa391f90c0428758c4
+UID:alemannia-aachen-m1-germania-teveren-m1-alemannia-aachen-m1-260703@fuss
+ ball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ Germania Teveren - Alemannia Aachen 1:6
 DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
@@ -41,22 +42,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-268cbc27df89b507acbcbba2f938b568
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ Germania Teveren - Alemannia Aachen 1:6
-DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/germania-teveren-m1-alemannia-aachen-m1-260703?utm_sou
- rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/germania-teveren-m1-alemannia-aachen-m1-2607
- 03?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260703T183000
-DTEND;TZID=Europe/Berlin:20260703T200000
-LOCATION:Pestalozzistraße\, 52511 Geilenkirchen
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-3679d70de17eea1b95b0a9314b1f4b09
+UID:alemannia-aachen-m1-sv-breinig-m1-alemannia-aachen-m1-260710@fussball-k
+ alender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ SV Breinig - Alemannia Aachen 0:5
 DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
@@ -71,22 +58,7 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-40404320aa6e6cdeab05358d4744f021
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ SV Breinig - Alemannia Aachen 0:5
-DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/sv-breinig-m1-alemannia-aachen-m1-260710?utm_source=fu
- pa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/sv-breinig-m1-alemannia-aachen-m1-260710?utm
- _source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260710T183000
-DTEND;TZID=Europe/Berlin:20260710T200000
-LOCATION:Schützheide 50d\, 52223 Stolberg
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-a1aae9e627a24c40f1200052581af763
+UID:fc-golzheim-m2-fc-golzheim-m2-sv-niederzier-m2-260715@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - SV Niederzier II 10:0
 DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
@@ -101,22 +73,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-f1ebd0ed500017be0dccf8c047fd070c
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - SV Niederzier II 10:0
-DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/fc-golzheim-m2-sv-niederzier-m2-260715?utm_source=fupa
- &utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m2-sv-niederzier-m2-260715?utm_s
- ource=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260715T183000
-DTEND;TZID=Europe/Berlin:20260715T200000
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-e0b7b81b42171db2f60fb6c7e9351f0c
+UID:fc-golzheim-m1-fc-golzheim-m1-fc-borussia-buir-m1-260716@fussball-kalen
+ der
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - FC Borussia Buir 2:2
 DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
@@ -131,22 +89,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-b3bc01413937b6135813469a0ce0b834
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - FC Borussia Buir 2:2
-DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/fc-golzheim-m1-fc-borussia-buir-m1-260716?utm_source=f
- upa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m1-fc-borussia-buir-m1-260716?ut
- m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260716T184500
-DTEND;TZID=Europe/Berlin:20260716T201500
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-9f530bf859477571f0daeb18d4c03172
+UID:alemannia-aachen-m1-rkc-waalwijk-m1-alemannia-aachen-m1-260718@fussball
+ -kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ RKC Waalwijk - Alemannia Aachen 1:1
 DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
@@ -161,22 +105,7 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-27db3a7cd823058f2985d158d124c724
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ RKC Waalwijk - Alemannia Aachen 1:1
-DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/rkc-waalwijk-m1-alemannia-aachen-m1-260718?utm_source=
- fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/rkc-waalwijk-m1-alemannia-aachen-m1-260718?u
- tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260718T140000
-DTEND;TZID=Europe/Berlin:20260718T153000
-LOCATION:Akkerlaan 2\, 5143  Waalwijk
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-bb15f2caea77749b5fcc5d396a960b44
+UID:fc-golzheim-m1-sg-neffeltal-m1-fc-golzheim-m1-260723@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ SG Neffeltal - FC Golzheim 4:6
 DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
@@ -191,22 +120,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-223496ca7655258c004825fd5e26e42f
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ SG Neffeltal - FC Golzheim 4:6
-DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/sg-neffeltal-m1-fc-golzheim-m1-260723?utm_source=fupa&
- utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/sg-neffeltal-m1-fc-golzheim-m1-260723?utm_so
- urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260723T193000
-DTEND;TZID=Europe/Berlin:20260723T210000
-LOCATION:Kreuzstr 1\, 52391 Disternich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-2db5b3b26c39c1f07181ad1a29155c5d
+UID:fc-bayern-muenchen-m1-sv-wehen-wiesbaden-m1-fc-bayern-muenchen-m1-26072
+ 5@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ SV Wehen Wiesbaden - FC Bayern München 2:1
 DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
@@ -221,22 +136,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-9c5d05cf4848090fdd2f1f26fd60d479
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ SV Wehen Wiesbaden - FC Bayern München 2:1
-DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/sv-wehen-wiesbaden-m1-fc-bayern-muenchen-m1-260725?utm
- _source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/sv-wehen-wiesbaden-m1-fc-bayern-muenchen-m1-
- 260725?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260725T153000
-DTEND;TZID=Europe/Berlin:20260725T170000
-LOCATION:Berliner Straße 9\, 65189 Wiesbaden
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-07c68edf15e1631d0405d3b6c094571f
+UID:alemannia-aachen-m1-tus-lammersdorf-m1-alemannia-aachen-m1-260725@fussb
+ all-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ TuS Lammersdorf - Alemannia Aachen 0:7
 DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
@@ -251,22 +152,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-d0d7eb1d3957696a68b6bbc7debf5d1e
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ TuS Lammersdorf - Alemannia Aachen 0:7
-DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/tus-lammersdorf-m1-alemannia-aachen-m1-260725?utm_sour
- ce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/tus-lammersdorf-m1-alemannia-aachen-m1-26072
- 5?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260725T180000
-DTEND;TZID=Europe/Berlin:20260725T193000
-LOCATION:Schießgasse\, 52152 Simmerath
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-eb998aaee0fa60e5b38fc38c8903a4be
+UID:fc-golzheim-m1-bedburger-ballspielverein-m1-fc-golzheim-m1-260726@fussb
+ all-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ Bedburger Ballspielverein - FC Golzheim 2:1
 DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
@@ -281,22 +168,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-d26aade423dad01159716a031efd3216
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ Bedburger Ballspielverein - FC Golzheim 2:1
-DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/bedburger-ballspielverein-m1-fc-golzheim-m1-260726?utm
- _source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/bedburger-ballspielverein-m1-fc-golzheim-m1-
- 260726?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260726T151500
-DTEND;TZID=Europe/Berlin:20260726T164500
-LOCATION:Herderstraße 2\, 50181 Bedburg
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-c4fb4e38b22989f918ca65d53910af71
+UID:fc-golzheim-m2-spvg-badorfpingsdorf-192931-m1-fc-golzheim-m2-260726@fus
+ sball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ Spvg Badorf/Pingsdorf 1929/31 - FC Golzheim II 
  8:2
@@ -313,24 +186,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-198c5ebef3f6f78bdf28b30502a10eff
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ Spvg Badorf/Pingsdorf 1929/31 - FC Golzheim II 
- 8:2
-DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/spvg-badorfpingsdorf-192931-m1-fc-golzheim-m2-260726?u
- tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/spvg-badorfpingsdorf-192931-m1-fc-golzheim-m
- 2-260726?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedul
- e
-DTSTART;TZID=Europe/Berlin:20260726T151500
-DTEND;TZID=Europe/Berlin:20260726T164500
-LOCATION:Auf dem Gallberg 32\, 50321 Brühl
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-6607c59d911bf931e064090c251aa2d2
+UID:fc-bayern-muenchen-m1-fc-rottach-egern-m1-fc-bayern-muenchen-m1-260730@
+ fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ FC Rottach-Egern - FC Bayern München 0:15
 DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
@@ -345,22 +202,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-97a09fd2afbce552db32d8c6a171b53a
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ FC Rottach-Egern - FC Bayern München 0:15
-DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/fc-rottach-egern-m1-fc-bayern-muenchen-m1-260730?utm_s
- ource=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-rottach-egern-m1-fc-bayern-muenchen-m1-26
- 0730?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260730T180000
-DTEND;TZID=Europe/Berlin:20260730T193000
-LOCATION:Birkenmoosstraße 14\, 83700 Rottach-Egern
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-0a9ce3eb37bba018411a33e8d57064fa
+UID:alemannia-aachen-m1-roda-jc-kerkrade-m1-alemannia-aachen-m1-260801@fuss
+ ball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ Roda JC Kerkrade - Alemannia Aachen 2:4
 DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
@@ -375,22 +218,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-201d4bdef0c0fd5c70921fea73aa0384
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ Roda JC Kerkrade - Alemannia Aachen 2:4
-DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/roda-jc-kerkrade-m1-alemannia-aachen-m1-260801?utm_sou
- rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/roda-jc-kerkrade-m1-alemannia-aachen-m1-2608
- 01?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260801T180000
-DTEND;TZID=Europe/Berlin:20260801T193000
-LOCATION:Roda J.C. Ring 1\, 6466 Kerkrade
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-ac4d53ab7f97c705922df9d93574177d
+UID:fc-golzheim-m1-tus-langerwehe-m1-fc-golzheim-m1-260802@fussball-kalende
+ r
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ TuS Langerwehe - FC Golzheim 1:3
 DESCRIPTION:Turnierspiel: HP-Solution Cup\; Alle Infos findest du auf FuPa:
@@ -405,22 +234,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-393941a0007042dcebcb24d7340d98e0
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ TuS Langerwehe - FC Golzheim 1:3
-DESCRIPTION:Turnierspiel: HP-Solution Cup\; Alle Infos findest du auf FuPa:
-  https://www.fupa.net/match/tus-langerwehe-m1-fc-golzheim-m1-260802?utm_so
- urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/tus-langerwehe-m1-fc-golzheim-m1-260802?utm_
- source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260802T133000
-DTEND;TZID=Europe/Berlin:20260802T150000
-LOCATION:Rymelsberg 21\, 52379 Langerwehe
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-acff2d02eb4afd2b2b64e5394e851d9e
+UID:alemannia-aachen-m1-alemannia-aachen-m1-sv-eintracht-trier-05-m1-260802
+ @fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ Alemannia Aachen - SV Eintracht Trier 05 0:1
 DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
@@ -435,22 +250,7 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-c2fecf184c6bad88a294b30104062a14
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ Alemannia Aachen - SV Eintracht Trier 05 0:1
-DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/alemannia-aachen-m1-sv-eintracht-trier-05-m1-260802?ut
- m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/alemannia-aachen-m1-sv-eintracht-trier-05-m1
- -260802?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260802T140000
-DTEND;TZID=Europe/Berlin:20260802T153000
-LOCATION:Jülicher Str. 270\, 52249 Eschweiler
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-f766514d81da9510e4bb64ab1edbab2e
+UID:fc-golzheim-m2-sv-kelz-m1-fc-golzheim-m2-260802@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ SV Kelz - FC Golzheim II 0:3
 DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
@@ -465,22 +265,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-e349933ca368d51abdc3908934b21c9e
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ SV Kelz - FC Golzheim II 0:3
-DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/sv-kelz-m1-fc-golzheim-m2-260802?utm_source=fupa&utm_m
- edium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/sv-kelz-m1-fc-golzheim-m2-260802?utm_source=
- fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260802T180000
-DTEND;TZID=Europe/Berlin:20260802T193000
-LOCATION:Mühlenweg\, 52391 Kelz
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-f554d9b312f549606252fe92ea939565
+UID:fc-bayern-muenchen-m1-jeju-sk-football-club-1478836-fc-bayern-muenchen-
+ m1-260804@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ Jeju SK Football Club - FC Bayern München 1:2
 DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
@@ -495,22 +281,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-f9b840e51b8750fec8061414e865caeb
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ Jeju SK Football Club - FC Bayern München 1:2
-DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/jeju-sk-football-club-1478836-fc-bayern-muenchen-m1-26
- 0804?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/jeju-sk-football-club-1478836-fc-bayern-muen
- chen-m1-260804?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_s
- chedule
-DTSTART;TZID=Europe/Berlin:20260804T130000
-DTEND;TZID=Europe/Berlin:20260804T143000
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-f93d0198f99ec08c553b7cfd71539444
+UID:fc-golzheim-m1-fc-golzheim-m1-sv-1928-blatzheim-m1-260806@fussball-kale
+ nder
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - SV 1928 Blatzheim 1:1
 DESCRIPTION:Turnierspiel: Sportwoche Morschenich\; Alle Infos findest du au
@@ -525,22 +297,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-ab957116f0a510907d0ee9075529518d
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - SV 1928 Blatzheim 1:1
-DESCRIPTION:Turnierspiel: Sportwoche Morschenich\; Alle Infos findest du au
- f FuPa: https://www.fupa.net/match/fc-golzheim-m1-sv-1928-blatzheim-m1-260
- 806?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m1-sv-1928-blatzheim-m1-260806?u
- tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260806T193000
-DTEND;TZID=Europe/Berlin:20260806T202000
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-6aee4ee54789624eec4abb7d516a7b68
+UID:fc-golzheim-m1-fc-golzheim-m1-columbia-drove-m1-260806@fussball-kalende
+ r
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - Columbia Drove 5:1
 DESCRIPTION:Turnierspiel: Sportwoche Morschenich\; Alle Infos findest du au
@@ -555,22 +313,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-b047abc667734bf0f9b1bc1aa67038d2
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - Columbia Drove 5:1
-DESCRIPTION:Turnierspiel: Sportwoche Morschenich\; Alle Infos findest du au
- f FuPa: https://www.fupa.net/match/fc-golzheim-m1-columbia-drove-m1-260806
- ?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m1-columbia-drove-m1-260806?utm_
- source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260806T205000
-DTEND;TZID=Europe/Berlin:20260806T214000
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-808b1da73a2c5d775f09d80644fc86b5
+UID:fc-golzheim-m1-1-fc-krauthausen-m1-fc-golzheim-m1-260806@fussball-kalen
+ der
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ 1. FC Krauthausen - FC Golzheim 1:1
 DESCRIPTION:Turnierspiel: Sportwoche Morschenich\; Alle Infos findest du au
@@ -585,22 +329,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-90fb14914f1118a4115d879791ab0ab5
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ 1. FC Krauthausen - FC Golzheim 1:1
-DESCRIPTION:Turnierspiel: Sportwoche Morschenich\; Alle Infos findest du au
- f FuPa: https://www.fupa.net/match/1-fc-krauthausen-m1-fc-golzheim-m1-2608
- 06?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/1-fc-krauthausen-m1-fc-golzheim-m1-260806?ut
- m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260806T225000
-DTEND;TZID=Europe/Berlin:20260806T234000
-LOCATION:Niederfeld 7\, 52382 Niederzier
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-cabe0204303a79d20df62578dcaa62b0
+UID:fc-bayern-muenchen-m1-fc-bayern-muenchen-m1-aston-villa-m1-260807@fussb
+ all-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ FC Bayern München - Aston Villa 2:1
 DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
@@ -615,22 +345,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-9ae71d52139cf6ee0b9d3fd16c5f86da
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ FC Bayern München - Aston Villa 2:1
-DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/fc-bayern-muenchen-m1-aston-villa-m1-260807?utm_source
- =fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-bayern-muenchen-m1-aston-villa-m1-260807?
- utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260807T140000
-DTEND;TZID=Europe/Berlin:20260807T153000
-LOCATION:Werner-Heisenberg-Allee 25\, 80939 München
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-d1af4638c4b0d51beb1edf59a6e0c5fb
+UID:fc-golzheim-m1-viktoria-arnoldsweiler-m1-fc-golzheim-m1-260807@fussball
+ -kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ Viktoria Arnoldsweiler - FC Golzheim 1:2
 DESCRIPTION:Turnierspiel: HP-Solution Cup\; Alle Infos findest du auf FuPa:
@@ -645,22 +361,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-307f622114b309bb1433a768d6bad4fb
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ Viktoria Arnoldsweiler - FC Golzheim 1:2
-DESCRIPTION:Turnierspiel: HP-Solution Cup\; Alle Infos findest du auf FuPa:
-  https://www.fupa.net/match/viktoria-arnoldsweiler-m1-fc-golzheim-m1-26080
- 7?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/viktoria-arnoldsweiler-m1-fc-golzheim-m1-260
- 807?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260807T190000
-DTEND;TZID=Europe/Berlin:20260807T203000
-LOCATION:Hölderlinweg 9\, 52353 Düren
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-fc15800da980622fd39e58154bed05bb
+UID:fc-golzheim-m2-alemannia-lendersdorf-m3-fc-golzheim-m2-260808@fussball-
+ kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ Alemannia Lendersdorf III - FC Golzheim II 3:2
 DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
@@ -675,22 +377,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-9fd5cbe9a156376331c464964aabbfd3
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ Alemannia Lendersdorf III - FC Golzheim II 3:2
-DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/alemannia-lendersdorf-m3-fc-golzheim-m2-260808?utm_sou
- rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/alemannia-lendersdorf-m3-fc-golzheim-m2-2608
- 08?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260808T180000
-DTEND;TZID=Europe/Berlin:20260808T193000
-LOCATION:Uferstraße 3b\, 52355 Düren
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-320ac8ba96aa0706e0a7cd802f8a791d
+UID:fc-golzheim-m1-alemannia-lendersdorf-m1-fc-golzheim-m1-260809@fussball-
+ kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ Alemannia Lendersdorf - FC Golzheim 0:3
 DESCRIPTION:Turnierspiel: HP-Solution Cup\; Alle Infos findest du auf FuPa:
@@ -705,22 +393,7 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-fa572d5da7323443bac5f98bcdcd6637
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ Alemannia Lendersdorf - FC Golzheim 0:3
-DESCRIPTION:Turnierspiel: HP-Solution Cup\; Alle Infos findest du auf FuPa:
-  https://www.fupa.net/match/alemannia-lendersdorf-m1-fc-golzheim-m1-260809
- ?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/alemannia-lendersdorf-m1-fc-golzheim-m1-2608
- 09?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260809T163000
-DTEND;TZID=Europe/Berlin:20260809T180000
-LOCATION:Am Wehr 61\, 52355 Düren
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-5f64851bf1063700eb41242d3bc47be5
+UID:fc-golzheim-m1-fc-golzheim-m1-sc-merzenich-m1-260809@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - SC Merzenich 1:15
 DESCRIPTION:Turnierspiel: Sportwoche Morschenich\; Alle Infos findest du au
@@ -735,22 +408,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-104dc491576c954ec25827884869d634
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - SC Merzenich 1:15
-DESCRIPTION:Turnierspiel: Sportwoche Morschenich\; Alle Infos findest du au
- f FuPa: https://www.fupa.net/match/fc-golzheim-m1-sc-merzenich-m1-260809?u
- tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m1-sc-merzenich-m1-260809?utm_so
- urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260809T170000
-DTEND;TZID=Europe/Berlin:20260809T185000
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-58d249e25e0a8e790f9e42d0e7ac7555
+UID:alemannia-aachen-m1-alemannia-aachen-m1-sc-verl-m1-260809@fussball-kale
+ nder
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ Alemannia Aachen - SC Verl 4:1
 DESCRIPTION:1. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https://
@@ -765,22 +424,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-41f746c18883afaa1e027b4628483d4c
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ Alemannia Aachen - SC Verl 4:1
-DESCRIPTION:1. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https://
- www.fupa.net/match/alemannia-aachen-m1-sc-verl-m1-260809?utm_source=fupa&u
- tm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/alemannia-aachen-m1-sc-verl-m1-260809?utm_so
- urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260809T193000
-DTEND;TZID=Europe/Berlin:20260809T210000
-LOCATION:Krefelder Straße 205\, 52070 Aachen
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-0f86a988a162e6e9fcd9fbe53086deb3
+UID:alemannia-aachen-m1-sc-fortuna-koeln-m1-alemannia-aachen-m1-260815@fuss
+ ball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ SC Fortuna Köln - Alemannia Aachen 1:1
 DESCRIPTION:2. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https://
@@ -795,22 +440,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-ae8e547ed5660ef9adce2db6cb7bf7f5
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ SC Fortuna Köln - Alemannia Aachen 1:1
-DESCRIPTION:2. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https://
- www.fupa.net/match/sc-fortuna-koeln-m1-alemannia-aachen-m1-260815?utm_sour
- ce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/sc-fortuna-koeln-m1-alemannia-aachen-m1-2608
- 15?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260815T140000
-DTEND;TZID=Europe/Berlin:20260815T153000
-LOCATION:Vorgebirgstraße\, 50969 Köln
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-87708f2cdff561e94e39dd62ff0ed58d
+UID:fc-bayern-muenchen-m1-fc-bayern-muenchen-m1-rb-leipzig-m1-260815@fussba
+ ll-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ FC Bayern München - RB Leipzig 3:1
 DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
@@ -825,22 +456,7 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-0d45870c0c61a89250a526d0e344bb19
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ FC Bayern München - RB Leipzig 3:1
-DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/fc-bayern-muenchen-m1-rb-leipzig-m1-260815?utm_source=
- fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-bayern-muenchen-m1-rb-leipzig-m1-260815?u
- tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260815T153000
-DTEND;TZID=Europe/Berlin:20260815T170000
-LOCATION:Werner-Heisenberg-Allee 25\, 80939 München
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-2bd6f7a60267c4e4824440560f5d1ede
+UID:fc-golzheim-m2-sv-merken-m1-fc-golzheim-m2-260816@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ SV Merken - FC Golzheim II 3:4
 DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
@@ -855,22 +471,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-facfd59b9150f76861c6ceaa2dee7c68
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ SV Merken - FC Golzheim II 3:4
-DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/sv-merken-m1-fc-golzheim-m2-260816?utm_source=fupa&utm
- _medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/sv-merken-m1-fc-golzheim-m2-260816?utm_sourc
- e=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260816T130000
-DTEND;TZID=Europe/Berlin:20260816T143000
-LOCATION:Peterstraße 148\, 52353 Düren
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-a8072a3ab22bbcdfb14e968c79be66d2
+UID:fc-bayern-muenchen-m1-1-fc-heidenheim-m1-fc-bayern-muenchen-m1-260818@f
+ ussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ 1. FC Heidenheim - FC Bayern München 2:4
 DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
@@ -885,22 +487,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-77c1eb6697e1e02c958c375cecb1b18d
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ 1. FC Heidenheim - FC Bayern München 2:4
-DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/1-fc-heidenheim-m1-fc-bayern-muenchen-m1-260818?utm_so
- urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/1-fc-heidenheim-m1-fc-bayern-muenchen-m1-260
- 818?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260818T180000
-DTEND;TZID=Europe/Berlin:20260818T193000
-LOCATION:Schloßhaustraße 162\, 89522 Heidenheim
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-51a3e311bcb9c5bfc42df1c3966e74f9
+UID:fc-golzheim-m2-fc-golzheim-m2-columbia-drove-m1-260820@fussball-kalende
+ r
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - Columbia Drove 5:3
 DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
@@ -915,22 +503,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-d00fab3067ccf1000c320a7c7afd0257
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - Columbia Drove 5:3
-DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/fc-golzheim-m2-columbia-drove-m1-260820?utm_source=fup
- a&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m2-columbia-drove-m1-260820?utm_
- source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260820T190000
-DTEND;TZID=Europe/Berlin:20260820T203000
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-aa294a33dd6d1e337a7f06643e4846ff
+UID:alemannia-aachen-m1-fc-rheinsued-koeln-m1-alemannia-aachen-m1-260822@fu
+ ssball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ FC Rheinsüd Köln - Alemannia Aachen 0:7
 DESCRIPTION:Turnierspiel: Mittelrheinpokal\; Alle Infos findest du auf FuPa
@@ -945,22 +519,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-abebea28c614a1e9d875ef1f988d8be2
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ FC Rheinsüd Köln - Alemannia Aachen 0:7
-DESCRIPTION:Turnierspiel: Mittelrheinpokal\; Alle Infos findest du auf FuPa
- : https://www.fupa.net/match/fc-rheinsued-koeln-m1-alemannia-aachen-m1-260
- 822?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-rheinsued-koeln-m1-alemannia-aachen-m1-26
- 0822?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260822T150000
-DTEND;TZID=Europe/Berlin:20260822T170000
-LOCATION:Vorgebirgstraße\, 50969 Köln
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-81b42c6306bfbdb65e503119a2de4d00
+UID:fc-bayern-muenchen-m1-borussia-dortmund-m1-fc-bayern-muenchen-m1-260822
+ @fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ Borussia Dortmund - FC Bayern München 1:2
 DESCRIPTION:Turnierspiel: Franz Beckenbauer Supercup\; Alle Infos findest d
@@ -976,23 +536,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-0891d7783e18f76e18cfa347f096baf5
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ Borussia Dortmund - FC Bayern München 1:2
-DESCRIPTION:Turnierspiel: Franz Beckenbauer Supercup\; Alle Infos findest d
- u auf FuPa: https://www.fupa.net/match/borussia-dortmund-m1-fc-bayern-muen
- chen-m1-260822?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_s
- chedule
-URL:https://www.fupa.net/match/borussia-dortmund-m1-fc-bayern-muenchen-m1-2
- 60822?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260822T203000
-DTEND;TZID=Europe/Berlin:20260822T220000
-LOCATION:Strobelallee 50\, 44139 Dortmund
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-27e7a532982683b7f0274839780f003d
+UID:fc-golzheim-m1-schwarz-weiss-huchem-stammeln-m1-fc-golzheim-m1-260823@f
+ ussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ Schwarz-Weiß Huchem-Stammeln - FC Golzheim 2:1
 DESCRIPTION:Turnierspiel: Kreispokal Düren\; Alle Infos findest du auf FuP
@@ -1009,24 +554,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-3efc39efa9fb6621cda120d978bdc5a7
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ Schwarz-Weiß Huchem-Stammeln - FC Golzheim 2:1
-DESCRIPTION:Turnierspiel: Kreispokal Düren\; Alle Infos findest du auf FuP
- a: https://www.fupa.net/match/schwarz-weiss-huchem-stammeln-m1-fc-golzheim
- -m1-260823?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_sched
- ule
-URL:https://www.fupa.net/match/schwarz-weiss-huchem-stammeln-m1-fc-golzheim
- -m1-260823?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_sched
- ule
-DTSTART;TZID=Europe/Berlin:20260823T150000
-DTEND;TZID=Europe/Berlin:20260823T170000
-LOCATION:Karolinger Straße\, 52382 Niederzier
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-4a3243807ffcd6930ba2978c28d2060a
+UID:fc-golzheim-m1-salingia-barmen-m1-fc-golzheim-m1-260828@fussball-kalend
+ er
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ Salingia Barmen - FC Golzheim 0:0
 DESCRIPTION:1. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf FuP
@@ -1041,22 +570,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-fb27ac47ab8d2a58c2ad42cd207f938c
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ Salingia Barmen - FC Golzheim 0:0
-DESCRIPTION:1. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf FuP
- a: https://www.fupa.net/match/salingia-barmen-m1-fc-golzheim-m1-260828?utm
- _source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/salingia-barmen-m1-fc-golzheim-m1-260828?utm
- _source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260828T190000
-DTEND;TZID=Europe/Berlin:20260828T203000
-LOCATION:Tuchbleiche\, 52428 Jülich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-35e0d2ae10820b5f1085201eb590cf3e
+UID:fc-bayern-muenchen-m1-fc-bayern-muenchen-m1-vfb-stuttgart-m1-260828@fus
+ sball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ FC Bayern München - VfB Stuttgart 5:1
 DESCRIPTION:1. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: https
@@ -1071,22 +586,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-045ca0aec26f5783a9ce693d3a2f32fc
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ FC Bayern München - VfB Stuttgart 5:1
-DESCRIPTION:1. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: https
- ://www.fupa.net/match/fc-bayern-muenchen-m1-vfb-stuttgart-m1-260828?utm_so
- urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-bayern-muenchen-m1-vfb-stuttgart-m1-26082
- 8?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260828T203000
-DTEND;TZID=Europe/Berlin:20260828T220000
-LOCATION:Werner-Heisenberg-Allee 25\, 80939 München
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-5654c4388648374ab80bb2c340c3a389
+UID:alemannia-aachen-m1-alemannia-aachen-m1-sv-meppen-m1-260829@fussball-ka
+ lender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ Alemannia Aachen - SV Meppen 0:3
 DESCRIPTION:3. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https://
@@ -1101,22 +602,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-aed3d202a012fea0a6c5918c841a47fd
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ Alemannia Aachen - SV Meppen 0:3
-DESCRIPTION:3. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https://
- www.fupa.net/match/alemannia-aachen-m1-sv-meppen-m1-260829?utm_source=fupa
- &utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/alemannia-aachen-m1-sv-meppen-m1-260829?utm_
- source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260829T140000
-DTEND;TZID=Europe/Berlin:20260829T153000
-LOCATION:Krefelder Straße 205\, 52070 Aachen
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-b64f82c34a08976b9b5776c6c799b661
+UID:fc-golzheim-m2-rhenania-mariaweiler-m1-fc-golzheim-m2-260830@fussball-k
+ alender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ Rhenania Mariaweiler - FC Golzheim II 3:3
 DESCRIPTION:1. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf Fu
@@ -1131,22 +618,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-9d63dfef211cff3fb76f6dfcded8afec
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ Rhenania Mariaweiler - FC Golzheim II 3:3
-DESCRIPTION:1. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf Fu
- Pa: https://www.fupa.net/match/rhenania-mariaweiler-m1-fc-golzheim-m2-2608
- 30?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/rhenania-mariaweiler-m1-fc-golzheim-m2-26083
- 0?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260830T133000
-DTEND;TZID=Europe/Berlin:20260830T150000
-LOCATION:Indestr. 8 b\, 52349 Düren 
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-b807640c050cb8ca42970dabb468705d
+UID:fc-bayern-muenchen-m1-vfl-osnabrueck-m1-fc-bayern-muenchen-m1-260902@fu
+ ssball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ VfL Osnabrück - FC Bayern München 1:4
 DESCRIPTION:Turnierspiel: DFB-Pokal\; Alle Infos findest du auf FuPa: https
@@ -1161,22 +634,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-2d6616be22bc18ad8b520ee4e8f8ff9f
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ VfL Osnabrück - FC Bayern München 1:4
-DESCRIPTION:Turnierspiel: DFB-Pokal\; Alle Infos findest du auf FuPa: https
- ://www.fupa.net/match/vfl-osnabrueck-m1-fc-bayern-muenchen-m1-260902?utm_s
- ource=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/vfl-osnabrueck-m1-fc-bayern-muenchen-m1-2609
- 02?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260902T204500
-DTEND;TZID=Europe/Berlin:20260902T224500
-LOCATION:Scharnhorststraße 50\, 49084 Osnabrück
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-063d83ea2eb2373d17b64d420de697fa
+UID:alemannia-aachen-m1-fc-ingolstadt-04-m1-alemannia-aachen-m1-260904@fuss
+ ball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ FC Ingolstadt 04 - Alemannia Aachen 0:3
 DESCRIPTION:4. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https://
@@ -1191,22 +650,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-a27b8b503a0d27c462029f6d86021532
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ FC Ingolstadt 04 - Alemannia Aachen 0:3
-DESCRIPTION:4. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https://
- www.fupa.net/match/fc-ingolstadt-04-m1-alemannia-aachen-m1-260904?utm_sour
- ce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-ingolstadt-04-m1-alemannia-aachen-m1-2609
- 04?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260904T190000
-DTEND;TZID=Europe/Berlin:20260904T203000
-LOCATION:Am Sportpark 1\, 85053 Ingolstadt
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-9e5124fd43fd6003364ffd8d5d6aa713
+UID:fc-bayern-muenchen-m1-fc-schalke-04-m1-fc-bayern-muenchen-m1-260905@fus
+ sball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ FC Schalke 04 - FC Bayern München 0:0
 DESCRIPTION:2. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: https
@@ -1221,22 +666,7 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-63a2f8c6474d14af8e4bbe169f4961fc
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ FC Schalke 04 - FC Bayern München 0:0
-DESCRIPTION:2. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: https
- ://www.fupa.net/match/fc-schalke-04-m1-fc-bayern-muenchen-m1-260905?utm_so
- urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-schalke-04-m1-fc-bayern-muenchen-m1-26090
- 5?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260905T183000
-DTEND;TZID=Europe/Berlin:20260905T200000
-LOCATION:Arenaring 1\, 45891 Gelsenkirchen
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-da6eb2e33a9256f9ffd237914ad21286
+UID:fc-golzheim-m2-fc-golzheim-m2-1-fc-dueren-m2-260906@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - 1. FC Düren II 6:1
 DESCRIPTION:3. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf Fu
@@ -1251,22 +681,7 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-cdae44e51e5490f0c13bd2e2ab4d1c3a
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - 1. FC Düren II 6:1
-DESCRIPTION:3. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf Fu
- Pa: https://www.fupa.net/match/fc-golzheim-m2-1-fc-dueren-m2-260906?utm_so
- urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m2-1-fc-dueren-m2-260906?utm_sou
- rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260906T124500
-DTEND;TZID=Europe/Berlin:20260906T141500
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-89c9411959f4bcc75e8c2c02984ec31a
+UID:fc-golzheim-m1-fc-golzheim-m1-sc-merzenich-m1-260906@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - SC Merzenich 4:2
 DESCRIPTION:3. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf FuP
@@ -1281,22 +696,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-c7cdf479f178f8ad24f406b46d273497
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - SC Merzenich 4:2
-DESCRIPTION:3. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf FuP
- a: https://www.fupa.net/match/fc-golzheim-m1-sc-merzenich-m1-260906?utm_so
- urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m1-sc-merzenich-m1-260906?utm_so
- urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260906T150000
-DTEND;TZID=Europe/Berlin:20260906T163000
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-dd60154bec3c9d2483ed47629c75b16f
+UID:fc-golzheim-m1-fc-golzheim-m1-sg-noervenich-hochkirchen-m1-260909@fussb
+ all-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - SG Nörvenich-Hochkirchen 3:1
 DESCRIPTION:2. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf FuP
@@ -1311,22 +712,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-d31a6440103c9fc7eb799601065123d8
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - SG Nörvenich-Hochkirchen 3:1
-DESCRIPTION:2. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf FuP
- a: https://www.fupa.net/match/fc-golzheim-m1-sg-noervenich-hochkirchen-m1-
- 260909?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m1-sg-noervenich-hochkirchen-m1-
- 260909?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260909T193000
-DTEND;TZID=Europe/Berlin:20260909T210000
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-42a771997d894468d70b309780ef5af3
+UID:fc-bayern-muenchen-m1-fc-bayern-muenchen-m1-fk-bodglimt-m1-260910@fussb
+ all-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ FC Bayern München - FK Bodø/Glimt 5:0
 DESCRIPTION:Turnierspiel: Champions League\; Alle Infos findest du auf FuPa
@@ -1341,22 +728,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-2ddaf152c98b5b43ced6e9b5891c9787
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ FC Bayern München - FK Bodø/Glimt 5:0
-DESCRIPTION:Turnierspiel: Champions League\; Alle Infos findest du auf FuPa
- : https://www.fupa.net/match/fc-bayern-muenchen-m1-fk-bodglimt-m1-260910?u
- tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-bayern-muenchen-m1-fk-bodglimt-m1-260910?
- utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260910T210000
-DTEND;TZID=Europe/Berlin:20260910T230000
-LOCATION:Werner-Heisenberg-Allee 25\, 80939 München
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-9ded75422da3b704fd24fe96d85ac573
+UID:fc-golzheim-m2-viktoria-arnoldsweiler-m2-fc-golzheim-m2-260911@fussball
+ -kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ Viktoria Arnoldsweiler II - FC Golzheim II 3:5
 DESCRIPTION:4. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf Fu
@@ -1371,22 +744,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-2b75cc4d2035c042a56640f31fa89337
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ Viktoria Arnoldsweiler II - FC Golzheim II 3:5
-DESCRIPTION:4. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf Fu
- Pa: https://www.fupa.net/match/viktoria-arnoldsweiler-m2-fc-golzheim-m2-26
- 0911?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/viktoria-arnoldsweiler-m2-fc-golzheim-m2-260
- 911?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260911T193000
-DTEND;TZID=Europe/Berlin:20260911T210000
-LOCATION:Hölderlinweg 9\, 52353 Düren
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-e1e1be6b2bef3cb197c0df2e35a7380b
+UID:alemannia-aachen-m1-alemannia-aachen-m1-ssv-jahn-regensburg-m1-260912@f
+ ussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ Alemannia Aachen - SSV Jahn Regensburg 2:2
 DESCRIPTION:5. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https://
@@ -1401,22 +760,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-f151e721d3fd810d63399a5f7a62a88e
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ Alemannia Aachen - SSV Jahn Regensburg 2:2
-DESCRIPTION:5. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https://
- www.fupa.net/match/alemannia-aachen-m1-ssv-jahn-regensburg-m1-260912?utm_s
- ource=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/alemannia-aachen-m1-ssv-jahn-regensburg-m1-2
- 60912?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260912T163000
-DTEND;TZID=Europe/Berlin:20260912T180000
-LOCATION:Krefelder Straße 205\, 52070 Aachen
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-598f484203fbc198d7053e3f614372eb
+UID:fc-golzheim-m1-jugendsport-wenau-m1-fc-golzheim-m1-260913@fussball-kale
+ nder
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ Jugendsport Wenau - FC Golzheim 1:2
 DESCRIPTION:4. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf FuP
@@ -1431,22 +776,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-3046de30d7f4d58e538d3db7c81476da
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ Jugendsport Wenau - FC Golzheim 1:2
-DESCRIPTION:4. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf FuP
- a: https://www.fupa.net/match/jugendsport-wenau-m1-fc-golzheim-m1-260913?u
- tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/jugendsport-wenau-m1-fc-golzheim-m1-260913?u
- tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260913T150000
-DTEND;TZID=Europe/Berlin:20260913T163000
-LOCATION:An der Dostel 2\, 52379 Langerwehe
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-3cbb2f8728f8c57c20e48e6cf4b969f8
+UID:fc-bayern-muenchen-m1-sv-elversberg-m1-fc-bayern-muenchen-m1-260913@fus
+ sball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ SV 07 Elversberg - FC Bayern München 1:2
 DESCRIPTION:3. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: https
@@ -1461,22 +792,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-7a70ce1a03e24b8a1c89235f74368f77
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ SV 07 Elversberg - FC Bayern München 1:2
-DESCRIPTION:3. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: https
- ://www.fupa.net/match/sv-elversberg-m1-fc-bayern-muenchen-m1-260913?utm_so
- urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/sv-elversberg-m1-fc-bayern-muenchen-m1-26091
- 3?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260913T173000
-DTEND;TZID=Europe/Berlin:20260913T190000
-LOCATION:L112\,\, 66583 Spiesen-Elversberg
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-2c90aa20e74d6e77345358e005464d1d
+UID:alemannia-aachen-m1-fc-wuerzburger-kickers-m1-alemannia-aachen-m1-26091
+ 5@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ FC Würzburger Kickers - Alemannia Aachen 1:0
 DESCRIPTION:6. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https://
@@ -1492,23 +809,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-f0836c4f5a3d23e6c71813d89ab304e4
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ FC Würzburger Kickers - Alemannia Aachen 1:0
-DESCRIPTION:6. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https://
- www.fupa.net/match/fc-wuerzburger-kickers-m1-alemannia-aachen-m1-260915?ut
- m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-wuerzburger-kickers-m1-alemannia-aachen-m
- 1-260915?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedul
- e
-DTSTART;TZID=Europe/Berlin:20260915T190000
-DTEND;TZID=Europe/Berlin:20260915T203000
-LOCATION:Mittlerer Dallenbergweg 49\, 97082 Würzburg
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-1e686d154ef6b1e28c66beee865f325e
+UID:fc-bayern-muenchen-m1-fc-bayern-muenchen-m1-1-fc-union-berlin-m1-260918
+ @fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ FC Bayern München - 1. FC Union Berlin 7:0
 DESCRIPTION:4. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: https
@@ -1523,22 +825,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-08348f39cead70d0e45d6a6262d7333e
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ FC Bayern München - 1. FC Union Berlin 7:0
-DESCRIPTION:4. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: https
- ://www.fupa.net/match/fc-bayern-muenchen-m1-1-fc-union-berlin-m1-260918?ut
- m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-bayern-muenchen-m1-1-fc-union-berlin-m1-2
- 60918?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260918T203000
-DTEND;TZID=Europe/Berlin:20260918T220000
-LOCATION:Werner-Heisenberg-Allee 25\, 80939 München
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-7aedac68aefddef09f343d8107b3ada2
+UID:alemannia-aachen-m1-alemannia-aachen-m1-fortuna-duesseldorf-m1-260919@f
+ ussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ Alemannia Aachen - Fortuna Düsseldorf 1:0
 DESCRIPTION:7. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https://
@@ -1553,22 +841,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-1536710e64802442258c39b333caa48e
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ Alemannia Aachen - Fortuna Düsseldorf 1:0
-DESCRIPTION:7. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https://
- www.fupa.net/match/alemannia-aachen-m1-fortuna-duesseldorf-m1-260919?utm_s
- ource=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/alemannia-aachen-m1-fortuna-duesseldorf-m1-2
- 60919?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260919T140000
-DTEND;TZID=Europe/Berlin:20260919T153000
-LOCATION:Krefelder Straße 205\, 52070 Aachen
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-a51ef18a1aabc2ef0d65844604a13d22
+UID:fc-golzheim-m1-fc-golzheim-m1-hambacher-spielverein-m1-260920@fussball-
+ kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - Hambacher Spielverein 3:0
 DESCRIPTION:5. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf FuP
@@ -1583,22 +857,7 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-33184417b576f0fe5609a6d693dc3678
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - Hambacher Spielverein 3:0
-DESCRIPTION:5. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf FuP
- a: https://www.fupa.net/match/fc-golzheim-m1-hambacher-spielverein-m1-2609
- 20?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m1-hambacher-spielverein-m1-2609
- 20?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260920T150000
-DTEND;TZID=Europe/Berlin:20260920T163000
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-67e99321db46d1404b5b365778723787
+UID:fc-golzheim-m1-fc-dueren-77-m1-fc-golzheim-m1-260927@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ FC Düren 77 - FC Golzheim 1:3
 DESCRIPTION:6. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf FuP
@@ -1613,22 +872,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-4c4835cc912666f525408813cc83a273
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ FC Düren 77 - FC Golzheim 1:3
-DESCRIPTION:6. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf FuP
- a: https://www.fupa.net/match/fc-dueren-77-m1-fc-golzheim-m1-260927?utm_so
- urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-dueren-77-m1-fc-golzheim-m1-260927?utm_so
- urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20260927T150000
-DTEND;TZID=Europe/Berlin:20260927T163000
-LOCATION:Karl-Arnold-Str.7\, 52349 Düren
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-1ad28adab70e42674e45abae1af48435
+UID:alemannia-aachen-m1-kas-eupen-m1-alemannia-aachen-m1-261001@fussball-ka
+ lender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ KAS Eupen - Alemannia Aachen 3:1
 DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
@@ -1643,22 +888,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-b381a03fe0707ad761dbb77b86cc7b02
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ KAS Eupen - Alemannia Aachen 3:1
-DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/kas-eupen-m1-alemannia-aachen-m1-261001?utm_source=fup
- a&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/kas-eupen-m1-alemannia-aachen-m1-261001?utm_
- source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261001T133000
-DTEND;TZID=Europe/Berlin:20261001T150000
-LOCATION:Kehrweg 14\, 4700 Eupen
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-146809a00b9695fb4e96ef3261684c6c
+UID:fc-golzheim-m2-fc-golzheim-m2-sg-tuerkischer-sv-dueren-m2-261004@fussba
+ ll-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - SG Türkischer SV Düren II 11
  :1
@@ -1674,23 +905,7 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-0746e992c9e41cbd18c629e44a89c457
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - SG Türkischer SV Düren II 11
- :1
-DESCRIPTION:7. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf Fu
- Pa: https://www.fupa.net/match/fc-golzheim-m2-sg-tuerkischer-sv-dueren-m2-
- 261004?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m2-sg-tuerkischer-sv-dueren-m2-2
- 61004?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261004T124500
-DTEND;TZID=Europe/Berlin:20261004T141500
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-09fc742bc5929118987973e3ad825cb7
+UID:fc-golzheim-m1-fc-golzheim-m1-jsv-frenz-m1-261004@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - JSV Frenz 2:1
 DESCRIPTION:7. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf FuP
@@ -1705,22 +920,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-044945aab2a32b9d82fcbebba49193e4
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - JSV Frenz 2:1
-DESCRIPTION:7. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf FuP
- a: https://www.fupa.net/match/fc-golzheim-m1-jsv-frenz-m1-261004?utm_sourc
- e=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m1-jsv-frenz-m1-261004?utm_sourc
- e=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261004T150000
-DTEND;TZID=Europe/Berlin:20261004T163000
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-1a525115d427f4c83f14473b5e35fb92
+UID:alemannia-aachen-m1-sv-gruen-weiss-brauweiler-1961-m1-alemannia-aachen-
+ m1-261006@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ SV Grün-Weiss Brauweiler 1961 - Alemannia Aachen 0
  :5
@@ -1738,25 +939,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-084e0d41fb1025b5c4aace4c9c1aef87
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ SV Grün-Weiss Brauweiler 1961 - Alemannia Aachen 0
- :5
-DESCRIPTION:Turnierspiel: Mittelrheinpokal\; Alle Infos findest du auf FuPa
- : https://www.fupa.net/match/sv-gruen-weiss-brauweiler-1961-m1-alemannia-a
- achen-m1-261006?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_
- schedule
-URL:https://www.fupa.net/match/sv-gruen-weiss-brauweiler-1961-m1-alemannia-
- aachen-m1-261006?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match
- _schedule
-DTSTART;TZID=Europe/Berlin:20261006T180000
-DTEND;TZID=Europe/Berlin:20261006T200000
-LOCATION:Bismarckstr. 122-124\, 51373 Leverkusen
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-d2eb8549ea95a4084423b48a12f7f64d
+UID:fc-bayern-muenchen-m1-fc-augsburg-m1-fc-bayern-muenchen-m1-261010@fussb
+ all-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ FC Augsburg - FC Bayern München 2:2
 DESCRIPTION:5. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: https
@@ -1771,22 +955,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-cd6038e494594fa909ffb51e90f4bbdd
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ FC Augsburg - FC Bayern München 2:2
-DESCRIPTION:5. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: https
- ://www.fupa.net/match/fc-augsburg-m1-fc-bayern-muenchen-m1-261010?utm_sour
- ce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-augsburg-m1-fc-bayern-muenchen-m1-261010?
- utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261010T153000
-DTEND;TZID=Europe/Berlin:20261010T170000
-LOCATION:Bürgermeister-Ulrich-Straße 90\, 86199 Augsburg
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-db4370bbbce10cdcdde830b88a20a719
+UID:fc-golzheim-m1-schwarz-weiss-huchem-stammeln-m1-fc-golzheim-m1-261011@f
+ ussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ Schwarz-Weiß Huchem-Stammeln - FC Golzheim 3:2
 DESCRIPTION:8. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf FuP
@@ -1803,24 +973,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-fd1d4837805a6b95b785e416a70224a2
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ Schwarz-Weiß Huchem-Stammeln - FC Golzheim 3:2
-DESCRIPTION:8. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf FuP
- a: https://www.fupa.net/match/schwarz-weiss-huchem-stammeln-m1-fc-golzheim
- -m1-261011?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_sched
- ule
-URL:https://www.fupa.net/match/schwarz-weiss-huchem-stammeln-m1-fc-golzheim
- -m1-261011?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_sched
- ule
-DTSTART;TZID=Europe/Berlin:20261011T150000
-DTEND;TZID=Europe/Berlin:20261011T163000
-LOCATION:Karolinger Straße\, 52382 Niederzier
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-0a55292ec11b4066d5fb8e9a15563f87
+UID:fc-golzheim-m2-sportfreunde-dueren-m2-fc-golzheim-m2-261011@fussball-ka
+ lender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ Sportfreunde Düren II - FC Golzheim II 3:1
 DESCRIPTION:8. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf Fu
@@ -1835,22 +989,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-8c80e31fe7a6bf29dd0fef9f68f36c95
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ Sportfreunde Düren II - FC Golzheim II 3:1
-DESCRIPTION:8. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf Fu
- Pa: https://www.fupa.net/match/sportfreunde-dueren-m2-fc-golzheim-m2-26101
- 1?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/sportfreunde-dueren-m2-fc-golzheim-m2-261011
- ?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261011T150000
-DTEND;TZID=Europe/Berlin:20261011T163000
-LOCATION:Blücherstraße 58\, 52351 Düren
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-e3963ceec6c64e11a57468462850ec65
+UID:alemannia-aachen-m1-alemannia-aachen-m1-fc-viktoria-koeln-m1-261011@fus
+ sball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ Alemannia Aachen - Viktoria Köln 2:5
 DESCRIPTION:8. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https://
@@ -1865,22 +1005,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-185b5e3ae21e7200abe3044f832221cd
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ Alemannia Aachen - Viktoria Köln 2:5
-DESCRIPTION:8. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https://
- www.fupa.net/match/alemannia-aachen-m1-fc-viktoria-koeln-m1-261011?utm_sou
- rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/alemannia-aachen-m1-fc-viktoria-koeln-m1-261
- 011?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261011T163000
-DTEND;TZID=Europe/Berlin:20261011T180000
-LOCATION:Krefelder Straße 205\, 52070 Aachen
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-f4af65dabc7d563cba74e36d4a47b87f
+UID:fc-bayern-muenchen-m1-viking-fk-stavanger-m1-fc-bayern-muenchen-m1-2610
+ 13_2@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ Viking FK Stavanger - FC Bayern München 3:3
 DESCRIPTION:Turnierspiel: Champions League\; Alle Infos findest du auf FuPa
@@ -1897,24 +1023,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-f985c3b5dc348835fa6838b7cc05b980
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ Viking FK Stavanger - FC Bayern München 3:3
-DESCRIPTION:Turnierspiel: Champions League\; Alle Infos findest du auf FuPa
- : https://www.fupa.net/match/viking-fk-stavanger-m1-fc-bayern-muenchen-m1-
- 261013_2?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedul
- e
-URL:https://www.fupa.net/match/viking-fk-stavanger-m1-fc-bayern-muenchen-m1
- -261013_2?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedu
- le
-DTSTART;TZID=Europe/Berlin:20261013T210000
-DTEND;TZID=Europe/Berlin:20261013T230000
-LOCATION:Jåttåvågveien 11A\, 4020  Stavanger 
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-e3a219e77b39984e9b86b80ce2255d48
+UID:alemannia-aachen-m1-sv-wehen-wiesbaden-m1-alemannia-aachen-m1-261014@fu
+ ssball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ SV Wehen Wiesbaden - Alemannia Aachen 3:0
 DESCRIPTION:9. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https://
@@ -1929,22 +1039,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-c3771d815e52090dc6ef5a3fa6903905
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ SV Wehen Wiesbaden - Alemannia Aachen 3:0
-DESCRIPTION:9. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https://
- www.fupa.net/match/sv-wehen-wiesbaden-m1-alemannia-aachen-m1-261014?utm_so
- urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/sv-wehen-wiesbaden-m1-alemannia-aachen-m1-26
- 1014?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261014T190000
-DTEND;TZID=Europe/Berlin:20261014T203000
-LOCATION:Berliner Straße 9\, 65189 Wiesbaden
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-0eb8dc7783feab2a168f96bc5a26d0e5
+UID:fc-golzheim-m2-viktoria-schlich-m1-fc-golzheim-m2-261015@fussball-kalen
+ der
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ Viktoria Schlich - FC Golzheim II 1:0
 DESCRIPTION:6. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf Fu
@@ -1959,22 +1055,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-60018a9715a605259c23fb6b8ee4ee21
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ Viktoria Schlich - FC Golzheim II 1:0
-DESCRIPTION:6. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf Fu
- Pa: https://www.fupa.net/match/viktoria-schlich-m1-fc-golzheim-m2-261015?u
- tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/viktoria-schlich-m1-fc-golzheim-m2-261015?ut
- m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261015T193000
-DTEND;TZID=Europe/Berlin:20261015T210000
-LOCATION:Schmiedestraße 50\, 52379 Langerwehe
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-7572ce6cb8a556a896ad9a98a0c3f113
+UID:alemannia-aachen-m1-alemannia-aachen-m1-fc-hansa-rostock-m1-261017@fuss
+ ball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ Alemannia Aachen - F.C. Hansa Rostock 2:0
 DESCRIPTION:10. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
@@ -1989,22 +1071,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-34d23b876690f80a5dc3fd4578353ce8
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ Alemannia Aachen - F.C. Hansa Rostock 2:0
-DESCRIPTION:10. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/alemannia-aachen-m1-fc-hansa-rostock-m1-261017?utm_sou
- rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/alemannia-aachen-m1-fc-hansa-rostock-m1-2610
- 17?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261017T140000
-DTEND;TZID=Europe/Berlin:20261017T153000
-LOCATION:Krefelder Straße 205\, 52070 Aachen
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-ef4ae29645c532deebaac37a6c998aad
+UID:fc-bayern-muenchen-m1-fc-bayern-muenchen-m1-rb-leipzig-m1-261017@fussba
+ ll-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ FC Bayern München - RB Leipzig 6:1
 DESCRIPTION:6. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: https
@@ -2019,22 +1087,7 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-944d648f29accf2206360101dbc4073c
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ FC Bayern München - RB Leipzig 6:1
-DESCRIPTION:6. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: https
- ://www.fupa.net/match/fc-bayern-muenchen-m1-rb-leipzig-m1-261017?utm_sourc
- e=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-bayern-muenchen-m1-rb-leipzig-m1-261017?u
- tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261017T183000
-DTEND;TZID=Europe/Berlin:20261017T200000
-LOCATION:Werner-Heisenberg-Allee 25\, 80939 München
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-6d0b0774235f3fdbe6127482a63d63d5
+UID:fc-golzheim-m2-fc-golzheim-m2-sv-merken-m1-261018@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - SV Merken 1:3
 DESCRIPTION:9. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf Fu
@@ -2049,22 +1102,7 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-5a21b665d4219a94922ac30e8a337690
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - SV Merken 1:3
-DESCRIPTION:9. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf Fu
- Pa: https://www.fupa.net/match/fc-golzheim-m2-sv-merken-m1-261018?utm_sour
- ce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m2-sv-merken-m1-261018?utm_sourc
- e=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261018T124500
-DTEND;TZID=Europe/Berlin:20261018T141500
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-35c7eb71db48a9642e78a7fc5ca8a0e5
+UID:fc-golzheim-m1-fc-golzheim-m1-sv-siersdorf-m1-261018@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - SV Siersdorf 2:0
 DESCRIPTION:9. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf FuP
@@ -2079,22 +1117,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-ee046ca9e912892aadaac4804fc66c61
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - SV Siersdorf 2:0
-DESCRIPTION:9. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf FuP
- a: https://www.fupa.net/match/fc-golzheim-m1-sv-siersdorf-m1-261018?utm_so
- urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m1-sv-siersdorf-m1-261018?utm_so
- urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261018T150000
-DTEND;TZID=Europe/Berlin:20261018T163000
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-5b190b1c2ccbdc5043328db3b7bbd778
+UID:fc-bayern-muenchen-m1-fc-bayern-muenchen-m1-fc-arsenal-m1-261021@fussba
+ ll-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ FC Bayern München - FC Arsenal 2:2
 DESCRIPTION:Turnierspiel: Champions League\; Alle Infos findest du auf FuPa
@@ -2109,22 +1133,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-9fdeeab727e05cf99768364b8c72864d
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ FC Bayern München - FC Arsenal 2:2
-DESCRIPTION:Turnierspiel: Champions League\; Alle Infos findest du auf FuPa
- : https://www.fupa.net/match/fc-bayern-muenchen-m1-fc-arsenal-m1-261021?ut
- m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-bayern-muenchen-m1-fc-arsenal-m1-261021?u
- tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261021T210000
-DTEND;TZID=Europe/Berlin:20261021T230000
-LOCATION:Werner-Heisenberg-Allee 25\, 80939 München
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-adc097a00c64c90686ab8aedfc411c0d
+UID:alemannia-aachen-m1-vfb-stuttgart-m2-alemannia-aachen-m1-261024@fussbal
+ l-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ VfB Stuttgart II - Alemannia Aachen 1:2
 DESCRIPTION:11. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
@@ -2139,22 +1149,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-5db61520273002d2c7bc50815af6e316
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ VfB Stuttgart II - Alemannia Aachen 1:2
-DESCRIPTION:11. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/vfb-stuttgart-m2-alemannia-aachen-m1-261024?utm_source
- =fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/vfb-stuttgart-m2-alemannia-aachen-m1-261024?
- utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261024T163000
-DTEND;TZID=Europe/Berlin:20261024T180000
-LOCATION:Mercedesstraße 109\, 70372 Stuttgart
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-f569b954658d6d42dce1855547fb9f61
+UID:fc-golzheim-m1-viktoria-koslar-m1-fc-golzheim-m1-261024@fussball-kalend
+ er
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ Viktoria Koslar - FC Golzheim 0:5
 DESCRIPTION:10. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
@@ -2169,22 +1165,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-faf8202eb3cb750b7d7615bb06a30697
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ Viktoria Koslar - FC Golzheim 0:5
-DESCRIPTION:10. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
- Pa: https://www.fupa.net/match/viktoria-koslar-m1-fc-golzheim-m1-261024?ut
- m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/viktoria-koslar-m1-fc-golzheim-m1-261024?utm
- _source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261024T173000
-DTEND;TZID=Europe/Berlin:20261024T190000
-LOCATION:Genossenschaftsweg\, 52428 Jülich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-f40c6cdc1f03db520de5ef40296fe019
+UID:fc-golzheim-m2-sv-morschenich-m1-fc-golzheim-m2-261025@fussball-kalende
+ r
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ SV Morschenich - FC Golzheim II 8:4
 DESCRIPTION:10. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
@@ -2199,22 +1181,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-eaa98980abb2735e40c99f7a94f14e31
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ SV Morschenich - FC Golzheim II 8:4
-DESCRIPTION:10. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
- uPa: https://www.fupa.net/match/sv-morschenich-m1-fc-golzheim-m2-261025?ut
- m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/sv-morschenich-m1-fc-golzheim-m2-261025?utm_
- source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261025T150000
-DTEND;TZID=Europe/Berlin:20261025T163000
-LOCATION:Ellener Allee 1\, 52399 Morschenich-Neu
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-92ce34528ec58c276b9436450971c287
+UID:fc-bayern-muenchen-m1-sc-freiburg-m1-fc-bayern-muenchen-m1-261025@fussb
+ all-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ SC Freiburg - FC Bayern München 1:3
 DESCRIPTION:7. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: https
@@ -2229,22 +1197,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-1ec344f9f4fa01830b251f24c39f0d9a
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ SC Freiburg - FC Bayern München 1:3
-DESCRIPTION:7. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: https
- ://www.fupa.net/match/sc-freiburg-m1-fc-bayern-muenchen-m1-261025?utm_sour
- ce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/sc-freiburg-m1-fc-bayern-muenchen-m1-261025?
- utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261025T173000
-DTEND;TZID=Europe/Berlin:20261025T190000
-LOCATION:Achim-Stocker-Straße 1\, 79108 Freiburg
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-d8c623232f8345736a9b1e1d597a8438
+UID:fc-bayern-muenchen-m1-fc-bayern-muenchen-m1-1-fc-magdeburg-m1-261028@fu
+ ssball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ FC Bayern München - 1. FC Magdeburg 6:1
 DESCRIPTION:Turnierspiel: DFB-Pokal\; Alle Infos findest du auf FuPa: https
@@ -2259,22 +1213,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-ee9ecb96f22e532907fa46a4357e0c9c
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ FC Bayern München - 1. FC Magdeburg 6:1
-DESCRIPTION:Turnierspiel: DFB-Pokal\; Alle Infos findest du auf FuPa: https
- ://www.fupa.net/match/fc-bayern-muenchen-m1-1-fc-magdeburg-m1-261028?utm_s
- ource=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-bayern-muenchen-m1-1-fc-magdeburg-m1-2610
- 28?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261028T204500
-DTEND;TZID=Europe/Berlin:20261028T224500
-LOCATION:Werner-Heisenberg-Allee 25\, 80939 München
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-12fdd037381e80e5de06b15198c27bed
+UID:fc-bayern-muenchen-m1-fc-bayern-muenchen-m1-borussia-dortmund-m1-261031
+ @fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ FC Bayern München - Borussia Dortmund 2:2
 DESCRIPTION:8. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: https
@@ -2289,22 +1229,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-60210e37b044667fd7416f63769ce14c
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ FC Bayern München - Borussia Dortmund 2:2
-DESCRIPTION:8. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: https
- ://www.fupa.net/match/fc-bayern-muenchen-m1-borussia-dortmund-m1-261031?ut
- m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-bayern-muenchen-m1-borussia-dortmund-m1-2
- 61031?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261031T183000
-DTEND;TZID=Europe/Berlin:20261031T200000
-LOCATION:Werner-Heisenberg-Allee 25\, 80939 München
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-80946cb99e84549e3d601c575e61ee56
+UID:alemannia-aachen-m1-alemannia-aachen-m1-sc-preussen-muenster-m1-261101@
+ fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ Alemannia Aachen - SC Preußen Münster 2:1
 DESCRIPTION:12. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
@@ -2319,22 +1245,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-bbf2c7557e14ca668f9c5e7b989d415e
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ Alemannia Aachen - SC Preußen Münster 2:1
-DESCRIPTION:12. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/alemannia-aachen-m1-sc-preussen-muenster-m1-261101?utm
- _source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/alemannia-aachen-m1-sc-preussen-muenster-m1-
- 261101?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261101T193000
-DTEND;TZID=Europe/Berlin:20261101T210000
-LOCATION:Krefelder Straße 205\, 52070 Aachen
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-5fad7fd9f3f7585ad06c43b893536eb1
+UID:fc-bayern-muenchen-m1-atletico-madrid-m1-fc-bayern-muenchen-m1-261103@f
+ ussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ Atlético Madrid - FC Bayern München 0:2
 DESCRIPTION:Turnierspiel: Champions League\; Alle Infos findest du auf FuPa
@@ -2349,22 +1261,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-f3a1e7218059163ff1f68dc8da93f970
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ Atlético Madrid - FC Bayern München 0:2
-DESCRIPTION:Turnierspiel: Champions League\; Alle Infos findest du auf FuPa
- : https://www.fupa.net/match/atletico-madrid-m1-fc-bayern-muenchen-m1-2611
- 03?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/atletico-madrid-m1-fc-bayern-muenchen-m1-261
- 103?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261103T210000
-DTEND;TZID=Europe/Berlin:20261103T230000
-LOCATION:Avenida de Luis Aragones\, 28022 Madrid
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-4c8064b05212876c8b146b99bc72e03c
+UID:alemannia-aachen-m1-rot-weiss-essen-m1-alemannia-aachen-m1-261107@fussb
+ all-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ Rot-Weiss Essen - Alemannia Aachen 1:0
 DESCRIPTION:13. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
@@ -2379,22 +1277,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-c2c80531ef26e4b1a684c215d0bc6dff
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ Rot-Weiss Essen - Alemannia Aachen 1:0
-DESCRIPTION:13. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/rot-weiss-essen-m1-alemannia-aachen-m1-261107?utm_sour
- ce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/rot-weiss-essen-m1-alemannia-aachen-m1-26110
- 7?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261107T140000
-DTEND;TZID=Europe/Berlin:20261107T153000
-LOCATION:Hafenstraße 97A\, 45356 Essen
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-225a1c936abeda79c74dd383838259c8
+UID:fc-bayern-muenchen-m1-fsv-mainz-05-m1-fc-bayern-muenchen-m1-261107@fuss
+ ball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ FSV Mainz 05 - FC Bayern München 1:2
 DESCRIPTION:9. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: https
@@ -2409,22 +1293,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-4dd2e29f69e212c8f6f5bfd5771378ce
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ FSV Mainz 05 - FC Bayern München 1:2
-DESCRIPTION:9. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: https
- ://www.fupa.net/match/fsv-mainz-05-m1-fc-bayern-muenchen-m1-261107?utm_sou
- rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fsv-mainz-05-m1-fc-bayern-muenchen-m1-261107
- ?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261107T153000
-DTEND;TZID=Europe/Berlin:20261107T170000
-LOCATION:Eugen-Salomon-Straße 1\, 55128 Mainz
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-0285834aac6ba6f7ddaa01d25eacf5d3
+UID:fc-golzheim-m2-fc-golzheim-m2-tus-langerwehe-m2-261108@fussball-kalende
+ r
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - TuS Langerwehe II 7:3
 DESCRIPTION:11. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
@@ -2439,22 +1309,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-4d256bb3acd71f41073d137b20e2b37a
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - TuS Langerwehe II 7:3
-DESCRIPTION:11. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
- uPa: https://www.fupa.net/match/fc-golzheim-m2-tus-langerwehe-m2-261108?ut
- m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m2-tus-langerwehe-m2-261108?utm_
- source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261108T121500
-DTEND;TZID=Europe/Berlin:20261108T134500
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-b1c427b06994adb433c75e7ef440fe34
+UID:fc-golzheim-m1-fc-golzheim-m1-gruen-weiss-welldorf-guesten-m1-261108@fu
+ ssball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - Grün-Weiß Welldorf-Güsten 2:2
 DESCRIPTION:11. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
@@ -2471,24 +1327,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-bdeec705662504cc95b034e5fb57a366
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - Grün-Weiß Welldorf-Güsten 2:2
-DESCRIPTION:11. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
- Pa: https://www.fupa.net/match/fc-golzheim-m1-gruen-weiss-welldorf-guesten
- -m1-261108?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_sched
- ule
-URL:https://www.fupa.net/match/fc-golzheim-m1-gruen-weiss-welldorf-guesten-
- m1-261108?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedu
- le
-DTSTART;TZID=Europe/Berlin:20261108T143000
-DTEND;TZID=Europe/Berlin:20261108T160000
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-33893ae95985b8d5f7ab1e0e6602be15
+UID:alemannia-aachen-m1-fc-wegberg-beeck-m1-alemannia-aachen-m1-261111@fuss
+ ball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ FC Wegberg-Beeck - Alemannia Aachen 0:5
 DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
@@ -2503,22 +1343,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-18262f4ebc56cfd00052b33dd6c4beaa
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ FC Wegberg-Beeck - Alemannia Aachen 0:5
-DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/fc-wegberg-beeck-m1-alemannia-aachen-m1-261111?utm_sou
- rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-wegberg-beeck-m1-alemannia-aachen-m1-2611
- 11?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261111T190000
-DTEND;TZID=Europe/Berlin:20261111T203000
-LOCATION:Kiefernweg 87-89\, 41844 Wegberg
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-72a38846bc183651605b99f3fa1ae64f
+UID:fc-golzheim-m2-schwarz-weiss-dueren-m2-fc-golzheim-m2-261115@fussball-k
+ alender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ Schwarz-Weiß Düren II - FC Golzheim II
 DESCRIPTION:12. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
@@ -2533,22 +1359,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-185e4eeab221175a5fd257425a634413
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ Schwarz-Weiß Düren II - FC Golzheim II
-DESCRIPTION:12. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
- uPa: https://www.fupa.net/match/schwarz-weiss-dueren-m2-fc-golzheim-m2-261
- 115?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/schwarz-weiss-dueren-m2-fc-golzheim-m2-26111
- 5?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261115T130000
-DTEND;TZID=Europe/Berlin:20261115T143000
-LOCATION:Am Jugendstadion 2\, 52355 Düren
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-f8ec70b7ba201a7a193be4832120f8c7
+UID:fc-golzheim-m1-schwarz-weiss-dueren-m1-fc-golzheim-m1-261115@fussball-k
+ alender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ Schwarz-Weiß Düren - FC Golzheim
 DESCRIPTION:12. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
@@ -2563,22 +1375,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-57d0c7d76385a6a01be8b535ed806d24
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ Schwarz-Weiß Düren - FC Golzheim
-DESCRIPTION:12. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
- Pa: https://www.fupa.net/match/schwarz-weiss-dueren-m1-fc-golzheim-m1-2611
- 15?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/schwarz-weiss-dueren-m1-fc-golzheim-m1-26111
- 5?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261115T153000
-DTEND;TZID=Europe/Berlin:20261115T170000
-LOCATION:Am Jugendstadion 2\, 52355 Düren
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-6a9f7ff3219b28efe15d7b4ab847f54c
+UID:alemannia-aachen-m1-fc-hennef-05-m1-alemannia-aachen-m1-261118@fussball
+ -kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ FC Hennef 05 - Alemannia Aachen
 DESCRIPTION:Turnierspiel: Mittelrheinpokal\; Alle Infos findest du auf FuPa
@@ -2593,22 +1391,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-94e44b402a9ec5f46e0d3cf06766b42f
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ FC Hennef 05 - Alemannia Aachen
-DESCRIPTION:Turnierspiel: Mittelrheinpokal\; Alle Infos findest du auf FuPa
- : https://www.fupa.net/match/fc-hennef-05-m1-alemannia-aachen-m1-261118?ut
- m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-hennef-05-m1-alemannia-aachen-m1-261118?u
- tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261118T190000
-DTEND;TZID=Europe/Berlin:20261118T210000
-LOCATION:Fritz-Jacobi-Straße 24\, 53773 Hennef
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-89bfc6cf92cfbb1c9ec1125a723d4848
+UID:fc-bayern-muenchen-m1-fc-bayern-muenchen-m1-1-fc-koeln-m1-261120@fussba
+ ll-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ FC Bayern München - 1. FC Köln
 DESCRIPTION:10. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
@@ -2623,22 +1407,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-cc4298b5e2529c91442a1851c4844b89
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ FC Bayern München - 1. FC Köln
-DESCRIPTION:10. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
- s://www.fupa.net/match/fc-bayern-muenchen-m1-1-fc-koeln-m1-261120?utm_sour
- ce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-bayern-muenchen-m1-1-fc-koeln-m1-261120?u
- tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261120T203000
-DTEND;TZID=Europe/Berlin:20261120T220000
-LOCATION:Werner-Heisenberg-Allee 25\, 80939 München
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-c951dd680a0432be674ba3836b3c755a
+UID:alemannia-aachen-m1-alemannia-aachen-m1-sv-waldhof-mannheim-m1-261121@f
+ ussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ Alemannia Aachen - SV Waldhof Mannheim
 DESCRIPTION:14. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
@@ -2653,22 +1423,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-cd247cbf155e0826cbb10efc8158b06c
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ Alemannia Aachen - SV Waldhof Mannheim
-DESCRIPTION:14. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/alemannia-aachen-m1-sv-waldhof-mannheim-m1-261121?utm_
- source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/alemannia-aachen-m1-sv-waldhof-mannheim-m1-2
- 61121?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261121T163000
-DTEND;TZID=Europe/Berlin:20261121T180000
-LOCATION:Krefelder Straße 205\, 52070 Aachen
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-4f3fd50183ff3e2ec06e83894ee5239c
+UID:fc-bayern-muenchen-m1-osc-lille-m1-fc-bayern-muenchen-m1-261125@fussbal
+ l-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ OSC Lille - FC Bayern München
 DESCRIPTION:Turnierspiel: Champions League\; Alle Infos findest du auf FuPa
@@ -2683,22 +1439,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-4cc3bea1265790bc43cfaa48347e3cc9
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ OSC Lille - FC Bayern München
-DESCRIPTION:Turnierspiel: Champions League\; Alle Infos findest du auf FuPa
- : https://www.fupa.net/match/osc-lille-m1-fc-bayern-muenchen-m1-261125?utm
- _source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/osc-lille-m1-fc-bayern-muenchen-m1-261125?ut
- m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261125T210000
-DTEND;TZID=Europe/Berlin:20261125T230000
-LOCATION:Boulevard de Tournai 261\, 59658 Villeneuve
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-1bc3c6b2363fb984362eb9c1a63f42d9
+UID:alemannia-aachen-m1-1-fc-saarbruecken-m1-alemannia-aachen-m1-261128@fus
+ sball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ 1. FC Saarbrücken - Alemannia Aachen
 DESCRIPTION:15. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
@@ -2713,22 +1455,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-555c0d5527c59710ece675ca11ddfaab
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ 1. FC Saarbrücken - Alemannia Aachen
-DESCRIPTION:15. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/1-fc-saarbruecken-m1-alemannia-aachen-m1-261128?utm_so
- urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/1-fc-saarbruecken-m1-alemannia-aachen-m1-261
- 128?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261128T140000
-DTEND;TZID=Europe/Berlin:20261128T153000
-LOCATION:Camphauser Straße 26\, 66113 Saarbrücken
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-ddfcc4b97b36f53beb09caca4cb0a5bf
+UID:fc-bayern-muenchen-m1-hamburger-sv-m1-fc-bayern-muenchen-m1-261128@fuss
+ ball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ Hamburger SV - FC Bayern München
 DESCRIPTION:11. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
@@ -2743,22 +1471,7 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-e402f9abdb9c87bfd7dc168c7a9f1d6d
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ Hamburger SV - FC Bayern München
-DESCRIPTION:11. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
- s://www.fupa.net/match/hamburger-sv-m1-fc-bayern-muenchen-m1-261128?utm_so
- urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/hamburger-sv-m1-fc-bayern-muenchen-m1-261128
- ?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261128T153000
-DTEND;TZID=Europe/Berlin:20261128T170000
-LOCATION:Sylvesterallee 7\, 22525 Hamburg
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-e9264bcfd2b5b74795b2635868b050a1
+UID:fc-golzheim-m2-fc-golzheim-m2-csv-dueren-m1-261129@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - CSV Düren
 DESCRIPTION:13. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
@@ -2773,22 +1486,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-0321ef9d3466438df0f83478a2baa00a
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - CSV Düren
-DESCRIPTION:13. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
- uPa: https://www.fupa.net/match/fc-golzheim-m2-csv-dueren-m1-261129?utm_so
- urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m2-csv-dueren-m1-261129?utm_sour
- ce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261129T121500
-DTEND;TZID=Europe/Berlin:20261129T134500
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-e937a5eff13598b97a8ec58eac601d9a
+UID:fc-golzheim-m1-fc-golzheim-m1-borussia-freialdenhoven-m1-261129@fussbal
+ l-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - Borussia Freialdenhoven
 DESCRIPTION:13. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
@@ -2803,22 +1502,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-74d5dfc9806c403a5a3b34ff9bc2b633
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - Borussia Freialdenhoven
-DESCRIPTION:13. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
- Pa: https://www.fupa.net/match/fc-golzheim-m1-borussia-freialdenhoven-m1-2
- 61129?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m1-borussia-freialdenhoven-m1-26
- 1129?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261129T143000
-DTEND;TZID=Europe/Berlin:20261129T160000
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-eb73e0ea0ad0d83e528e7e187aa6361e
+UID:fc-bayern-muenchen-m1-fc-bayern-muenchen-m1-hertha-bsc-m1-261201@fussba
+ ll-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ FC Bayern München - Hertha BSC
 DESCRIPTION:Turnierspiel: DFB-Pokal\; Alle Infos findest du auf FuPa: https
@@ -2833,22 +1518,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-1536031e8b5bcb269767c74e7ecefc67
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ FC Bayern München - Hertha BSC
-DESCRIPTION:Turnierspiel: DFB-Pokal\; Alle Infos findest du auf FuPa: https
- ://www.fupa.net/match/fc-bayern-muenchen-m1-hertha-bsc-m1-261201?utm_sourc
- e=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-bayern-muenchen-m1-hertha-bsc-m1-261201?u
- tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261201T204500
-DTEND;TZID=Europe/Berlin:20261201T224500
-LOCATION:Werner-Heisenberg-Allee 25\, 80939 München
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-9a9fa44d2b17f7c4b5a12ca1afa5ea29
+UID:fc-bayern-muenchen-m1-fc-bayern-muenchen-m1-sc-paderborn-07-m1-261204@f
+ ussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ FC Bayern München - SC Paderborn 07
 DESCRIPTION:12. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
@@ -2863,22 +1534,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-6b0ece08fedf54200f3f99c4700e6153
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ FC Bayern München - SC Paderborn 07
-DESCRIPTION:12. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
- s://www.fupa.net/match/fc-bayern-muenchen-m1-sc-paderborn-07-m1-261204?utm
- _source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-bayern-muenchen-m1-sc-paderborn-07-m1-261
- 204?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261204T203000
-DTEND;TZID=Europe/Berlin:20261204T220000
-LOCATION:Werner-Heisenberg-Allee 25\, 80939 München
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-f0fa5fa27da769df28e80d50b0182808
+UID:alemannia-aachen-m1-alemannia-aachen-m1-tsv-havelse-m1-261205@fussball-
+ kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ Alemannia Aachen - TSV Havelse
 DESCRIPTION:16. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
@@ -2893,22 +1550,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-5245024a26084d8d8656f59397bade39
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ Alemannia Aachen - TSV Havelse
-DESCRIPTION:16. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/alemannia-aachen-m1-tsv-havelse-m1-261205?utm_source=f
- upa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/alemannia-aachen-m1-tsv-havelse-m1-261205?ut
- m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261205T140000
-DTEND;TZID=Europe/Berlin:20261205T153000
-LOCATION:Krefelder Straße 205\, 52070 Aachen
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-8d76f8f1b42c040b2e3ced9b3be933e0
+UID:fc-golzheim-m2-fc-golzheim-m2-rhenania-girbelsrath-m1-261206@fussball-k
+ alender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - Rhenania Girbelsrath
 DESCRIPTION:14. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
@@ -2923,22 +1566,7 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-8cd51b74f953e2adcb19f01e77c79353
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - Rhenania Girbelsrath
-DESCRIPTION:14. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
- uPa: https://www.fupa.net/match/fc-golzheim-m2-rhenania-girbelsrath-m1-261
- 206?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m2-rhenania-girbelsrath-m1-26120
- 6?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261206T121500
-DTEND;TZID=Europe/Berlin:20261206T134500
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-a5a42fed3ce77b98bcd738d4073cd9e6
+UID:fc-golzheim-m1-fc-golzheim-m1-bc-oberzier-m1-261206@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - BC Oberzier
 DESCRIPTION:14. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
@@ -2953,22 +1581,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-d2d78dd6b197da9d26953bcaca8e5798
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - BC Oberzier
-DESCRIPTION:14. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
- Pa: https://www.fupa.net/match/fc-golzheim-m1-bc-oberzier-m1-261206?utm_so
- urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m1-bc-oberzier-m1-261206?utm_sou
- rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261206T143000
-DTEND;TZID=Europe/Berlin:20261206T160000
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-b2a5265e5b51d0bb21da81c0528c5795
+UID:fc-bayern-muenchen-m1-fc-bayern-muenchen-m1-sk-slavia-prag-m1-261208@fu
+ ssball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ FC Bayern München - SK Slavia Prag
 DESCRIPTION:Turnierspiel: Champions League\; Alle Infos findest du auf FuPa
@@ -2983,22 +1597,7 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-f11ceeaf1e820ad76348123dc0c8e1a1
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ FC Bayern München - SK Slavia Prag
-DESCRIPTION:Turnierspiel: Champions League\; Alle Infos findest du auf FuPa
- : https://www.fupa.net/match/fc-bayern-muenchen-m1-sk-slavia-prag-m1-26120
- 8?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-bayern-muenchen-m1-sk-slavia-prag-m1-2612
- 08?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261208T210000
-DTEND;TZID=Europe/Berlin:20261208T230000
-LOCATION:Werner-Heisenberg-Allee 25\, 80939 München
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-963097e938eddcb4d0d494289b0944b3
+UID:fc-golzheim-m1-sc-juelich-m1-fc-golzheim-m1-261211@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ SC Jülich/SV Hoengen - FC Golzheim
 DESCRIPTION:15. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
@@ -3013,22 +1612,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-707a4f23adb3277ce5a287358ba28e85
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ SC Jülich/SV Hoengen - FC Golzheim
-DESCRIPTION:15. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
- Pa: https://www.fupa.net/match/sc-juelich-m1-fc-golzheim-m1-261211?utm_sou
- rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/sc-juelich-m1-fc-golzheim-m1-261211?utm_sour
- ce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261211T193000
-DTEND;TZID=Europe/Berlin:20261211T210000
-LOCATION:Stadionweg 1\, 52428 Jülich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-b551019d8f86735aaa61b8dbe586425b
+UID:alemannia-aachen-m1-sg-sonnenhof-grossaspach-m1-alemannia-aachen-m1-261
+ 212@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ SG Sonnenhof Großaspach - Alemannia Aachen
 DESCRIPTION:17. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
@@ -3044,23 +1629,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-500f2ddc8d9925f6e39661b1b1cd55d1
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ SG Sonnenhof Großaspach - Alemannia Aachen
-DESCRIPTION:17. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/sg-sonnenhof-grossaspach-m1-alemannia-aachen-m1-261212
- ?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/sg-sonnenhof-grossaspach-m1-alemannia-aachen
- -m1-261212?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_sched
- ule
-DTSTART;TZID=Europe/Berlin:20261212T140000
-DTEND;TZID=Europe/Berlin:20261212T153000
-LOCATION:Im Fautenhau 1\, 71546 Großaspach
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-48f2545845eef8912e3ebf77ea189c07
+UID:fc-golzheim-m2-fc-indenaltdorf-m1-fc-golzheim-m2-261213@fussball-kalend
+ er
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ FC Inden/Altdorf - FC Golzheim II
 DESCRIPTION:15. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
@@ -3075,22 +1645,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-4ac1bca5283b2e9fb03461253e68cf0f
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ FC Inden/Altdorf - FC Golzheim II
-DESCRIPTION:15. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
- uPa: https://www.fupa.net/match/fc-indenaltdorf-m1-fc-golzheim-m2-261213?u
- tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-indenaltdorf-m1-fc-golzheim-m2-261213?utm
- _source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261213T133000
-DTEND;TZID=Europe/Berlin:20261213T150000
-LOCATION:Merödgener Straße 35\, 52459 Inden
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-54c87f6db1745b3927219cb790c369f4
+UID:fc-bayern-muenchen-m1-tsg-1899-hoffenheim-m1-fc-bayern-muenchen-m1-2612
+ 13@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ TSG 1899 Hoffenheim - FC Bayern München
 DESCRIPTION:13. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
@@ -3105,22 +1661,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-cf5d4f99c6e70a746e75fae6323ccaba
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ TSG 1899 Hoffenheim - FC Bayern München
-DESCRIPTION:13. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
- s://www.fupa.net/match/tsg-1899-hoffenheim-m1-fc-bayern-muenchen-m1-261213
- ?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/tsg-1899-hoffenheim-m1-fc-bayern-muenchen-m1
- -261213?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261213T173000
-DTEND;TZID=Europe/Berlin:20261213T190000
-LOCATION:Dietmar-Hopp-Straße 1\, 74889 Sinsheim
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-285838a317d4494c67eb4a63339ffa0e
+UID:fc-bayern-muenchen-m1-fc-bayern-muenchen-m1-sv-werder-bremen-m1-261218@
+ fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ FC Bayern München - SV Werder Bremen
 DESCRIPTION:14. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
@@ -3135,22 +1677,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-e59e696f2070e03a8fc66c5bf0eb42b9
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ FC Bayern München - SV Werder Bremen
-DESCRIPTION:14. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
- s://www.fupa.net/match/fc-bayern-muenchen-m1-sv-werder-bremen-m1-261218?ut
- m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-bayern-muenchen-m1-sv-werder-bremen-m1-26
- 1218?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261218T203000
-DTEND;TZID=Europe/Berlin:20261218T220000
-LOCATION:Werner-Heisenberg-Allee 25\, 80939 München
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-1f3dc15159b1964e5e326729faf2ff84
+UID:alemannia-aachen-m1-msv-duisburg-m1-alemannia-aachen-m1-261219@fussball
+ -kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ MSV Duisburg - Alemannia Aachen
 DESCRIPTION:18. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
@@ -3165,22 +1693,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-bb596f2b0580be922791e87587699ed2
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ MSV Duisburg - Alemannia Aachen
-DESCRIPTION:18. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/msv-duisburg-m1-alemannia-aachen-m1-261219?utm_source=
- fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/msv-duisburg-m1-alemannia-aachen-m1-261219?u
- tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20261219T140000
-DTEND;TZID=Europe/Berlin:20261219T153000
-LOCATION:Margaretenstraße 5\, 47055 Duisburg-Wedau
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-92f9aba52b5694a587b176833b9f8c44
+UID:fc-bayern-muenchen-m1-borussia-moenchengladbach-m1-fc-bayern-muenchen-m
+ 1-270109@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ Borussia Mönchengladbach - FC Bayern München
 DESCRIPTION:15. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
@@ -3196,23 +1710,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-1aaac774a913c0e69fc2652045dd3118
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ Borussia Mönchengladbach - FC Bayern München
-DESCRIPTION:15. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
- s://www.fupa.net/match/borussia-moenchengladbach-m1-fc-bayern-muenchen-m1-
- 270109?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/borussia-moenchengladbach-m1-fc-bayern-muenc
- hen-m1-270109?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_sc
- hedule
-DTSTART;TZID=Europe/Berlin:20270109T183000
-DTEND;TZID=Europe/Berlin:20270109T200000
-LOCATION:Hennes-Weisweiler-Allee 1\, 41179 Mönchengladbach
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-3dc83b1fa8e768c9031b0fb1f61d791a
+UID:fc-bayern-muenchen-m1-fc-bayern-muenchen-m1-bayer-04-leverkusen-m1-2701
+ 13@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ FC Bayern München - Bayer 04 Leverkusen
 DESCRIPTION:16. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
@@ -3227,22 +1726,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-92c0f4c9d2dbf2d9909e47a1db3b57d4
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ FC Bayern München - Bayer 04 Leverkusen
-DESCRIPTION:16. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
- s://www.fupa.net/match/fc-bayern-muenchen-m1-bayer-04-leverkusen-m1-270113
- ?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-bayern-muenchen-m1-bayer-04-leverkusen-m1
- -270113?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270113T203000
-DTEND;TZID=Europe/Berlin:20270113T220000
-LOCATION:Werner-Heisenberg-Allee 25\, 80939 München
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-7e7956b2bc2ac01f89965b8afe7ff5a6
+UID:alemannia-aachen-m1-alemannia-aachen-m1-tsg-1899-hoffenheim-m2-270116@f
+ ussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ Alemannia Aachen - TSG 1899 Hoffenheim II
 DESCRIPTION:19. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
@@ -3257,22 +1742,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-2045ab69dc7ce390d4926987d29add25
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ Alemannia Aachen - TSG 1899 Hoffenheim II
-DESCRIPTION:19. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/alemannia-aachen-m1-tsg-1899-hoffenheim-m2-270116?utm_
- source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/alemannia-aachen-m1-tsg-1899-hoffenheim-m2-2
- 70116?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270116T140000
-DTEND;TZID=Europe/Berlin:20270116T153000
-LOCATION:Krefelder Straße 205\, 52070 Aachen
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-072e4df144b3cb26fafa04e288ec7357
+UID:fc-bayern-muenchen-m1-eintracht-frankfurt-m1-fc-bayern-muenchen-m1-2701
+ 16@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ Eintracht Frankfurt - FC Bayern München
 DESCRIPTION:17. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
@@ -3287,22 +1758,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-9f2b93fac5480080bf36e7f248eb69e1
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ Eintracht Frankfurt - FC Bayern München
-DESCRIPTION:17. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
- s://www.fupa.net/match/eintracht-frankfurt-m1-fc-bayern-muenchen-m1-270116
- ?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/eintracht-frankfurt-m1-fc-bayern-muenchen-m1
- -270116?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270116T183000
-DTEND;TZID=Europe/Berlin:20270116T200000
-LOCATION:Mörfelder Landstraße 362\, 60528 Frankfurt (Main)
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-85a57036c3f033cc142756a23d87db41
+UID:fc-bayern-muenchen-m1-manchester-united-m1-fc-bayern-muenchen-m1-270120
+ @fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ Manchester United - FC Bayern München
 DESCRIPTION:Turnierspiel: Champions League\; Alle Infos findest du auf FuPa
@@ -3317,22 +1774,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-cbe809fb1a028b668f9015d07731bcec
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ Manchester United - FC Bayern München
-DESCRIPTION:Turnierspiel: Champions League\; Alle Infos findest du auf FuPa
- : https://www.fupa.net/match/manchester-united-m1-fc-bayern-muenchen-m1-27
- 0120?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/manchester-united-m1-fc-bayern-muenchen-m1-2
- 70120?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270120T210000
-DTEND;TZID=Europe/Berlin:20270120T230000
-LOCATION:Sir Matt Busby Way\, M16 ORA Manchester
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-97c72654c1edd634b18ee50e9e8d6893
+UID:alemannia-aachen-m1-sc-verl-m1-alemannia-aachen-m1-270123@fussball-kale
+ nder
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ SC Verl - Alemannia Aachen
 DESCRIPTION:20. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
@@ -3347,22 +1790,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-5f8844c19ecc3d8e850d92655e73a5fb
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ SC Verl - Alemannia Aachen
-DESCRIPTION:20. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/sc-verl-m1-alemannia-aachen-m1-270123?utm_source=fupa&
- utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/sc-verl-m1-alemannia-aachen-m1-270123?utm_so
- urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270123T140000
-DTEND;TZID=Europe/Berlin:20270123T153000
-LOCATION:Poststraße 36\, 33415 Verl
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-bf7f889ed35fbdde2f5d028b4ee23c29
+UID:fc-bayern-muenchen-m1-vfb-stuttgart-m1-fc-bayern-muenchen-m1-270123@fus
+ sball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ VfB Stuttgart - FC Bayern München
 DESCRIPTION:18. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
@@ -3377,22 +1806,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-391eacf17596032a6e11d10edc548f0f
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ VfB Stuttgart - FC Bayern München
-DESCRIPTION:18. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
- s://www.fupa.net/match/vfb-stuttgart-m1-fc-bayern-muenchen-m1-270123?utm_s
- ource=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/vfb-stuttgart-m1-fc-bayern-muenchen-m1-27012
- 3?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270123T153000
-DTEND;TZID=Europe/Berlin:20270123T170000
-LOCATION:Mercedesstraße 87\, 70372 Stuttgart
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-7a6a7af125b3191090672fd95d75503e
+UID:fc-golzheim-m1-alemannia-lendersdorf-m1-fc-golzheim-m1-270124@fussball-
+ kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ Alemannia Lendersdorf - FC Golzheim
 DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
@@ -3407,22 +1822,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-bd99ad37ed8aa6dc215186820828fc80
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ Alemannia Lendersdorf - FC Golzheim
-DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/alemannia-lendersdorf-m1-fc-golzheim-m1-270124?utm_sou
- rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/alemannia-lendersdorf-m1-fc-golzheim-m1-2701
- 24?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270124T153000
-DTEND;TZID=Europe/Berlin:20270124T170000
-LOCATION:Am Wehr 61\, 52355 Düren
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-f8c88dee2c1805a05c4d241d64ab6410
+UID:fc-bayern-muenchen-m1-fc-bayern-muenchen-m1-betis-sevilla-m1-270127@fus
+ sball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ FC Bayern München - Betis Sevilla
 DESCRIPTION:Turnierspiel: Champions League\; Alle Infos findest du auf FuPa
@@ -3437,22 +1838,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-1d2bcc6e647032eb43b6b03365fda72b
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ FC Bayern München - Betis Sevilla
-DESCRIPTION:Turnierspiel: Champions League\; Alle Infos findest du auf FuPa
- : https://www.fupa.net/match/fc-bayern-muenchen-m1-betis-sevilla-m1-270127
- ?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-bayern-muenchen-m1-betis-sevilla-m1-27012
- 7?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270127T210000
-DTEND;TZID=Europe/Berlin:20270127T230000
-LOCATION:Werner-Heisenberg-Allee 25\, 80939 München
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-90277526ceb5e6c86b3df68d9d87d400
+UID:fc-bayern-muenchen-m1-fc-bayern-muenchen-m1-fc-schalke-04-m1-270130@fus
+ sball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ FC Bayern München - FC Schalke 04 (Anstoßzeit off
  en)
@@ -3468,23 +1855,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-d07e58145a00144051502ee35a14347e
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ FC Bayern München - FC Schalke 04 (Anstoßzeit off
- en)
-DESCRIPTION:19. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
- s://www.fupa.net/match/fc-bayern-muenchen-m1-fc-schalke-04-m1-270130?utm_s
- ource=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-bayern-muenchen-m1-fc-schalke-04-m1-27013
- 0?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;VALUE=DATE:20270130
-DTEND;VALUE=DATE:20270131
-LOCATION:Werner-Heisenberg-Allee 25\, 80939 München
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-87a1623750c819ed69b54647a644a17c
+UID:alemannia-aachen-m1-alemannia-aachen-m1-sc-fortuna-koeln-m1-270130@fuss
+ ball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ Alemannia Aachen - SC Fortuna Köln
 DESCRIPTION:21. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
@@ -3499,22 +1871,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-6c006a0e1912fa944d06354ea2e50b72
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ Alemannia Aachen - SC Fortuna Köln
-DESCRIPTION:21. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/alemannia-aachen-m1-sc-fortuna-koeln-m1-270130?utm_sou
- rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/alemannia-aachen-m1-sc-fortuna-koeln-m1-2701
- 30?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270130T140000
-DTEND;TZID=Europe/Berlin:20270130T153000
-LOCATION:Krefelder Straße 205\, 52070 Aachen
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-1773348a17562a7afdc94f05c4b5f779
+UID:fc-bayern-muenchen-m1-fc-bayern-muenchen-m1-sv-elversberg-m1-270206@fus
+ sball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ FC Bayern München - SV 07 Elversberg (Anstoßzeit 
  offen)
@@ -3530,23 +1888,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-beaf992fd1df9a0c9b9cb5e2993a4a88
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ FC Bayern München - SV 07 Elversberg (Anstoßzeit 
- offen)
-DESCRIPTION:20. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
- s://www.fupa.net/match/fc-bayern-muenchen-m1-sv-elversberg-m1-270206?utm_s
- ource=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-bayern-muenchen-m1-sv-elversberg-m1-27020
- 6?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;VALUE=DATE:20270206
-DTEND;VALUE=DATE:20270207
-LOCATION:Werner-Heisenberg-Allee 25\, 80939 München
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-bf17fc5514e70df29ebf5a0df55cd103
+UID:alemannia-aachen-m1-sv-meppen-m1-alemannia-aachen-m1-270206@fussball-ka
+ lender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ SV Meppen - Alemannia Aachen
 DESCRIPTION:22. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
@@ -3561,22 +1904,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-996837562e7205021fd376c9157353ce
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ SV Meppen - Alemannia Aachen
-DESCRIPTION:22. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/sv-meppen-m1-alemannia-aachen-m1-270206?utm_source=fup
- a&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/sv-meppen-m1-alemannia-aachen-m1-270206?utm_
- source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270206T140000
-DTEND;TZID=Europe/Berlin:20270206T153000
-LOCATION:Lathener Straße 15a\, 49716 Meppen
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-9d696aa0c0a7238f3f7f973785140771
+UID:fc-bayern-muenchen-m1-1-fc-union-berlin-m1-fc-bayern-muenchen-m1-270213
+ @fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ 1. FC Union Berlin - FC Bayern München (Anstoßzei
  t offen)
@@ -3592,23 +1921,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-7e50d3c59e3be3e401d561135cb8f11c
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ 1. FC Union Berlin - FC Bayern München (Anstoßzei
- t offen)
-DESCRIPTION:21. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
- s://www.fupa.net/match/1-fc-union-berlin-m1-fc-bayern-muenchen-m1-270213?u
- tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/1-fc-union-berlin-m1-fc-bayern-muenchen-m1-2
- 70213?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;VALUE=DATE:20270213
-DTEND;VALUE=DATE:20270214
-LOCATION:An der Wuhlheide 263\, 12555 Berlin
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-f1fded0d5416523e5b44a1bc97593308
+UID:alemannia-aachen-m1-alemannia-aachen-m1-fc-ingolstadt-04-m1-270213@fuss
+ ball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ Alemannia Aachen - FC Ingolstadt 04
 DESCRIPTION:23. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
@@ -3623,22 +1937,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-f46932a96423bb97fee25ebd23c81c8e
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ Alemannia Aachen - FC Ingolstadt 04
-DESCRIPTION:23. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/alemannia-aachen-m1-fc-ingolstadt-04-m1-270213?utm_sou
- rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/alemannia-aachen-m1-fc-ingolstadt-04-m1-2702
- 13?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270213T140000
-DTEND;TZID=Europe/Berlin:20270213T153000
-LOCATION:Krefelder Straße 205\, 52070 Aachen
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-0ec15e49a2239308e6d9c952d361d6da
+UID:fc-golzheim-m2-victoria-pier-schophoven-m1-fc-golzheim-m2-270214@fussba
+ ll-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ Victoria Pier-Schophoven - FC Golzheim II
 DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
@@ -3653,22 +1953,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-ecdffe583e50b24c9df9c525ad10f9dd
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ Victoria Pier-Schophoven - FC Golzheim II
-DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/victoria-pier-schophoven-m1-fc-golzheim-m2-270214?utm_
- source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/victoria-pier-schophoven-m1-fc-golzheim-m2-2
- 70214?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270214T140000
-DTEND;TZID=Europe/Berlin:20270214T153000
-LOCATION:Ruraue\, 52459 Inden
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-024bd3f1bf05f317359c035c6f4199c2
+UID:fc-bayern-muenchen-m1-fc-bayern-muenchen-m1-fc-augsburg-m1-270220@fussb
+ all-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ FC Bayern München - FC Augsburg (Anstoßzeit offen
  )
@@ -3684,23 +1970,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-30082333a1b4ad9464ba386648834259
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ FC Bayern München - FC Augsburg (Anstoßzeit offen
- )
-DESCRIPTION:22. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
- s://www.fupa.net/match/fc-bayern-muenchen-m1-fc-augsburg-m1-270220?utm_sou
- rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-bayern-muenchen-m1-fc-augsburg-m1-270220?
- utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;VALUE=DATE:20270220
-DTEND;VALUE=DATE:20270221
-LOCATION:Werner-Heisenberg-Allee 25\, 80939 München
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-c78f38b132468963ce8b97aa5ea03c44
+UID:alemannia-aachen-m1-ssv-jahn-regensburg-m1-alemannia-aachen-m1-270220@f
+ ussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ SSV Jahn Regensburg - Alemannia Aachen
 DESCRIPTION:24. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
@@ -3715,22 +1986,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-10398586936f6fca9b38712cf8d04f7f
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ SSV Jahn Regensburg - Alemannia Aachen
-DESCRIPTION:24. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/ssv-jahn-regensburg-m1-alemannia-aachen-m1-270220?utm_
- source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/ssv-jahn-regensburg-m1-alemannia-aachen-m1-2
- 70220?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270220T140000
-DTEND;TZID=Europe/Berlin:20270220T153000
-LOCATION:Franz-Josef-Strauß-Allee 22\, 93053 Regensburg
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-f4daa6004dac774156d8ee4980c2b6f6
+UID:fc-golzheim-m2-fc-golzheim-m2-rhenania-mariaweiler-m1-270221@fussball-k
+ alender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - Rhenania Mariaweiler
 DESCRIPTION:16. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
@@ -3745,22 +2002,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-52dcd730c8851f9ee51aa6faaa258d23
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - Rhenania Mariaweiler
-DESCRIPTION:16. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
- uPa: https://www.fupa.net/match/fc-golzheim-m2-rhenania-mariaweiler-m1-270
- 221?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m2-rhenania-mariaweiler-m1-27022
- 1?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270221T121500
-DTEND;TZID=Europe/Berlin:20270221T134500
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-5f1015587398c01800870ace968cae50
+UID:fc-golzheim-m1-fc-golzheim-m1-salingia-barmen-m1-270221@fussball-kalend
+ er
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - Salingia Barmen
 DESCRIPTION:16. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
@@ -3775,22 +2018,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-fe34f924f3bc91c336983e3276cafc4c
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - Salingia Barmen
-DESCRIPTION:16. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
- Pa: https://www.fupa.net/match/fc-golzheim-m1-salingia-barmen-m1-270221?ut
- m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m1-salingia-barmen-m1-270221?utm
- _source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270221T143000
-DTEND;TZID=Europe/Berlin:20270221T160000
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-cc0f8642116b1ad84d243c2fc0a357d4
+UID:fc-bayern-muenchen-m1-rb-leipzig-m1-fc-bayern-muenchen-m1-270227@fussba
+ ll-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ RB Leipzig - FC Bayern München (Anstoßzeit offen)
 DESCRIPTION:23. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
@@ -3805,22 +2034,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-c916d7c575bfabe25bcc4a8fb5c377bf
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ RB Leipzig - FC Bayern München (Anstoßzeit offen)
-DESCRIPTION:23. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
- s://www.fupa.net/match/rb-leipzig-m1-fc-bayern-muenchen-m1-270227?utm_sour
- ce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/rb-leipzig-m1-fc-bayern-muenchen-m1-270227?u
- tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;VALUE=DATE:20270227
-DTEND;VALUE=DATE:20270228
-LOCATION:Am Sportforum 1\, 04105 Leipzig
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-ef4ad1f991f1f4658fbd5bf1685a9da7
+UID:alemannia-aachen-m1-alemannia-aachen-m1-fc-wuerzburger-kickers-m1-27022
+ 7@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ Alemannia Aachen - FC Würzburger Kickers
 DESCRIPTION:25. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
@@ -3836,23 +2051,7 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-7d5314836508cac2430b69dbb8f7d158
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ Alemannia Aachen - FC Würzburger Kickers
-DESCRIPTION:25. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/alemannia-aachen-m1-fc-wuerzburger-kickers-m1-270227?u
- tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/alemannia-aachen-m1-fc-wuerzburger-kickers-m
- 1-270227?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedul
- e
-DTSTART;TZID=Europe/Berlin:20270227T140000
-DTEND;TZID=Europe/Berlin:20270227T153000
-LOCATION:Krefelder Straße 205\, 52070 Aachen
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-438185d30e1d9ec3d6efd8c021a5598b
+UID:fc-golzheim-m1-sc-merzenich-m1-fc-golzheim-m1-270228@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ SC Merzenich - FC Golzheim
 DESCRIPTION:17. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
@@ -3867,22 +2066,7 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-d3c467268115008f8b01aa1d76a6f28f
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ SC Merzenich - FC Golzheim
-DESCRIPTION:17. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
- Pa: https://www.fupa.net/match/sc-merzenich-m1-fc-golzheim-m1-270228?utm_s
- ource=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/sc-merzenich-m1-fc-golzheim-m1-270228?utm_so
- urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270228T150000
-DTEND;TZID=Europe/Berlin:20270228T163000
-LOCATION:Ellener Aller\, 52399 Merzenich 
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-78e5e7560f80b3a10e28bdfb5ccacccf
+UID:fc-golzheim-m2-1-fc-dueren-m2-fc-golzheim-m2-270228@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ 1. FC Düren II - FC Golzheim II
 DESCRIPTION:17. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
@@ -3897,22 +2081,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-ed34c13b5f2a279e54cf3824e8a29d7c
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ 1. FC Düren II - FC Golzheim II
-DESCRIPTION:17. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
- uPa: https://www.fupa.net/match/1-fc-dueren-m2-fc-golzheim-m2-270228?utm_s
- ource=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/1-fc-dueren-m2-fc-golzheim-m2-270228?utm_sou
- rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270228T153000
-DTEND;TZID=Europe/Berlin:20270228T170000
-LOCATION:Kreuzauerstraße\, 52355 Düren
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-08ed37e7f7d65bc1484c6a71e37b1767
+UID:alemannia-aachen-m1-fortuna-duesseldorf-m1-alemannia-aachen-m1-270302@f
+ ussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ Fortuna Düsseldorf - Alemannia Aachen
 DESCRIPTION:26. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
@@ -3927,22 +2097,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-2d69bc64e94d0f028abfc7c4e09949db
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ Fortuna Düsseldorf - Alemannia Aachen
-DESCRIPTION:26. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/fortuna-duesseldorf-m1-alemannia-aachen-m1-270302?utm_
- source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fortuna-duesseldorf-m1-alemannia-aachen-m1-2
- 70302?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270302T190000
-DTEND;TZID=Europe/Berlin:20270302T203000
-LOCATION:Arena Straße 1\, 40474 Düsseldorf
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-eb306b5d34a1bef92440b9802031076e
+UID:fc-bayern-muenchen-m1-fc-bayern-muenchen-m1-sc-freiburg-m1-270303@fussb
+ all-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ FC Bayern München - SC Freiburg (Anstoßzeit offen
  )
@@ -3958,23 +2114,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-e0880700b3bfe8dbd041912c5b35aa22
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ FC Bayern München - SC Freiburg (Anstoßzeit offen
- )
-DESCRIPTION:24. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
- s://www.fupa.net/match/fc-bayern-muenchen-m1-sc-freiburg-m1-270303?utm_sou
- rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-bayern-muenchen-m1-sc-freiburg-m1-270303?
- utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;VALUE=DATE:20270303
-DTEND;VALUE=DATE:20270304
-LOCATION:Werner-Heisenberg-Allee 25\, 80939 München
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-0352fad9466fe4587d39c7fc987a9464
+UID:fc-bayern-muenchen-m1-borussia-dortmund-m1-fc-bayern-muenchen-m1-270306
+ @fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ Borussia Dortmund - FC Bayern München (Anstoßzeit
   offen)
@@ -3990,23 +2131,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-631034c7ddb2470b151c730e414e03c8
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ Borussia Dortmund - FC Bayern München (Anstoßzeit
-  offen)
-DESCRIPTION:25. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
- s://www.fupa.net/match/borussia-dortmund-m1-fc-bayern-muenchen-m1-270306?u
- tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/borussia-dortmund-m1-fc-bayern-muenchen-m1-2
- 70306?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;VALUE=DATE:20270306
-DTEND;VALUE=DATE:20270307
-LOCATION:Strobelallee 50\, 44139 Dortmund
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-8a5c473da85bf5fdc402f8250279ef18
+UID:alemannia-aachen-m1-fc-viktoria-koeln-m1-alemannia-aachen-m1-270306@fus
+ sball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ Viktoria Köln - Alemannia Aachen
 DESCRIPTION:27. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
@@ -4021,22 +2147,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-c87b9afb09cdf7959a46de79f14daeef
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ Viktoria Köln - Alemannia Aachen
-DESCRIPTION:27. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/fc-viktoria-koeln-m1-alemannia-aachen-m1-270306?utm_so
- urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-viktoria-koeln-m1-alemannia-aachen-m1-270
- 306?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270306T140000
-DTEND;TZID=Europe/Berlin:20270306T153000
-LOCATION:Merheimer Heide\, 51103 Köln
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-1d9c19885a0e7b9832e71a5ae0c35d36
+UID:fc-golzheim-m2-fc-golzheim-m2-viktoria-arnoldsweiler-m2-270307@fussball
+ -kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - Viktoria Arnoldsweiler II
 DESCRIPTION:18. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
@@ -4051,22 +2163,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-bb9cfe6917eceee7387cae2729ed76a6
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - Viktoria Arnoldsweiler II
-DESCRIPTION:18. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
- uPa: https://www.fupa.net/match/fc-golzheim-m2-viktoria-arnoldsweiler-m2-2
- 70307?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m2-viktoria-arnoldsweiler-m2-270
- 307?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270307T124500
-DTEND;TZID=Europe/Berlin:20270307T141500
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-dfdd2ebea7a9921bb5fd78d1bec6b0b8
+UID:fc-golzheim-m1-fc-golzheim-m1-jugendsport-wenau-m1-270307@fussball-kale
+ nder
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - Jugendsport Wenau
 DESCRIPTION:18. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
@@ -4081,22 +2179,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-afb256d8a1f7f910fced5380008227b3
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - Jugendsport Wenau
-DESCRIPTION:18. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
- Pa: https://www.fupa.net/match/fc-golzheim-m1-jugendsport-wenau-m1-270307?
- utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m1-jugendsport-wenau-m1-270307?u
- tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270307T143000
-DTEND;TZID=Europe/Berlin:20270307T160000
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-463917b1f9230f1ee07378c69ba93ef3
+UID:fc-bayern-muenchen-m1-fc-bayern-muenchen-m1-fsv-mainz-05-m1-270313@fuss
+ ball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ FC Bayern München - FSV Mainz 05 (Anstoßzeit offe
  n)
@@ -4112,23 +2196,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-81caba1dae89025b034e6d67b8313ae9
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ FC Bayern München - FSV Mainz 05 (Anstoßzeit offe
- n)
-DESCRIPTION:26. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
- s://www.fupa.net/match/fc-bayern-muenchen-m1-fsv-mainz-05-m1-270313?utm_so
- urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-bayern-muenchen-m1-fsv-mainz-05-m1-270313
- ?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;VALUE=DATE:20270313
-DTEND;VALUE=DATE:20270314
-LOCATION:Werner-Heisenberg-Allee 25\, 80939 München
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-a164bf0de4ad21805513e4cda275c907
+UID:alemannia-aachen-m1-alemannia-aachen-m1-sv-wehen-wiesbaden-m1-270313@fu
+ ssball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ Alemannia Aachen - SV Wehen Wiesbaden
 DESCRIPTION:28. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
@@ -4143,22 +2212,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-1acc9cbcc2c460f5084c2e8ddcb90395
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ Alemannia Aachen - SV Wehen Wiesbaden
-DESCRIPTION:28. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/alemannia-aachen-m1-sv-wehen-wiesbaden-m1-270313?utm_s
- ource=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/alemannia-aachen-m1-sv-wehen-wiesbaden-m1-27
- 0313?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270313T140000
-DTEND;TZID=Europe/Berlin:20270313T153000
-LOCATION:Krefelder Straße 205\, 52070 Aachen
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-58785e2ef2a928fbc9d755d9199a2f6e
+UID:fc-golzheim-m1-hambacher-spielverein-m1-fc-golzheim-m1-270314@fussball-
+ kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ Hambacher Spielverein - FC Golzheim
 DESCRIPTION:19. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
@@ -4173,22 +2228,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-ca17cff95b1eedca45d23530a967d3c9
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ Hambacher Spielverein - FC Golzheim
-DESCRIPTION:19. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
- Pa: https://www.fupa.net/match/hambacher-spielverein-m1-fc-golzheim-m1-270
- 314?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/hambacher-spielverein-m1-fc-golzheim-m1-2703
- 14?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270314T143000
-DTEND;TZID=Europe/Berlin:20270314T160000
-LOCATION:Triftstraße\, 52382 Niederzier
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-c9b6a8eeb3c55ec049334ed7e13e6ae0
+UID:alemannia-aachen-m1-fc-hansa-rostock-m1-alemannia-aachen-m1-270316@fuss
+ ball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ F.C. Hansa Rostock - Alemannia Aachen
 DESCRIPTION:29. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
@@ -4203,22 +2244,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-2902800611186d9f66751a291c70ea9d
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ F.C. Hansa Rostock - Alemannia Aachen
-DESCRIPTION:29. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/fc-hansa-rostock-m1-alemannia-aachen-m1-270316?utm_sou
- rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-hansa-rostock-m1-alemannia-aachen-m1-2703
- 16?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270316T190000
-DTEND;TZID=Europe/Berlin:20270316T203000
-LOCATION:Kopernikusstraße 17\, 18057  Rostock
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-320ecae7e24c883a78bceb784b6666dd
+UID:fc-bayern-muenchen-m1-1-fc-koeln-m1-fc-bayern-muenchen-m1-270320@fussba
+ ll-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ 1. FC Köln - FC Bayern München (Anstoßzeit offen
  )
@@ -4234,23 +2261,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-a9a17fdbe1f5abe0975f721268f731d8
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ 1. FC Köln - FC Bayern München (Anstoßzeit offen
- )
-DESCRIPTION:27. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
- s://www.fupa.net/match/1-fc-koeln-m1-fc-bayern-muenchen-m1-270320?utm_sour
- ce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/1-fc-koeln-m1-fc-bayern-muenchen-m1-270320?u
- tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;VALUE=DATE:20270320
-DTEND;VALUE=DATE:20270321
-LOCATION:Aachener Straße 999\, 50933 Köln
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-f4695a5a04156a9686731856c6633940
+UID:alemannia-aachen-m1-alemannia-aachen-m1-vfb-stuttgart-m2-270320@fussbal
+ l-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ Alemannia Aachen - VfB Stuttgart II
 DESCRIPTION:30. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
@@ -4265,22 +2277,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-3ed0ed66fa48167c3f3bba53dc3ae2a0
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ Alemannia Aachen - VfB Stuttgart II
-DESCRIPTION:30. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/alemannia-aachen-m1-vfb-stuttgart-m2-270320?utm_source
- =fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/alemannia-aachen-m1-vfb-stuttgart-m2-270320?
- utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270320T140000
-DTEND;TZID=Europe/Berlin:20270320T153000
-LOCATION:Krefelder Straße 205\, 52070 Aachen
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-70f5c24b305bc2f16270a471125e2d98
+UID:fc-golzheim-m2-fc-golzheim-m2-viktoria-schlich-m1-270321@fussball-kalen
+ der
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - Viktoria Schlich
 DESCRIPTION:20. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
@@ -4295,22 +2293,7 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-2072c7a21736e7973825a55b830e7c7e
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - Viktoria Schlich
-DESCRIPTION:20. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
- uPa: https://www.fupa.net/match/fc-golzheim-m2-viktoria-schlich-m1-270321?
- utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m2-viktoria-schlich-m1-270321?ut
- m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270321T124500
-DTEND;TZID=Europe/Berlin:20270321T141500
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-86ec575d6674e53910ebfde7b0fd7799
+UID:fc-golzheim-m1-fc-golzheim-m1-fc-dueren-77-m1-270321@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - FC Düren 77
 DESCRIPTION:20. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
@@ -4325,22 +2308,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-95f166d9ddca66aeec721169d784bf37
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - FC Düren 77
-DESCRIPTION:20. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
- Pa: https://www.fupa.net/match/fc-golzheim-m1-fc-dueren-77-m1-270321?utm_s
- ource=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m1-fc-dueren-77-m1-270321?utm_so
- urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270321T143000
-DTEND;TZID=Europe/Berlin:20270321T160000
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-fa52a92dab60b4ece525e9448679775c
+UID:fc-bayern-muenchen-m1-fc-bayern-muenchen-m1-hamburger-sv-m1-270403@fuss
+ ball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ FC Bayern München - Hamburger SV (Anstoßzeit offe
  n)
@@ -4356,23 +2325,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-948a3099c0dae01c6892728f2963cdb3
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ FC Bayern München - Hamburger SV (Anstoßzeit offe
- n)
-DESCRIPTION:28. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
- s://www.fupa.net/match/fc-bayern-muenchen-m1-hamburger-sv-m1-270403?utm_so
- urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-bayern-muenchen-m1-hamburger-sv-m1-270403
- ?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;VALUE=DATE:20270403
-DTEND;VALUE=DATE:20270404
-LOCATION:Werner-Heisenberg-Allee 25\, 80939 München
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-978c833dcb19dada6372e892b43f08e2
+UID:alemannia-aachen-m1-sc-preussen-muenster-m1-alemannia-aachen-m1-270403@
+ fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ SC Preußen Münster - Alemannia Aachen
 DESCRIPTION:31. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
@@ -4387,22 +2341,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-043ec4aeb6c510416c359deb6609c7ef
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ SC Preußen Münster - Alemannia Aachen
-DESCRIPTION:31. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/sc-preussen-muenster-m1-alemannia-aachen-m1-270403?utm
- _source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/sc-preussen-muenster-m1-alemannia-aachen-m1-
- 270403?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270403T140000
-DTEND;TZID=Europe/Berlin:20270403T153000
-LOCATION:Hammer Straße 302 \, 48153 Münster
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-a42425e73846ec3ed23e7269ae1cb04c
+UID:fc-golzheim-m2-sg-tuerkischer-sv-dueren-m2-fc-golzheim-m2-270404@fussba
+ ll-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ SG Türkischer SV Düren II - FC Golzheim II
 DESCRIPTION:21. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
@@ -4417,22 +2357,7 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-46da7c56bddab72e2b029ec912fe12d3
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ SG Türkischer SV Düren II - FC Golzheim II
-DESCRIPTION:21. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
- uPa: https://www.fupa.net/match/sg-tuerkischer-sv-dueren-m2-fc-golzheim-m2
- -270404?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/sg-tuerkischer-sv-dueren-m2-fc-golzheim-m2-2
- 70404?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270404T120000
-DTEND;TZID=Europe/Berlin:20270404T133000
-LOCATION:Maltesertraße 85\, 52349 Düren
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-795ecc20b0d5f866071c7342be9d1dd5
+UID:fc-golzheim-m1-jsv-frenz-m1-fc-golzheim-m1-270404@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ JSV Frenz - FC Golzheim
 DESCRIPTION:21. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
@@ -4447,22 +2372,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-6caa823fdb9fbd115b148ea8620cc10d
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ JSV Frenz - FC Golzheim
-DESCRIPTION:21. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
- Pa: https://www.fupa.net/match/jsv-frenz-m1-fc-golzheim-m1-270404?utm_sour
- ce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/jsv-frenz-m1-fc-golzheim-m1-270404?utm_sourc
- e=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270404T150000
-DTEND;TZID=Europe/Berlin:20270404T163000
-LOCATION:Am hohen Ufer\, 52459 Inden
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-333e4e7b4c040eff5c9554fdc39395e6
+UID:fc-bayern-muenchen-m1-sc-paderborn-07-m1-fc-bayern-muenchen-m1-270410@f
+ ussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ SC Paderborn 07 - FC Bayern München (Anstoßzeit o
  ffen)
@@ -4478,23 +2389,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-9dc998d5f9bdfc8799119020a87b7149
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ SC Paderborn 07 - FC Bayern München (Anstoßzeit o
- ffen)
-DESCRIPTION:29. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
- s://www.fupa.net/match/sc-paderborn-07-m1-fc-bayern-muenchen-m1-270410?utm
- _source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/sc-paderborn-07-m1-fc-bayern-muenchen-m1-270
- 410?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;VALUE=DATE:20270410
-DTEND;VALUE=DATE:20270411
-LOCATION:Paderborner Straße 89\, 33104 Paderborn
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-f5942ee1c108d0809513a74b79e2dab6
+UID:alemannia-aachen-m1-alemannia-aachen-m1-rot-weiss-essen-m1-270410@fussb
+ all-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ Alemannia Aachen - Rot-Weiss Essen
 DESCRIPTION:32. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
@@ -4509,22 +2405,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-9ae428d88443c64d109bb3ab6a77d80d
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ Alemannia Aachen - Rot-Weiss Essen
-DESCRIPTION:32. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/alemannia-aachen-m1-rot-weiss-essen-m1-270410?utm_sour
- ce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/alemannia-aachen-m1-rot-weiss-essen-m1-27041
- 0?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270410T140000
-DTEND;TZID=Europe/Berlin:20270410T153000
-LOCATION:Krefelder Straße 205\, 52070 Aachen
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-b4114c636f9b78a63a9bf48661241cce
+UID:fc-golzheim-m2-fc-golzheim-m2-sportfreunde-dueren-m2-270411@fussball-ka
+ lender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - Sportfreunde Düren II
 DESCRIPTION:22. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
@@ -4539,22 +2421,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-a71f8dd49038253b30a87e413dc7403a
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - Sportfreunde Düren II
-DESCRIPTION:22. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
- uPa: https://www.fupa.net/match/fc-golzheim-m2-sportfreunde-dueren-m2-2704
- 11?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m2-sportfreunde-dueren-m2-270411
- ?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270411T124500
-DTEND;TZID=Europe/Berlin:20270411T141500
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-1ce82bcf4ea9db1f0286d8eb2b44d1fe
+UID:fc-golzheim-m1-fc-golzheim-m1-schwarz-weiss-huchem-stammeln-m1-270411@f
+ ussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - Schwarz-Weiß Huchem-Stammeln
 DESCRIPTION:22. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
@@ -4571,24 +2439,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-92b9b5a464d3e39b7950d6b1773637e0
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - Schwarz-Weiß Huchem-Stammeln
-DESCRIPTION:22. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
- Pa: https://www.fupa.net/match/fc-golzheim-m1-schwarz-weiss-huchem-stammel
- n-m1-270411?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_sche
- dule
-URL:https://www.fupa.net/match/fc-golzheim-m1-schwarz-weiss-huchem-stammeln
- -m1-270411?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_sched
- ule
-DTSTART;TZID=Europe/Berlin:20270411T150000
-DTEND;TZID=Europe/Berlin:20270411T163000
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-993f6a561bc6ab7ee925513e16c8d556
+UID:fc-bayern-muenchen-m1-fc-bayern-muenchen-m1-tsg-1899-hoffenheim-m1-2704
+ 17@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ FC Bayern München - TSG 1899 Hoffenheim (Anstoßze
  it offen)
@@ -4604,23 +2456,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-78978f7cc23ae2e73c4558c619eb50ea
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ FC Bayern München - TSG 1899 Hoffenheim (Anstoßze
- it offen)
-DESCRIPTION:30. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
- s://www.fupa.net/match/fc-bayern-muenchen-m1-tsg-1899-hoffenheim-m1-270417
- ?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-bayern-muenchen-m1-tsg-1899-hoffenheim-m1
- -270417?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;VALUE=DATE:20270417
-DTEND;VALUE=DATE:20270418
-LOCATION:Werner-Heisenberg-Allee 25\, 80939 München
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-a6eefe72bc803cc357aaf7c36cb0fdc4
+UID:alemannia-aachen-m1-sv-waldhof-mannheim-m1-alemannia-aachen-m1-270417@f
+ ussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ SV Waldhof Mannheim - Alemannia Aachen
 DESCRIPTION:33. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
@@ -4635,22 +2472,7 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-6a3e3208b0421b4268cfe316501c3670
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ SV Waldhof Mannheim - Alemannia Aachen
-DESCRIPTION:33. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/sv-waldhof-mannheim-m1-alemannia-aachen-m1-270417?utm_
- source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/sv-waldhof-mannheim-m1-alemannia-aachen-m1-2
- 70417?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270417T140000
-DTEND;TZID=Europe/Berlin:20270417T153000
-LOCATION:Theodor-Heuss-Anlage \, 68165 Mannheim
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-a3a9a9ffa5f8ce2d90688af9644f04d9
+UID:fc-golzheim-m1-sv-siersdorf-m1-fc-golzheim-m1-270418@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ SV Siersdorf - FC Golzheim
 DESCRIPTION:23. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
@@ -4665,22 +2487,7 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-9dc73674d8535ae5134658643a68a891
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ SV Siersdorf - FC Golzheim
-DESCRIPTION:23. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
- Pa: https://www.fupa.net/match/sv-siersdorf-m1-fc-golzheim-m1-270418?utm_s
- ource=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/sv-siersdorf-m1-fc-golzheim-m1-270418?utm_so
- urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270418T150000
-DTEND;TZID=Europe/Berlin:20270418T163000
-LOCATION:Im Schleidener Thal\, 52457 Aldenhoven
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-39fceda3445755e686b56fc933376e74
+UID:fc-golzheim-m2-sv-merken-m1-fc-golzheim-m2-270418@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ SV Merken - FC Golzheim II
 DESCRIPTION:23. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
@@ -4695,22 +2502,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-c77ec3277eecd0a92582e671138ba962
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ SV Merken - FC Golzheim II
-DESCRIPTION:23. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
- uPa: https://www.fupa.net/match/sv-merken-m1-fc-golzheim-m2-270418?utm_sou
- rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/sv-merken-m1-fc-golzheim-m2-270418?utm_sourc
- e=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270418T150000
-DTEND;TZID=Europe/Berlin:20270418T163000
-LOCATION:Peterstraße 148\, 52353 Düren
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-502cbe52654593f6cccd63afae62e8b2
+UID:fc-bayern-muenchen-m1-sv-werder-bremen-m1-fc-bayern-muenchen-m1-270424@
+ fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ SV Werder Bremen - FC Bayern München (Anstoßzeit 
  offen)
@@ -4726,23 +2519,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-47bd36a7e9282d966ee42472b78f4820
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ SV Werder Bremen - FC Bayern München (Anstoßzeit 
- offen)
-DESCRIPTION:31. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
- s://www.fupa.net/match/sv-werder-bremen-m1-fc-bayern-muenchen-m1-270424?ut
- m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/sv-werder-bremen-m1-fc-bayern-muenchen-m1-27
- 0424?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;VALUE=DATE:20270424
-DTEND;VALUE=DATE:20270425
-LOCATION:Franz-Böhmert-Straße 7\, 28205 Bremen
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-1f44bc808b0406dfbdbd41d6725830c8
+UID:alemannia-aachen-m1-alemannia-aachen-m1-1-fc-saarbruecken-m1-270424@fus
+ sball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ Alemannia Aachen - 1. FC Saarbrücken
 DESCRIPTION:34. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
@@ -4757,22 +2535,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-d5c180e0fefb21f847feafe6a7598f0d
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ Alemannia Aachen - 1. FC Saarbrücken
-DESCRIPTION:34. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/alemannia-aachen-m1-1-fc-saarbruecken-m1-270424?utm_so
- urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/alemannia-aachen-m1-1-fc-saarbruecken-m1-270
- 424?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270424T140000
-DTEND;TZID=Europe/Berlin:20270424T153000
-LOCATION:Krefelder Straße 205\, 52070 Aachen
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-18f53bc2aa28041ee162058a9d08cb36
+UID:fc-golzheim-m2-fc-golzheim-m2-sv-morschenich-m1-270425@fussball-kalende
+ r
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - SV Morschenich
 DESCRIPTION:24. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
@@ -4787,22 +2551,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-c69749f8f7ef37c94114b2e0d5e992a6
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - SV Morschenich
-DESCRIPTION:24. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
- uPa: https://www.fupa.net/match/fc-golzheim-m2-sv-morschenich-m1-270425?ut
- m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m2-sv-morschenich-m1-270425?utm_
- source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270425T124500
-DTEND;TZID=Europe/Berlin:20270425T141500
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-60665739b0748b33a9dcbe52a28d5c58
+UID:fc-golzheim-m1-fc-golzheim-m1-viktoria-koslar-m1-270425@fussball-kalend
+ er
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - Viktoria Koslar
 DESCRIPTION:24. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
@@ -4817,22 +2567,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-c18086fc2ed76d964fad7b9b2a11d5a0
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - Viktoria Koslar
-DESCRIPTION:24. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
- Pa: https://www.fupa.net/match/fc-golzheim-m1-viktoria-koslar-m1-270425?ut
- m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m1-viktoria-koslar-m1-270425?utm
- _source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270425T150000
-DTEND;TZID=Europe/Berlin:20270425T163000
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-acc415ccae2a1a1df446a3cdc9cb112a
+UID:alemannia-aachen-m1-tsv-havelse-m1-alemannia-aachen-m1-270427@fussball-
+ kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ TSV Havelse - Alemannia Aachen
 DESCRIPTION:35. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
@@ -4847,22 +2583,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-79fda54e9087f197b53d2ae01dd8634e
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ TSV Havelse - Alemannia Aachen
-DESCRIPTION:35. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/tsv-havelse-m1-alemannia-aachen-m1-270427?utm_source=f
- upa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/tsv-havelse-m1-alemannia-aachen-m1-270427?ut
- m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270427T190000
-DTEND;TZID=Europe/Berlin:20270427T203000
-LOCATION:Clausewitzstr. 4\, 30175  Hannover
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-409ae0c0bd505482590ee5fda0b03716
+UID:fc-golzheim-m2-tus-langerwehe-m2-fc-golzheim-m2-270429@fussball-kalende
+ r
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ TuS Langerwehe II - FC Golzheim II
 DESCRIPTION:25. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
@@ -4877,22 +2599,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-2269a2b444812e08b245c103883f7394
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ TuS Langerwehe II - FC Golzheim II
-DESCRIPTION:25. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
- uPa: https://www.fupa.net/match/tus-langerwehe-m2-fc-golzheim-m2-270429?ut
- m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/tus-langerwehe-m2-fc-golzheim-m2-270429?utm_
- source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270429T184500
-DTEND;TZID=Europe/Berlin:20270429T201500
-LOCATION:Rymelsberg 21\, 52379 Langerwehe
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-312e35bbb36cf3bbf22f7ba11df3fa9c
+UID:fc-golzheim-m1-gruen-weiss-welldorf-guesten-m1-fc-golzheim-m1-270429@fu
+ ssball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ Grün-Weiß Welldorf-Güsten - FC Golzheim
 DESCRIPTION:25. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
@@ -4909,24 +2617,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-28f078330f12c328f009803b3f65a09a
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ Grün-Weiß Welldorf-Güsten - FC Golzheim
-DESCRIPTION:25. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
- Pa: https://www.fupa.net/match/gruen-weiss-welldorf-guesten-m1-fc-golzheim
- -m1-270429?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_sched
- ule
-URL:https://www.fupa.net/match/gruen-weiss-welldorf-guesten-m1-fc-golzheim-
- m1-270429?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedu
- le
-DTSTART;TZID=Europe/Berlin:20270429T191500
-DTEND;TZID=Europe/Berlin:20270429T204500
-LOCATION:Sandweg 47\, 52428 Jülich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-3834ea7e7658dd99b016ffe8f106349b
+UID:fc-bayern-muenchen-m1-fc-bayern-muenchen-m1-borussia-moenchengladbach-m
+ 1-270508@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ FC Bayern München - Borussia Mönchengladbach (Ans
  toßzeit offen)
@@ -4943,24 +2635,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-619ac64aa33e623cedd8a7fbcc15a011
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ FC Bayern München - Borussia Mönchengladbach (Ans
- toßzeit offen)
-DESCRIPTION:32. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
- s://www.fupa.net/match/fc-bayern-muenchen-m1-borussia-moenchengladbach-m1-
- 270508?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-bayern-muenchen-m1-borussia-moenchengladb
- ach-m1-270508?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_sc
- hedule
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270509
-LOCATION:Werner-Heisenberg-Allee 25\, 80939 München
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-e281f56d243813967ea81e381f4c0df3
+UID:alemannia-aachen-m1-alemannia-aachen-m1-sg-sonnenhof-grossaspach-m1-270
+ 508@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ Alemannia Aachen - SG Sonnenhof Großaspach
 DESCRIPTION:36. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
@@ -4976,23 +2652,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-a7637dc226341d681bc5989f0a604fd8
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ Alemannia Aachen - SG Sonnenhof Großaspach
-DESCRIPTION:36. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/alemannia-aachen-m1-sg-sonnenhof-grossaspach-m1-270508
- ?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/alemannia-aachen-m1-sg-sonnenhof-grossaspach
- -m1-270508?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_sched
- ule
-DTSTART;TZID=Europe/Berlin:20270508T140000
-DTEND;TZID=Europe/Berlin:20270508T153000
-LOCATION:Krefelder Straße 205\, 52070 Aachen
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-cfb2a8a9b3415ddb6e832b5bd3054677
+UID:fc-golzheim-m2-fc-golzheim-m2-schwarz-weiss-dueren-m2-270509@fussball-k
+ alender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - Schwarz-Weiß Düren II
 DESCRIPTION:26. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
@@ -5007,22 +2668,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-16f472ff32091746b339f3f855265944
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - Schwarz-Weiß Düren II
-DESCRIPTION:26. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
- uPa: https://www.fupa.net/match/fc-golzheim-m2-schwarz-weiss-dueren-m2-270
- 509?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m2-schwarz-weiss-dueren-m2-27050
- 9?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270509T124500
-DTEND;TZID=Europe/Berlin:20270509T141500
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-8f5b02369ced0dc85075e4fb97a67a41
+UID:fc-golzheim-m1-fc-golzheim-m1-schwarz-weiss-dueren-m1-270509@fussball-k
+ alender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - Schwarz-Weiß Düren
 DESCRIPTION:26. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
@@ -5037,22 +2684,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-d59e4d3b6e1a8422d05e9628a437d156
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - Schwarz-Weiß Düren
-DESCRIPTION:26. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
- Pa: https://www.fupa.net/match/fc-golzheim-m1-schwarz-weiss-dueren-m1-2705
- 09?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m1-schwarz-weiss-dueren-m1-27050
- 9?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270509T150000
-DTEND;TZID=Europe/Berlin:20270509T163000
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-bc1d84231a9a4578d42af119b1d56d5f
+UID:fc-bayern-muenchen-m1-bayer-04-leverkusen-m1-fc-bayern-muenchen-m1-2705
+ 15@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ Bayer 04 Leverkusen - FC Bayern München (Anstoßze
  it offen)
@@ -5068,23 +2701,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-7dcd91069cd1533c72c7dd780710a8fe
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ Bayer 04 Leverkusen - FC Bayern München (Anstoßze
- it offen)
-DESCRIPTION:33. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
- s://www.fupa.net/match/bayer-04-leverkusen-m1-fc-bayern-muenchen-m1-270515
- ?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/bayer-04-leverkusen-m1-fc-bayern-muenchen-m1
- -270515?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;VALUE=DATE:20270515
-DTEND;VALUE=DATE:20270516
-LOCATION:Bismarckstraße 122\, 51373 Leverkusen
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-c15ebe7f7302d59f0ed30d8d5b035149
+UID:alemannia-aachen-m1-alemannia-aachen-m1-msv-duisburg-m1-270515@fussball
+ -kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ Alemannia Aachen - MSV Duisburg
 DESCRIPTION:37. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
@@ -5099,22 +2717,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-72bd80afa729aa364b4eaa5206d2c068
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ Alemannia Aachen - MSV Duisburg
-DESCRIPTION:37. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/alemannia-aachen-m1-msv-duisburg-m1-270515?utm_source=
- fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/alemannia-aachen-m1-msv-duisburg-m1-270515?u
- tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270515T140000
-DTEND;TZID=Europe/Berlin:20270515T153000
-LOCATION:Krefelder Straße 205\, 52070 Aachen
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-2c10e9517793e36cfc85e463b989a94f
+UID:fc-golzheim-m1-borussia-freialdenhoven-m1-fc-golzheim-m1-270521@fussbal
+ l-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ Borussia Freialdenhoven - FC Golzheim
 DESCRIPTION:27. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
@@ -5129,22 +2733,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-cd8f60001d09915b98450bf1f2f2cc12
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ Borussia Freialdenhoven - FC Golzheim
-DESCRIPTION:27. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
- Pa: https://www.fupa.net/match/borussia-freialdenhoven-m1-fc-golzheim-m1-2
- 70521?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/borussia-freialdenhoven-m1-fc-golzheim-m1-27
- 0521?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270521T193000
-DTEND;TZID=Europe/Berlin:20270521T210000
-LOCATION:Ederener Straße\, 52457 Aldenhoven
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:alemannia-aachen-m1-d670f1d829a641be3b2d8614e87d5833
+UID:alemannia-aachen-m1-tsg-1899-hoffenheim-m2-alemannia-aachen-m1-270522@f
+ ussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Aachen | ⚽️ TSG 1899 Hoffenheim II - Alemannia Aachen
 DESCRIPTION:38. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
@@ -5159,22 +2749,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:alemannia-aachen-m1-ae0382290e66274c7c8ae511714a84b2
-DTSTAMP:20260101T000000Z
-SUMMARY:Aachen | ⚽️ TSG 1899 Hoffenheim II - Alemannia Aachen
-DESCRIPTION:38. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/tsg-1899-hoffenheim-m2-alemannia-aachen-m1-270522?utm_
- source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/tsg-1899-hoffenheim-m2-alemannia-aachen-m1-2
- 70522?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270522T140000
-DTEND;TZID=Europe/Berlin:20270522T153000
-LOCATION:Silbergasse 45\, 74889 Sinsheim-Hoffenheim
-STATUS:CONFIRMED
-X-FK-TEAM:alemannia-aachen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-5b7ceae50f9cddd3f885ec76f4a68f03
+UID:fc-bayern-muenchen-m1-fc-bayern-muenchen-m1-eintracht-frankfurt-m1-2705
+ 22@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Bayern | ⚽️ FC Bayern München - Eintracht Frankfurt
 DESCRIPTION:34. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
@@ -5189,22 +2765,7 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-bayern-muenchen-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-bayern-muenchen-m1-fa264cedcf0c1970dab7e247e8a37341
-DTSTAMP:20260101T000000Z
-SUMMARY:Bayern | ⚽️ FC Bayern München - Eintracht Frankfurt
-DESCRIPTION:34. Spieltag: Bundesliga\; Alle Infos findest du auf FuPa: http
- s://www.fupa.net/match/fc-bayern-muenchen-m1-eintracht-frankfurt-m1-270522
- ?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-bayern-muenchen-m1-eintracht-frankfurt-m1
- -270522?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270522T153000
-DTEND;TZID=Europe/Berlin:20270522T170000
-LOCATION:Werner-Heisenberg-Allee 25\, 80939 München
-STATUS:CONFIRMED
-X-FK-TEAM:fc-bayern-muenchen-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-4975fa83385f7258b681f7012b944b40
+UID:fc-golzheim-m2-csv-dueren-m1-fc-golzheim-m2-270523@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ CSV Düren - FC Golzheim II
 DESCRIPTION:27. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
@@ -5219,22 +2780,7 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-01cdf318703b9d4b5f7a2c2c097c5a83
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ CSV Düren - FC Golzheim II
-DESCRIPTION:27. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
- uPa: https://www.fupa.net/match/csv-dueren-m1-fc-golzheim-m2-270523?utm_so
- urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/csv-dueren-m1-fc-golzheim-m2-270523?utm_sour
- ce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270523T170000
-DTEND;TZID=Europe/Berlin:20270523T183000
-LOCATION:Mülhovener Straße 28\, 52353 Düren
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-c0eef0ed106342d0153f04d654b804f0
+UID:fc-golzheim-m1-bc-oberzier-m1-fc-golzheim-m1-270530@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ BC Oberzier - FC Golzheim
 DESCRIPTION:28. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
@@ -5249,22 +2795,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-7d61fefdd980dcaf3565d2197aa2b659
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ BC Oberzier - FC Golzheim
-DESCRIPTION:28. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
- Pa: https://www.fupa.net/match/bc-oberzier-m1-fc-golzheim-m1-270530?utm_so
- urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/bc-oberzier-m1-fc-golzheim-m1-270530?utm_sou
- rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270530T150000
-DTEND;TZID=Europe/Berlin:20270530T163000
-LOCATION:Drieschgärten\, 52382 Niederzier
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-cc7ec5885fb8dacc10b79f89f06a1473
+UID:fc-golzheim-m2-rhenania-girbelsrath-m1-fc-golzheim-m2-270530@fussball-k
+ alender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ Rhenania Girbelsrath - FC Golzheim II
 DESCRIPTION:28. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
@@ -5279,22 +2811,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-b64c1e427baa741f2a83c52e06d1ad2c
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ Rhenania Girbelsrath - FC Golzheim II
-DESCRIPTION:28. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
- uPa: https://www.fupa.net/match/rhenania-girbelsrath-m1-fc-golzheim-m2-270
- 530?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/rhenania-girbelsrath-m1-fc-golzheim-m2-27053
- 0?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270530T150000
-DTEND;TZID=Europe/Berlin:20270530T163000
-LOCATION:Neuwerk\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m2-4265f057c801dce323ec6687817cb63d
+UID:fc-golzheim-m2-fc-golzheim-m2-fc-indenaltdorf-m1-270606@fussball-kalend
+ er
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - FC Inden/Altdorf
 DESCRIPTION:29. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
@@ -5309,22 +2827,7 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m2-2248b4ceadd7369fecd23dca90a3fc56
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - FC Inden/Altdorf
-DESCRIPTION:29. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
- uPa: https://www.fupa.net/match/fc-golzheim-m2-fc-indenaltdorf-m1-270606?u
- tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m2-fc-indenaltdorf-m1-270606?utm
- _source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270606T124500
-DTEND;TZID=Europe/Berlin:20270606T141500
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m2
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-048498fd048af68678420de3f5b1d9a4
+UID:fc-golzheim-m1-fc-golzheim-m1-sc-juelich-m1-270606@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - SC Jülich/SV Hoengen
 DESCRIPTION:29. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
@@ -5339,37 +2842,8 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-bbb8257c95afb4388ed5af92bede9c06
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - SC Jülich/SV Hoengen
-DESCRIPTION:29. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
- Pa: https://www.fupa.net/match/fc-golzheim-m1-sc-juelich-m1-270606?utm_sou
- rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-golzheim-m1-sc-juelich-m1-270606?utm_sour
- ce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270606T150000
-DTEND;TZID=Europe/Berlin:20270606T163000
-LOCATION:Herderstraße\, 52399 Merzenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-bccce0110d0e81b1cd10695fdbdfc7ae
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ SG Nörvenich-Hochkirchen - FC Golzheim
-DESCRIPTION:30. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
- Pa: https://www.fupa.net/match/sg-noervenich-hochkirchen-m1-fc-golzheim-m1
- -270613?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/sg-noervenich-hochkirchen-m1-fc-golzheim-m1-
- 270613?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-DTSTART;TZID=Europe/Berlin:20270613T150000
-DTEND;TZID=Europe/Berlin:20270613T163000
-LOCATION:Oberbolheimer Straße 3\, 52388 Nörvenich
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
-UID:fc-golzheim-m1-3eaa72057b8700be5d90984b334fa3fe
+UID:fc-golzheim-m1-sg-noervenich-hochkirchen-m1-fc-golzheim-m1-270613@fussb
+ all-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 1 | ⚽️ SG Nörvenich-Hochkirchen - FC Golzheim
 DESCRIPTION:30. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
