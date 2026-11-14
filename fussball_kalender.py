@@ -30,6 +30,15 @@ TEAMS = [
 ]
 
 CAL_NAME = "Fußball: Bayern, Aachen, Golzheim"
+
+# Einzelne Kalender je Farbe (Kalender-Apps färben immer den ganzen Kalender ein):
+# (Dateiname, Kalendername, Farbe, Vereine)
+FARB_KALENDER = [
+    ("golzheim.ics", "Fußball: FC Golzheim", "#2E9E44", ["fc-golzheim"]),
+    ("aachen.ics", "Fußball: Alemannia Aachen", "#F2C200", ["alemannia-aachen"]),
+    ("bayern.ics", "Fußball: FC Bayern", "#DC052D", ["fc-bayern-muenchen"]),
+]
+
 OUTPUT = pathlib.Path(__file__).parent / "docs" / "fussball.ics"
 STAND = pathlib.Path(__file__).parent / "docs" / "stand.txt"
 FEED_URL = "https://api.fupa.net/v1/teams/{club}-{team}-{season}/matches.ics"
@@ -261,35 +270,54 @@ def build(now=None, fetcher=fetch):
         return dt.datetime.combine(s, dt.time(12), BERLIN) if allday else s
 
     all_events.sort(key=sort_key)
+    build.parts = (all_events, list(timezones.values()))
+    return render(all_events, timezones.values(), CAL_NAME), len(all_events), failed
 
+
+def render(events, timezones, name, color=None):
+    """Kalenderdatei erzeugen. Die Farbe ist nur ein Vorschlag, den manche Apps übernehmen."""
     lines = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
         "PRODID:-//fussball-kalender//DE",
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
-        f"X-WR-CALNAME:{CAL_NAME}",
+        f"X-WR-CALNAME:{name}",
         "X-WR-TIMEZONE:Europe/Berlin",
         "REFRESH-INTERVAL;VALUE=DURATION:PT3H",
         "X-PUBLISHED-TTL:PT3H",
     ]
-    for tz in timezones.values():
+    if color:
+        lines += [f"COLOR:{color}", f"X-APPLE-CALENDAR-COLOR:{color}"]
+    for tz in timezones:
         lines.extend(tz)
-    for ev in all_events:
+    for ev in events:
         lines.extend(ev)
     lines.append("END:VCALENDAR")
-    return "\r\n".join(fold(l) for l in lines) + "\r\n", len(all_events), failed
+    return "\r\n".join(fold(l) for l in lines) + "\r\n"
+
+
+def write_if_changed(path, content):
+    changed = not path.exists() or path.read_text(encoding="utf-8") != content
+    if changed:
+        path.write_text(content, encoding="utf-8", newline="")
+    return changed
 
 
 def main():
     ics, count, failed = build()
     if count == 0:
-        print("Keine Spiele gefunden – bestehende Datei bleibt unverändert.")
+        print("Keine Spiele gefunden – bestehende Dateien bleiben unverändert.")
         return 1
+    events, timezones = build.parts
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
-    changed = not OUTPUT.exists() or OUTPUT.read_text(encoding="utf-8") != ics
-    if changed:
-        OUTPUT.write_text(ics, encoding="utf-8", newline="")
+    changed = write_if_changed(OUTPUT, ics)
+    for filename, name, color, clubs in FARB_KALENDER:
+        keys = {team_key(c, t) for _, c, t in TEAMS if c in clubs}
+        part = [e for e in events if prop(e, "X-FK-TEAM")[1] in keys]
+        if part:
+            changed |= write_if_changed(OUTPUT.parent / filename, render(part, timezones, name, color))
+            print(f"{filename}: {len(part)} Spiele")
     # Einmal pro Tag ein kleiner Eintrag, damit GitHub die Automatik nicht wegen Inaktivität pausiert.
     STAND.write_text(f"Zuletzt geprüft: {dt.date.today():%d.%m.%Y}\n", encoding="utf-8")
     print(f"{count} Spiele im Kalender, {'aktualisiert' if changed else 'unverändert'}.")
