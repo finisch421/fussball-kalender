@@ -1,0 +1,821 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fussball-kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fußball: Alemannia Aachen
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+COLOR:#F2C200
+X-APPLE-CALENDAR-COLOR:#F2C200
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-germania-teveren-m1-alemannia-aachen-m1-260703@fuss
+ ball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ Germania Teveren - Alemannia Aachen 1:6
+DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/germania-teveren-m1-alemannia-aachen-m1-260703?utm_sou
+ rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/germania-teveren-m1-alemannia-aachen-m1-2607
+ 03?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260703T183000
+DTEND;TZID=Europe/Berlin:20260703T200000
+LOCATION:Pestalozzistraße\, 52511 Geilenkirchen
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-sv-breinig-m1-alemannia-aachen-m1-260710@fussball-k
+ alender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ SV Breinig - Alemannia Aachen 0:5
+DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/sv-breinig-m1-alemannia-aachen-m1-260710?utm_source=fu
+ pa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/sv-breinig-m1-alemannia-aachen-m1-260710?utm
+ _source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260710T183000
+DTEND;TZID=Europe/Berlin:20260710T200000
+LOCATION:Schützheide 50d\, 52223 Stolberg
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-rkc-waalwijk-m1-alemannia-aachen-m1-260718@fussball
+ -kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ RKC Waalwijk - Alemannia Aachen 1:1
+DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/rkc-waalwijk-m1-alemannia-aachen-m1-260718?utm_source=
+ fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/rkc-waalwijk-m1-alemannia-aachen-m1-260718?u
+ tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260718T140000
+DTEND;TZID=Europe/Berlin:20260718T153000
+LOCATION:Akkerlaan 2\, 5143  Waalwijk
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-tus-lammersdorf-m1-alemannia-aachen-m1-260725@fussb
+ all-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ TuS Lammersdorf - Alemannia Aachen 0:7
+DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/tus-lammersdorf-m1-alemannia-aachen-m1-260725?utm_sour
+ ce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/tus-lammersdorf-m1-alemannia-aachen-m1-26072
+ 5?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260725T180000
+DTEND;TZID=Europe/Berlin:20260725T193000
+LOCATION:Schießgasse\, 52152 Simmerath
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-roda-jc-kerkrade-m1-alemannia-aachen-m1-260801@fuss
+ ball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ Roda JC Kerkrade - Alemannia Aachen 2:4
+DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/roda-jc-kerkrade-m1-alemannia-aachen-m1-260801?utm_sou
+ rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/roda-jc-kerkrade-m1-alemannia-aachen-m1-2608
+ 01?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260801T180000
+DTEND;TZID=Europe/Berlin:20260801T193000
+LOCATION:Roda J.C. Ring 1\, 6466 Kerkrade
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-alemannia-aachen-m1-sv-eintracht-trier-05-m1-260802
+ @fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ Alemannia Aachen - SV Eintracht Trier 05 0:1
+DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/alemannia-aachen-m1-sv-eintracht-trier-05-m1-260802?ut
+ m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/alemannia-aachen-m1-sv-eintracht-trier-05-m1
+ -260802?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260802T140000
+DTEND;TZID=Europe/Berlin:20260802T153000
+LOCATION:Jülicher Str. 270\, 52249 Eschweiler
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-alemannia-aachen-m1-sc-verl-m1-260809@fussball-kale
+ nder
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ Alemannia Aachen - SC Verl 4:1
+DESCRIPTION:1. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https://
+ www.fupa.net/match/alemannia-aachen-m1-sc-verl-m1-260809?utm_source=fupa&u
+ tm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/alemannia-aachen-m1-sc-verl-m1-260809?utm_so
+ urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260809T193000
+DTEND;TZID=Europe/Berlin:20260809T210000
+LOCATION:Krefelder Straße 205\, 52070 Aachen
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-sc-fortuna-koeln-m1-alemannia-aachen-m1-260815@fuss
+ ball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ SC Fortuna Köln - Alemannia Aachen 1:1
+DESCRIPTION:2. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https://
+ www.fupa.net/match/sc-fortuna-koeln-m1-alemannia-aachen-m1-260815?utm_sour
+ ce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/sc-fortuna-koeln-m1-alemannia-aachen-m1-2608
+ 15?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260815T140000
+DTEND;TZID=Europe/Berlin:20260815T153000
+LOCATION:Vorgebirgstraße\, 50969 Köln
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-fc-rheinsued-koeln-m1-alemannia-aachen-m1-260822@fu
+ ssball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ FC Rheinsüd Köln - Alemannia Aachen 0:7
+DESCRIPTION:Turnierspiel: Mittelrheinpokal\; Alle Infos findest du auf FuPa
+ : https://www.fupa.net/match/fc-rheinsued-koeln-m1-alemannia-aachen-m1-260
+ 822?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-rheinsued-koeln-m1-alemannia-aachen-m1-26
+ 0822?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260822T150000
+DTEND;TZID=Europe/Berlin:20260822T170000
+LOCATION:Vorgebirgstraße\, 50969 Köln
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-alemannia-aachen-m1-sv-meppen-m1-260829@fussball-ka
+ lender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ Alemannia Aachen - SV Meppen 0:3
+DESCRIPTION:3. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https://
+ www.fupa.net/match/alemannia-aachen-m1-sv-meppen-m1-260829?utm_source=fupa
+ &utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/alemannia-aachen-m1-sv-meppen-m1-260829?utm_
+ source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260829T140000
+DTEND;TZID=Europe/Berlin:20260829T153000
+LOCATION:Krefelder Straße 205\, 52070 Aachen
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-fc-ingolstadt-04-m1-alemannia-aachen-m1-260904@fuss
+ ball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ FC Ingolstadt 04 - Alemannia Aachen 0:3
+DESCRIPTION:4. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https://
+ www.fupa.net/match/fc-ingolstadt-04-m1-alemannia-aachen-m1-260904?utm_sour
+ ce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-ingolstadt-04-m1-alemannia-aachen-m1-2609
+ 04?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260904T190000
+DTEND;TZID=Europe/Berlin:20260904T203000
+LOCATION:Am Sportpark 1\, 85053 Ingolstadt
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-alemannia-aachen-m1-ssv-jahn-regensburg-m1-260912@f
+ ussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ Alemannia Aachen - SSV Jahn Regensburg 2:2
+DESCRIPTION:5. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https://
+ www.fupa.net/match/alemannia-aachen-m1-ssv-jahn-regensburg-m1-260912?utm_s
+ ource=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/alemannia-aachen-m1-ssv-jahn-regensburg-m1-2
+ 60912?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260912T163000
+DTEND;TZID=Europe/Berlin:20260912T180000
+LOCATION:Krefelder Straße 205\, 52070 Aachen
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-fc-wuerzburger-kickers-m1-alemannia-aachen-m1-26091
+ 5@fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ FC Würzburger Kickers - Alemannia Aachen 1:0
+DESCRIPTION:6. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https://
+ www.fupa.net/match/fc-wuerzburger-kickers-m1-alemannia-aachen-m1-260915?ut
+ m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-wuerzburger-kickers-m1-alemannia-aachen-m
+ 1-260915?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedul
+ e
+DTSTART;TZID=Europe/Berlin:20260915T190000
+DTEND;TZID=Europe/Berlin:20260915T203000
+LOCATION:Mittlerer Dallenbergweg 49\, 97082 Würzburg
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-alemannia-aachen-m1-fortuna-duesseldorf-m1-260919@f
+ ussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ Alemannia Aachen - Fortuna Düsseldorf 1:0
+DESCRIPTION:7. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https://
+ www.fupa.net/match/alemannia-aachen-m1-fortuna-duesseldorf-m1-260919?utm_s
+ ource=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/alemannia-aachen-m1-fortuna-duesseldorf-m1-2
+ 60919?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260919T140000
+DTEND;TZID=Europe/Berlin:20260919T153000
+LOCATION:Krefelder Straße 205\, 52070 Aachen
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-kas-eupen-m1-alemannia-aachen-m1-261001@fussball-ka
+ lender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ KAS Eupen - Alemannia Aachen 3:1
+DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/kas-eupen-m1-alemannia-aachen-m1-261001?utm_source=fup
+ a&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/kas-eupen-m1-alemannia-aachen-m1-261001?utm_
+ source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20261001T133000
+DTEND;TZID=Europe/Berlin:20261001T150000
+LOCATION:Kehrweg 14\, 4700 Eupen
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-sv-gruen-weiss-brauweiler-1961-m1-alemannia-aachen-
+ m1-261006@fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ SV Grün-Weiss Brauweiler 1961 - Alemannia Aachen 0
+ :5
+DESCRIPTION:Turnierspiel: Mittelrheinpokal\; Alle Infos findest du auf FuPa
+ : https://www.fupa.net/match/sv-gruen-weiss-brauweiler-1961-m1-alemannia-a
+ achen-m1-261006?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_
+ schedule
+URL:https://www.fupa.net/match/sv-gruen-weiss-brauweiler-1961-m1-alemannia-
+ aachen-m1-261006?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match
+ _schedule
+DTSTART;TZID=Europe/Berlin:20261006T180000
+DTEND;TZID=Europe/Berlin:20261006T200000
+LOCATION:Bismarckstr. 122-124\, 51373 Leverkusen
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-alemannia-aachen-m1-fc-viktoria-koeln-m1-261011@fus
+ sball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ Alemannia Aachen - Viktoria Köln 2:5
+DESCRIPTION:8. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https://
+ www.fupa.net/match/alemannia-aachen-m1-fc-viktoria-koeln-m1-261011?utm_sou
+ rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/alemannia-aachen-m1-fc-viktoria-koeln-m1-261
+ 011?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20261011T163000
+DTEND;TZID=Europe/Berlin:20261011T180000
+LOCATION:Krefelder Straße 205\, 52070 Aachen
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-sv-wehen-wiesbaden-m1-alemannia-aachen-m1-261014@fu
+ ssball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ SV Wehen Wiesbaden - Alemannia Aachen 3:0
+DESCRIPTION:9. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https://
+ www.fupa.net/match/sv-wehen-wiesbaden-m1-alemannia-aachen-m1-261014?utm_so
+ urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/sv-wehen-wiesbaden-m1-alemannia-aachen-m1-26
+ 1014?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20261014T190000
+DTEND;TZID=Europe/Berlin:20261014T203000
+LOCATION:Berliner Straße 9\, 65189 Wiesbaden
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-alemannia-aachen-m1-fc-hansa-rostock-m1-261017@fuss
+ ball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ Alemannia Aachen - F.C. Hansa Rostock 2:0
+DESCRIPTION:10. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/alemannia-aachen-m1-fc-hansa-rostock-m1-261017?utm_sou
+ rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/alemannia-aachen-m1-fc-hansa-rostock-m1-2610
+ 17?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20261017T140000
+DTEND;TZID=Europe/Berlin:20261017T153000
+LOCATION:Krefelder Straße 205\, 52070 Aachen
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-vfb-stuttgart-m2-alemannia-aachen-m1-261024@fussbal
+ l-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ VfB Stuttgart II - Alemannia Aachen 1:2
+DESCRIPTION:11. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/vfb-stuttgart-m2-alemannia-aachen-m1-261024?utm_source
+ =fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/vfb-stuttgart-m2-alemannia-aachen-m1-261024?
+ utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20261024T163000
+DTEND;TZID=Europe/Berlin:20261024T180000
+LOCATION:Mercedesstraße 109\, 70372 Stuttgart
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-alemannia-aachen-m1-sc-preussen-muenster-m1-261101@
+ fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ Alemannia Aachen - SC Preußen Münster 2:1
+DESCRIPTION:12. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/alemannia-aachen-m1-sc-preussen-muenster-m1-261101?utm
+ _source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/alemannia-aachen-m1-sc-preussen-muenster-m1-
+ 261101?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20261101T193000
+DTEND;TZID=Europe/Berlin:20261101T210000
+LOCATION:Krefelder Straße 205\, 52070 Aachen
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-rot-weiss-essen-m1-alemannia-aachen-m1-261107@fussb
+ all-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ Rot-Weiss Essen - Alemannia Aachen 1:0
+DESCRIPTION:13. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/rot-weiss-essen-m1-alemannia-aachen-m1-261107?utm_sour
+ ce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/rot-weiss-essen-m1-alemannia-aachen-m1-26110
+ 7?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20261107T140000
+DTEND;TZID=Europe/Berlin:20261107T153000
+LOCATION:Hafenstraße 97A\, 45356 Essen
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-fc-wegberg-beeck-m1-alemannia-aachen-m1-261111@fuss
+ ball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ FC Wegberg-Beeck - Alemannia Aachen 0:5
+DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/fc-wegberg-beeck-m1-alemannia-aachen-m1-261111?utm_sou
+ rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-wegberg-beeck-m1-alemannia-aachen-m1-2611
+ 11?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20261111T190000
+DTEND;TZID=Europe/Berlin:20261111T203000
+LOCATION:Kiefernweg 87-89\, 41844 Wegberg
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-fc-hennef-05-m1-alemannia-aachen-m1-261118@fussball
+ -kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ FC Hennef 05 - Alemannia Aachen
+DESCRIPTION:Turnierspiel: Mittelrheinpokal\; Alle Infos findest du auf FuPa
+ : https://www.fupa.net/match/fc-hennef-05-m1-alemannia-aachen-m1-261118?ut
+ m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-hennef-05-m1-alemannia-aachen-m1-261118?u
+ tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20261118T190000
+DTEND;TZID=Europe/Berlin:20261118T210000
+LOCATION:Fritz-Jacobi-Straße 24\, 53773 Hennef
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-alemannia-aachen-m1-sv-waldhof-mannheim-m1-261121@f
+ ussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ Alemannia Aachen - SV Waldhof Mannheim
+DESCRIPTION:14. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/alemannia-aachen-m1-sv-waldhof-mannheim-m1-261121?utm_
+ source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/alemannia-aachen-m1-sv-waldhof-mannheim-m1-2
+ 61121?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20261121T163000
+DTEND;TZID=Europe/Berlin:20261121T180000
+LOCATION:Krefelder Straße 205\, 52070 Aachen
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-1-fc-saarbruecken-m1-alemannia-aachen-m1-261128@fus
+ sball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ 1. FC Saarbrücken - Alemannia Aachen
+DESCRIPTION:15. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/1-fc-saarbruecken-m1-alemannia-aachen-m1-261128?utm_so
+ urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/1-fc-saarbruecken-m1-alemannia-aachen-m1-261
+ 128?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20261128T140000
+DTEND;TZID=Europe/Berlin:20261128T153000
+LOCATION:Camphauser Straße 26\, 66113 Saarbrücken
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-alemannia-aachen-m1-tsv-havelse-m1-261205@fussball-
+ kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ Alemannia Aachen - TSV Havelse
+DESCRIPTION:16. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/alemannia-aachen-m1-tsv-havelse-m1-261205?utm_source=f
+ upa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/alemannia-aachen-m1-tsv-havelse-m1-261205?ut
+ m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20261205T140000
+DTEND;TZID=Europe/Berlin:20261205T153000
+LOCATION:Krefelder Straße 205\, 52070 Aachen
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-sg-sonnenhof-grossaspach-m1-alemannia-aachen-m1-261
+ 212@fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ SG Sonnenhof Großaspach - Alemannia Aachen
+DESCRIPTION:17. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/sg-sonnenhof-grossaspach-m1-alemannia-aachen-m1-261212
+ ?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/sg-sonnenhof-grossaspach-m1-alemannia-aachen
+ -m1-261212?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_sched
+ ule
+DTSTART;TZID=Europe/Berlin:20261212T140000
+DTEND;TZID=Europe/Berlin:20261212T153000
+LOCATION:Im Fautenhau 1\, 71546 Großaspach
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-msv-duisburg-m1-alemannia-aachen-m1-261219@fussball
+ -kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ MSV Duisburg - Alemannia Aachen
+DESCRIPTION:18. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/msv-duisburg-m1-alemannia-aachen-m1-261219?utm_source=
+ fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/msv-duisburg-m1-alemannia-aachen-m1-261219?u
+ tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20261219T140000
+DTEND;TZID=Europe/Berlin:20261219T153000
+LOCATION:Margaretenstraße 5\, 47055 Duisburg-Wedau
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-alemannia-aachen-m1-tsg-1899-hoffenheim-m2-270116@f
+ ussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ Alemannia Aachen - TSG 1899 Hoffenheim II
+DESCRIPTION:19. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/alemannia-aachen-m1-tsg-1899-hoffenheim-m2-270116?utm_
+ source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/alemannia-aachen-m1-tsg-1899-hoffenheim-m2-2
+ 70116?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270116T140000
+DTEND;TZID=Europe/Berlin:20270116T153000
+LOCATION:Krefelder Straße 205\, 52070 Aachen
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-sc-verl-m1-alemannia-aachen-m1-270123@fussball-kale
+ nder
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ SC Verl - Alemannia Aachen
+DESCRIPTION:20. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/sc-verl-m1-alemannia-aachen-m1-270123?utm_source=fupa&
+ utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/sc-verl-m1-alemannia-aachen-m1-270123?utm_so
+ urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270123T140000
+DTEND;TZID=Europe/Berlin:20270123T153000
+LOCATION:Poststraße 36\, 33415 Verl
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-alemannia-aachen-m1-sc-fortuna-koeln-m1-270130@fuss
+ ball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ Alemannia Aachen - SC Fortuna Köln
+DESCRIPTION:21. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/alemannia-aachen-m1-sc-fortuna-koeln-m1-270130?utm_sou
+ rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/alemannia-aachen-m1-sc-fortuna-koeln-m1-2701
+ 30?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270130T140000
+DTEND;TZID=Europe/Berlin:20270130T153000
+LOCATION:Krefelder Straße 205\, 52070 Aachen
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-sv-meppen-m1-alemannia-aachen-m1-270206@fussball-ka
+ lender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ SV Meppen - Alemannia Aachen
+DESCRIPTION:22. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/sv-meppen-m1-alemannia-aachen-m1-270206?utm_source=fup
+ a&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/sv-meppen-m1-alemannia-aachen-m1-270206?utm_
+ source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270206T140000
+DTEND;TZID=Europe/Berlin:20270206T153000
+LOCATION:Lathener Straße 15a\, 49716 Meppen
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-alemannia-aachen-m1-fc-ingolstadt-04-m1-270213@fuss
+ ball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ Alemannia Aachen - FC Ingolstadt 04
+DESCRIPTION:23. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/alemannia-aachen-m1-fc-ingolstadt-04-m1-270213?utm_sou
+ rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/alemannia-aachen-m1-fc-ingolstadt-04-m1-2702
+ 13?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270213T140000
+DTEND;TZID=Europe/Berlin:20270213T153000
+LOCATION:Krefelder Straße 205\, 52070 Aachen
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-ssv-jahn-regensburg-m1-alemannia-aachen-m1-270220@f
+ ussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ SSV Jahn Regensburg - Alemannia Aachen
+DESCRIPTION:24. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/ssv-jahn-regensburg-m1-alemannia-aachen-m1-270220?utm_
+ source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/ssv-jahn-regensburg-m1-alemannia-aachen-m1-2
+ 70220?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270220T140000
+DTEND;TZID=Europe/Berlin:20270220T153000
+LOCATION:Franz-Josef-Strauß-Allee 22\, 93053 Regensburg
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-alemannia-aachen-m1-fc-wuerzburger-kickers-m1-27022
+ 7@fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ Alemannia Aachen - FC Würzburger Kickers
+DESCRIPTION:25. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/alemannia-aachen-m1-fc-wuerzburger-kickers-m1-270227?u
+ tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/alemannia-aachen-m1-fc-wuerzburger-kickers-m
+ 1-270227?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedul
+ e
+DTSTART;TZID=Europe/Berlin:20270227T140000
+DTEND;TZID=Europe/Berlin:20270227T153000
+LOCATION:Krefelder Straße 205\, 52070 Aachen
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-fortuna-duesseldorf-m1-alemannia-aachen-m1-270302@f
+ ussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ Fortuna Düsseldorf - Alemannia Aachen
+DESCRIPTION:26. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/fortuna-duesseldorf-m1-alemannia-aachen-m1-270302?utm_
+ source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fortuna-duesseldorf-m1-alemannia-aachen-m1-2
+ 70302?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270302T190000
+DTEND;TZID=Europe/Berlin:20270302T203000
+LOCATION:Arena Straße 1\, 40474 Düsseldorf
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-fc-viktoria-koeln-m1-alemannia-aachen-m1-270306@fus
+ sball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ Viktoria Köln - Alemannia Aachen
+DESCRIPTION:27. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/fc-viktoria-koeln-m1-alemannia-aachen-m1-270306?utm_so
+ urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-viktoria-koeln-m1-alemannia-aachen-m1-270
+ 306?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270306T140000
+DTEND;TZID=Europe/Berlin:20270306T153000
+LOCATION:Merheimer Heide\, 51103 Köln
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-alemannia-aachen-m1-sv-wehen-wiesbaden-m1-270313@fu
+ ssball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ Alemannia Aachen - SV Wehen Wiesbaden
+DESCRIPTION:28. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/alemannia-aachen-m1-sv-wehen-wiesbaden-m1-270313?utm_s
+ ource=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/alemannia-aachen-m1-sv-wehen-wiesbaden-m1-27
+ 0313?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270313T140000
+DTEND;TZID=Europe/Berlin:20270313T153000
+LOCATION:Krefelder Straße 205\, 52070 Aachen
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-fc-hansa-rostock-m1-alemannia-aachen-m1-270316@fuss
+ ball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ F.C. Hansa Rostock - Alemannia Aachen
+DESCRIPTION:29. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/fc-hansa-rostock-m1-alemannia-aachen-m1-270316?utm_sou
+ rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-hansa-rostock-m1-alemannia-aachen-m1-2703
+ 16?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270316T190000
+DTEND;TZID=Europe/Berlin:20270316T203000
+LOCATION:Kopernikusstraße 17\, 18057  Rostock
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-alemannia-aachen-m1-vfb-stuttgart-m2-270320@fussbal
+ l-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ Alemannia Aachen - VfB Stuttgart II
+DESCRIPTION:30. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/alemannia-aachen-m1-vfb-stuttgart-m2-270320?utm_source
+ =fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/alemannia-aachen-m1-vfb-stuttgart-m2-270320?
+ utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270320T140000
+DTEND;TZID=Europe/Berlin:20270320T153000
+LOCATION:Krefelder Straße 205\, 52070 Aachen
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-sc-preussen-muenster-m1-alemannia-aachen-m1-270403@
+ fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ SC Preußen Münster - Alemannia Aachen
+DESCRIPTION:31. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/sc-preussen-muenster-m1-alemannia-aachen-m1-270403?utm
+ _source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/sc-preussen-muenster-m1-alemannia-aachen-m1-
+ 270403?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270403T140000
+DTEND;TZID=Europe/Berlin:20270403T153000
+LOCATION:Hammer Straße 302 \, 48153 Münster
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-alemannia-aachen-m1-rot-weiss-essen-m1-270410@fussb
+ all-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ Alemannia Aachen - Rot-Weiss Essen
+DESCRIPTION:32. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/alemannia-aachen-m1-rot-weiss-essen-m1-270410?utm_sour
+ ce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/alemannia-aachen-m1-rot-weiss-essen-m1-27041
+ 0?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270410T140000
+DTEND;TZID=Europe/Berlin:20270410T153000
+LOCATION:Krefelder Straße 205\, 52070 Aachen
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-sv-waldhof-mannheim-m1-alemannia-aachen-m1-270417@f
+ ussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ SV Waldhof Mannheim - Alemannia Aachen
+DESCRIPTION:33. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/sv-waldhof-mannheim-m1-alemannia-aachen-m1-270417?utm_
+ source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/sv-waldhof-mannheim-m1-alemannia-aachen-m1-2
+ 70417?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270417T140000
+DTEND;TZID=Europe/Berlin:20270417T153000
+LOCATION:Theodor-Heuss-Anlage \, 68165 Mannheim
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-alemannia-aachen-m1-1-fc-saarbruecken-m1-270424@fus
+ sball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ Alemannia Aachen - 1. FC Saarbrücken
+DESCRIPTION:34. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/alemannia-aachen-m1-1-fc-saarbruecken-m1-270424?utm_so
+ urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/alemannia-aachen-m1-1-fc-saarbruecken-m1-270
+ 424?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270424T140000
+DTEND;TZID=Europe/Berlin:20270424T153000
+LOCATION:Krefelder Straße 205\, 52070 Aachen
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-tsv-havelse-m1-alemannia-aachen-m1-270427@fussball-
+ kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ TSV Havelse - Alemannia Aachen
+DESCRIPTION:35. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/tsv-havelse-m1-alemannia-aachen-m1-270427?utm_source=f
+ upa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/tsv-havelse-m1-alemannia-aachen-m1-270427?ut
+ m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270427T190000
+DTEND;TZID=Europe/Berlin:20270427T203000
+LOCATION:Clausewitzstr. 4\, 30175  Hannover
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-alemannia-aachen-m1-sg-sonnenhof-grossaspach-m1-270
+ 508@fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ Alemannia Aachen - SG Sonnenhof Großaspach
+DESCRIPTION:36. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/alemannia-aachen-m1-sg-sonnenhof-grossaspach-m1-270508
+ ?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/alemannia-aachen-m1-sg-sonnenhof-grossaspach
+ -m1-270508?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_sched
+ ule
+DTSTART;TZID=Europe/Berlin:20270508T140000
+DTEND;TZID=Europe/Berlin:20270508T153000
+LOCATION:Krefelder Straße 205\, 52070 Aachen
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-alemannia-aachen-m1-msv-duisburg-m1-270515@fussball
+ -kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ Alemannia Aachen - MSV Duisburg
+DESCRIPTION:37. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/alemannia-aachen-m1-msv-duisburg-m1-270515?utm_source=
+ fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/alemannia-aachen-m1-msv-duisburg-m1-270515?u
+ tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270515T140000
+DTEND;TZID=Europe/Berlin:20270515T153000
+LOCATION:Krefelder Straße 205\, 52070 Aachen
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:alemannia-aachen-m1-tsg-1899-hoffenheim-m2-alemannia-aachen-m1-270522@f
+ ussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Aachen | ⚽️ TSG 1899 Hoffenheim II - Alemannia Aachen
+DESCRIPTION:38. Spieltag: 3. Liga\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/tsg-1899-hoffenheim-m2-alemannia-aachen-m1-270522?utm_
+ source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/tsg-1899-hoffenheim-m2-alemannia-aachen-m1-2
+ 70522?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270522T140000
+DTEND;TZID=Europe/Berlin:20270522T153000
+LOCATION:Silbergasse 45\, 74889 Sinsheim-Hoffenheim
+STATUS:CONFIRMED
+X-FK-TEAM:alemannia-aachen-m1
+END:VEVENT
+END:VCALENDAR

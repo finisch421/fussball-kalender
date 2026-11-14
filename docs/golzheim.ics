@@ -1,0 +1,1220 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fussball-kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fußball: FC Golzheim
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+COLOR:#2E9E44
+X-APPLE-CALENDAR-COLOR:#2E9E44
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:fc-golzheim-m2-fc-golzheim-m2-sv-niederzier-m2-260715@fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - SV Niederzier II 10:0
+DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/fc-golzheim-m2-sv-niederzier-m2-260715?utm_source=fupa
+ &utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m2-sv-niederzier-m2-260715?utm_s
+ ource=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260715T183000
+DTEND;TZID=Europe/Berlin:20260715T200000
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-fc-golzheim-m1-fc-borussia-buir-m1-260716@fussball-kalen
+ der
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - FC Borussia Buir 2:2
+DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/fc-golzheim-m1-fc-borussia-buir-m1-260716?utm_source=f
+ upa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m1-fc-borussia-buir-m1-260716?ut
+ m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260716T184500
+DTEND;TZID=Europe/Berlin:20260716T201500
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-sg-neffeltal-m1-fc-golzheim-m1-260723@fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ SG Neffeltal - FC Golzheim 4:6
+DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/sg-neffeltal-m1-fc-golzheim-m1-260723?utm_source=fupa&
+ utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/sg-neffeltal-m1-fc-golzheim-m1-260723?utm_so
+ urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260723T193000
+DTEND;TZID=Europe/Berlin:20260723T210000
+LOCATION:Kreuzstr 1\, 52391 Disternich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-bedburger-ballspielverein-m1-fc-golzheim-m1-260726@fussb
+ all-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ Bedburger Ballspielverein - FC Golzheim 2:1
+DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/bedburger-ballspielverein-m1-fc-golzheim-m1-260726?utm
+ _source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/bedburger-ballspielverein-m1-fc-golzheim-m1-
+ 260726?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260726T151500
+DTEND;TZID=Europe/Berlin:20260726T164500
+LOCATION:Herderstraße 2\, 50181 Bedburg
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-spvg-badorfpingsdorf-192931-m1-fc-golzheim-m2-260726@fus
+ sball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ Spvg Badorf/Pingsdorf 1929/31 - FC Golzheim II 
+ 8:2
+DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/spvg-badorfpingsdorf-192931-m1-fc-golzheim-m2-260726?u
+ tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/spvg-badorfpingsdorf-192931-m1-fc-golzheim-m
+ 2-260726?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedul
+ e
+DTSTART;TZID=Europe/Berlin:20260726T151500
+DTEND;TZID=Europe/Berlin:20260726T164500
+LOCATION:Auf dem Gallberg 32\, 50321 Brühl
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-tus-langerwehe-m1-fc-golzheim-m1-260802@fussball-kalende
+ r
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ TuS Langerwehe - FC Golzheim 1:3
+DESCRIPTION:Turnierspiel: HP-Solution Cup\; Alle Infos findest du auf FuPa:
+  https://www.fupa.net/match/tus-langerwehe-m1-fc-golzheim-m1-260802?utm_so
+ urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/tus-langerwehe-m1-fc-golzheim-m1-260802?utm_
+ source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260802T133000
+DTEND;TZID=Europe/Berlin:20260802T150000
+LOCATION:Rymelsberg 21\, 52379 Langerwehe
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-sv-kelz-m1-fc-golzheim-m2-260802@fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ SV Kelz - FC Golzheim II 0:3
+DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/sv-kelz-m1-fc-golzheim-m2-260802?utm_source=fupa&utm_m
+ edium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/sv-kelz-m1-fc-golzheim-m2-260802?utm_source=
+ fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260802T180000
+DTEND;TZID=Europe/Berlin:20260802T193000
+LOCATION:Mühlenweg\, 52391 Kelz
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-fc-golzheim-m1-sv-1928-blatzheim-m1-260806@fussball-kale
+ nder
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - SV 1928 Blatzheim 1:1
+DESCRIPTION:Turnierspiel: Sportwoche Morschenich\; Alle Infos findest du au
+ f FuPa: https://www.fupa.net/match/fc-golzheim-m1-sv-1928-blatzheim-m1-260
+ 806?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m1-sv-1928-blatzheim-m1-260806?u
+ tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260806T193000
+DTEND;TZID=Europe/Berlin:20260806T202000
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-fc-golzheim-m1-columbia-drove-m1-260806@fussball-kalende
+ r
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - Columbia Drove 5:1
+DESCRIPTION:Turnierspiel: Sportwoche Morschenich\; Alle Infos findest du au
+ f FuPa: https://www.fupa.net/match/fc-golzheim-m1-columbia-drove-m1-260806
+ ?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m1-columbia-drove-m1-260806?utm_
+ source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260806T205000
+DTEND;TZID=Europe/Berlin:20260806T214000
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-1-fc-krauthausen-m1-fc-golzheim-m1-260806@fussball-kalen
+ der
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ 1. FC Krauthausen - FC Golzheim 1:1
+DESCRIPTION:Turnierspiel: Sportwoche Morschenich\; Alle Infos findest du au
+ f FuPa: https://www.fupa.net/match/1-fc-krauthausen-m1-fc-golzheim-m1-2608
+ 06?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/1-fc-krauthausen-m1-fc-golzheim-m1-260806?ut
+ m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260806T225000
+DTEND;TZID=Europe/Berlin:20260806T234000
+LOCATION:Niederfeld 7\, 52382 Niederzier
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-viktoria-arnoldsweiler-m1-fc-golzheim-m1-260807@fussball
+ -kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ Viktoria Arnoldsweiler - FC Golzheim 1:2
+DESCRIPTION:Turnierspiel: HP-Solution Cup\; Alle Infos findest du auf FuPa:
+  https://www.fupa.net/match/viktoria-arnoldsweiler-m1-fc-golzheim-m1-26080
+ 7?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/viktoria-arnoldsweiler-m1-fc-golzheim-m1-260
+ 807?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260807T190000
+DTEND;TZID=Europe/Berlin:20260807T203000
+LOCATION:Hölderlinweg 9\, 52353 Düren
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-alemannia-lendersdorf-m3-fc-golzheim-m2-260808@fussball-
+ kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ Alemannia Lendersdorf III - FC Golzheim II 3:2
+DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/alemannia-lendersdorf-m3-fc-golzheim-m2-260808?utm_sou
+ rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/alemannia-lendersdorf-m3-fc-golzheim-m2-2608
+ 08?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260808T180000
+DTEND;TZID=Europe/Berlin:20260808T193000
+LOCATION:Uferstraße 3b\, 52355 Düren
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-alemannia-lendersdorf-m1-fc-golzheim-m1-260809@fussball-
+ kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ Alemannia Lendersdorf - FC Golzheim 0:3
+DESCRIPTION:Turnierspiel: HP-Solution Cup\; Alle Infos findest du auf FuPa:
+  https://www.fupa.net/match/alemannia-lendersdorf-m1-fc-golzheim-m1-260809
+ ?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/alemannia-lendersdorf-m1-fc-golzheim-m1-2608
+ 09?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260809T163000
+DTEND;TZID=Europe/Berlin:20260809T180000
+LOCATION:Am Wehr 61\, 52355 Düren
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-fc-golzheim-m1-sc-merzenich-m1-260809@fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - SC Merzenich 1:15
+DESCRIPTION:Turnierspiel: Sportwoche Morschenich\; Alle Infos findest du au
+ f FuPa: https://www.fupa.net/match/fc-golzheim-m1-sc-merzenich-m1-260809?u
+ tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m1-sc-merzenich-m1-260809?utm_so
+ urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260809T170000
+DTEND;TZID=Europe/Berlin:20260809T185000
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-sv-merken-m1-fc-golzheim-m2-260816@fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ SV Merken - FC Golzheim II 3:4
+DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/sv-merken-m1-fc-golzheim-m2-260816?utm_source=fupa&utm
+ _medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/sv-merken-m1-fc-golzheim-m2-260816?utm_sourc
+ e=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260816T130000
+DTEND;TZID=Europe/Berlin:20260816T143000
+LOCATION:Peterstraße 148\, 52353 Düren
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-fc-golzheim-m2-columbia-drove-m1-260820@fussball-kalende
+ r
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - Columbia Drove 5:3
+DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/fc-golzheim-m2-columbia-drove-m1-260820?utm_source=fup
+ a&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m2-columbia-drove-m1-260820?utm_
+ source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260820T190000
+DTEND;TZID=Europe/Berlin:20260820T203000
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-schwarz-weiss-huchem-stammeln-m1-fc-golzheim-m1-260823@f
+ ussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ Schwarz-Weiß Huchem-Stammeln - FC Golzheim 2:1
+DESCRIPTION:Turnierspiel: Kreispokal Düren\; Alle Infos findest du auf FuP
+ a: https://www.fupa.net/match/schwarz-weiss-huchem-stammeln-m1-fc-golzheim
+ -m1-260823?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_sched
+ ule
+URL:https://www.fupa.net/match/schwarz-weiss-huchem-stammeln-m1-fc-golzheim
+ -m1-260823?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_sched
+ ule
+DTSTART;TZID=Europe/Berlin:20260823T150000
+DTEND;TZID=Europe/Berlin:20260823T170000
+LOCATION:Karolinger Straße\, 52382 Niederzier
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-salingia-barmen-m1-fc-golzheim-m1-260828@fussball-kalend
+ er
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ Salingia Barmen - FC Golzheim 0:0
+DESCRIPTION:1. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf FuP
+ a: https://www.fupa.net/match/salingia-barmen-m1-fc-golzheim-m1-260828?utm
+ _source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/salingia-barmen-m1-fc-golzheim-m1-260828?utm
+ _source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260828T190000
+DTEND;TZID=Europe/Berlin:20260828T203000
+LOCATION:Tuchbleiche\, 52428 Jülich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-rhenania-mariaweiler-m1-fc-golzheim-m2-260830@fussball-k
+ alender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ Rhenania Mariaweiler - FC Golzheim II 3:3
+DESCRIPTION:1. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf Fu
+ Pa: https://www.fupa.net/match/rhenania-mariaweiler-m1-fc-golzheim-m2-2608
+ 30?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/rhenania-mariaweiler-m1-fc-golzheim-m2-26083
+ 0?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260830T133000
+DTEND;TZID=Europe/Berlin:20260830T150000
+LOCATION:Indestr. 8 b\, 52349 Düren 
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-fc-golzheim-m2-1-fc-dueren-m2-260906@fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - 1. FC Düren II 6:1
+DESCRIPTION:3. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf Fu
+ Pa: https://www.fupa.net/match/fc-golzheim-m2-1-fc-dueren-m2-260906?utm_so
+ urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m2-1-fc-dueren-m2-260906?utm_sou
+ rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260906T124500
+DTEND;TZID=Europe/Berlin:20260906T141500
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-fc-golzheim-m1-sc-merzenich-m1-260906@fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - SC Merzenich 4:2
+DESCRIPTION:3. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf FuP
+ a: https://www.fupa.net/match/fc-golzheim-m1-sc-merzenich-m1-260906?utm_so
+ urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m1-sc-merzenich-m1-260906?utm_so
+ urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260906T150000
+DTEND;TZID=Europe/Berlin:20260906T163000
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-fc-golzheim-m1-sg-noervenich-hochkirchen-m1-260909@fussb
+ all-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - SG Nörvenich-Hochkirchen 3:1
+DESCRIPTION:2. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf FuP
+ a: https://www.fupa.net/match/fc-golzheim-m1-sg-noervenich-hochkirchen-m1-
+ 260909?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m1-sg-noervenich-hochkirchen-m1-
+ 260909?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260909T193000
+DTEND;TZID=Europe/Berlin:20260909T210000
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-viktoria-arnoldsweiler-m2-fc-golzheim-m2-260911@fussball
+ -kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ Viktoria Arnoldsweiler II - FC Golzheim II 3:5
+DESCRIPTION:4. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf Fu
+ Pa: https://www.fupa.net/match/viktoria-arnoldsweiler-m2-fc-golzheim-m2-26
+ 0911?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/viktoria-arnoldsweiler-m2-fc-golzheim-m2-260
+ 911?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260911T193000
+DTEND;TZID=Europe/Berlin:20260911T210000
+LOCATION:Hölderlinweg 9\, 52353 Düren
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-jugendsport-wenau-m1-fc-golzheim-m1-260913@fussball-kale
+ nder
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ Jugendsport Wenau - FC Golzheim 1:2
+DESCRIPTION:4. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf FuP
+ a: https://www.fupa.net/match/jugendsport-wenau-m1-fc-golzheim-m1-260913?u
+ tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/jugendsport-wenau-m1-fc-golzheim-m1-260913?u
+ tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260913T150000
+DTEND;TZID=Europe/Berlin:20260913T163000
+LOCATION:An der Dostel 2\, 52379 Langerwehe
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-fc-golzheim-m1-hambacher-spielverein-m1-260920@fussball-
+ kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - Hambacher Spielverein 3:0
+DESCRIPTION:5. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf FuP
+ a: https://www.fupa.net/match/fc-golzheim-m1-hambacher-spielverein-m1-2609
+ 20?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m1-hambacher-spielverein-m1-2609
+ 20?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260920T150000
+DTEND;TZID=Europe/Berlin:20260920T163000
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-fc-dueren-77-m1-fc-golzheim-m1-260927@fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ FC Düren 77 - FC Golzheim 1:3
+DESCRIPTION:6. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf FuP
+ a: https://www.fupa.net/match/fc-dueren-77-m1-fc-golzheim-m1-260927?utm_so
+ urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-dueren-77-m1-fc-golzheim-m1-260927?utm_so
+ urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20260927T150000
+DTEND;TZID=Europe/Berlin:20260927T163000
+LOCATION:Karl-Arnold-Str.7\, 52349 Düren
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-fc-golzheim-m2-sg-tuerkischer-sv-dueren-m2-261004@fussba
+ ll-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - SG Türkischer SV Düren II 11
+ :1
+DESCRIPTION:7. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf Fu
+ Pa: https://www.fupa.net/match/fc-golzheim-m2-sg-tuerkischer-sv-dueren-m2-
+ 261004?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m2-sg-tuerkischer-sv-dueren-m2-2
+ 61004?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20261004T124500
+DTEND;TZID=Europe/Berlin:20261004T141500
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-fc-golzheim-m1-jsv-frenz-m1-261004@fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - JSV Frenz 2:1
+DESCRIPTION:7. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf FuP
+ a: https://www.fupa.net/match/fc-golzheim-m1-jsv-frenz-m1-261004?utm_sourc
+ e=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m1-jsv-frenz-m1-261004?utm_sourc
+ e=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20261004T150000
+DTEND;TZID=Europe/Berlin:20261004T163000
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-schwarz-weiss-huchem-stammeln-m1-fc-golzheim-m1-261011@f
+ ussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ Schwarz-Weiß Huchem-Stammeln - FC Golzheim 3:2
+DESCRIPTION:8. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf FuP
+ a: https://www.fupa.net/match/schwarz-weiss-huchem-stammeln-m1-fc-golzheim
+ -m1-261011?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_sched
+ ule
+URL:https://www.fupa.net/match/schwarz-weiss-huchem-stammeln-m1-fc-golzheim
+ -m1-261011?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_sched
+ ule
+DTSTART;TZID=Europe/Berlin:20261011T150000
+DTEND;TZID=Europe/Berlin:20261011T163000
+LOCATION:Karolinger Straße\, 52382 Niederzier
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-sportfreunde-dueren-m2-fc-golzheim-m2-261011@fussball-ka
+ lender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ Sportfreunde Düren II - FC Golzheim II 3:1
+DESCRIPTION:8. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf Fu
+ Pa: https://www.fupa.net/match/sportfreunde-dueren-m2-fc-golzheim-m2-26101
+ 1?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/sportfreunde-dueren-m2-fc-golzheim-m2-261011
+ ?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20261011T150000
+DTEND;TZID=Europe/Berlin:20261011T163000
+LOCATION:Blücherstraße 58\, 52351 Düren
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-viktoria-schlich-m1-fc-golzheim-m2-261015@fussball-kalen
+ der
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ Viktoria Schlich - FC Golzheim II 1:0
+DESCRIPTION:6. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf Fu
+ Pa: https://www.fupa.net/match/viktoria-schlich-m1-fc-golzheim-m2-261015?u
+ tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/viktoria-schlich-m1-fc-golzheim-m2-261015?ut
+ m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20261015T193000
+DTEND;TZID=Europe/Berlin:20261015T210000
+LOCATION:Schmiedestraße 50\, 52379 Langerwehe
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-fc-golzheim-m2-sv-merken-m1-261018@fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - SV Merken 1:3
+DESCRIPTION:9. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf Fu
+ Pa: https://www.fupa.net/match/fc-golzheim-m2-sv-merken-m1-261018?utm_sour
+ ce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m2-sv-merken-m1-261018?utm_sourc
+ e=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20261018T124500
+DTEND;TZID=Europe/Berlin:20261018T141500
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-fc-golzheim-m1-sv-siersdorf-m1-261018@fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - SV Siersdorf 2:0
+DESCRIPTION:9. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf FuP
+ a: https://www.fupa.net/match/fc-golzheim-m1-sv-siersdorf-m1-261018?utm_so
+ urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m1-sv-siersdorf-m1-261018?utm_so
+ urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20261018T150000
+DTEND;TZID=Europe/Berlin:20261018T163000
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-viktoria-koslar-m1-fc-golzheim-m1-261024@fussball-kalend
+ er
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ Viktoria Koslar - FC Golzheim 0:5
+DESCRIPTION:10. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
+ Pa: https://www.fupa.net/match/viktoria-koslar-m1-fc-golzheim-m1-261024?ut
+ m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/viktoria-koslar-m1-fc-golzheim-m1-261024?utm
+ _source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20261024T173000
+DTEND;TZID=Europe/Berlin:20261024T190000
+LOCATION:Genossenschaftsweg\, 52428 Jülich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-sv-morschenich-m1-fc-golzheim-m2-261025@fussball-kalende
+ r
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ SV Morschenich - FC Golzheim II 8:4
+DESCRIPTION:10. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
+ uPa: https://www.fupa.net/match/sv-morschenich-m1-fc-golzheim-m2-261025?ut
+ m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/sv-morschenich-m1-fc-golzheim-m2-261025?utm_
+ source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20261025T150000
+DTEND;TZID=Europe/Berlin:20261025T163000
+LOCATION:Ellener Allee 1\, 52399 Morschenich-Neu
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-fc-golzheim-m2-tus-langerwehe-m2-261108@fussball-kalende
+ r
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - TuS Langerwehe II 7:3
+DESCRIPTION:11. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
+ uPa: https://www.fupa.net/match/fc-golzheim-m2-tus-langerwehe-m2-261108?ut
+ m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m2-tus-langerwehe-m2-261108?utm_
+ source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20261108T121500
+DTEND;TZID=Europe/Berlin:20261108T134500
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-fc-golzheim-m1-gruen-weiss-welldorf-guesten-m1-261108@fu
+ ssball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - Grün-Weiß Welldorf-Güsten 2:2
+DESCRIPTION:11. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
+ Pa: https://www.fupa.net/match/fc-golzheim-m1-gruen-weiss-welldorf-guesten
+ -m1-261108?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_sched
+ ule
+URL:https://www.fupa.net/match/fc-golzheim-m1-gruen-weiss-welldorf-guesten-
+ m1-261108?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedu
+ le
+DTSTART;TZID=Europe/Berlin:20261108T143000
+DTEND;TZID=Europe/Berlin:20261108T160000
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-schwarz-weiss-dueren-m2-fc-golzheim-m2-261115@fussball-k
+ alender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ Schwarz-Weiß Düren II - FC Golzheim II
+DESCRIPTION:12. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
+ uPa: https://www.fupa.net/match/schwarz-weiss-dueren-m2-fc-golzheim-m2-261
+ 115?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/schwarz-weiss-dueren-m2-fc-golzheim-m2-26111
+ 5?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20261115T130000
+DTEND;TZID=Europe/Berlin:20261115T143000
+LOCATION:Am Jugendstadion 2\, 52355 Düren
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-schwarz-weiss-dueren-m1-fc-golzheim-m1-261115@fussball-k
+ alender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ Schwarz-Weiß Düren - FC Golzheim
+DESCRIPTION:12. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
+ Pa: https://www.fupa.net/match/schwarz-weiss-dueren-m1-fc-golzheim-m1-2611
+ 15?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/schwarz-weiss-dueren-m1-fc-golzheim-m1-26111
+ 5?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20261115T153000
+DTEND;TZID=Europe/Berlin:20261115T170000
+LOCATION:Am Jugendstadion 2\, 52355 Düren
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-fc-golzheim-m2-csv-dueren-m1-261129@fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - CSV Düren
+DESCRIPTION:13. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
+ uPa: https://www.fupa.net/match/fc-golzheim-m2-csv-dueren-m1-261129?utm_so
+ urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m2-csv-dueren-m1-261129?utm_sour
+ ce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20261129T121500
+DTEND;TZID=Europe/Berlin:20261129T134500
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-fc-golzheim-m1-borussia-freialdenhoven-m1-261129@fussbal
+ l-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - Borussia Freialdenhoven
+DESCRIPTION:13. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
+ Pa: https://www.fupa.net/match/fc-golzheim-m1-borussia-freialdenhoven-m1-2
+ 61129?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m1-borussia-freialdenhoven-m1-26
+ 1129?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20261129T143000
+DTEND;TZID=Europe/Berlin:20261129T160000
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-fc-golzheim-m2-rhenania-girbelsrath-m1-261206@fussball-k
+ alender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - Rhenania Girbelsrath
+DESCRIPTION:14. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
+ uPa: https://www.fupa.net/match/fc-golzheim-m2-rhenania-girbelsrath-m1-261
+ 206?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m2-rhenania-girbelsrath-m1-26120
+ 6?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20261206T121500
+DTEND;TZID=Europe/Berlin:20261206T134500
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-fc-golzheim-m1-bc-oberzier-m1-261206@fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - BC Oberzier
+DESCRIPTION:14. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
+ Pa: https://www.fupa.net/match/fc-golzheim-m1-bc-oberzier-m1-261206?utm_so
+ urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m1-bc-oberzier-m1-261206?utm_sou
+ rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20261206T143000
+DTEND;TZID=Europe/Berlin:20261206T160000
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-sc-juelich-m1-fc-golzheim-m1-261211@fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ SC Jülich/SV Hoengen - FC Golzheim
+DESCRIPTION:15. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
+ Pa: https://www.fupa.net/match/sc-juelich-m1-fc-golzheim-m1-261211?utm_sou
+ rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/sc-juelich-m1-fc-golzheim-m1-261211?utm_sour
+ ce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20261211T193000
+DTEND;TZID=Europe/Berlin:20261211T210000
+LOCATION:Stadionweg 1\, 52428 Jülich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-fc-indenaltdorf-m1-fc-golzheim-m2-261213@fussball-kalend
+ er
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ FC Inden/Altdorf - FC Golzheim II
+DESCRIPTION:15. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
+ uPa: https://www.fupa.net/match/fc-indenaltdorf-m1-fc-golzheim-m2-261213?u
+ tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-indenaltdorf-m1-fc-golzheim-m2-261213?utm
+ _source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20261213T133000
+DTEND;TZID=Europe/Berlin:20261213T150000
+LOCATION:Merödgener Straße 35\, 52459 Inden
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-alemannia-lendersdorf-m1-fc-golzheim-m1-270124@fussball-
+ kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ Alemannia Lendersdorf - FC Golzheim
+DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/alemannia-lendersdorf-m1-fc-golzheim-m1-270124?utm_sou
+ rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/alemannia-lendersdorf-m1-fc-golzheim-m1-2701
+ 24?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270124T153000
+DTEND;TZID=Europe/Berlin:20270124T170000
+LOCATION:Am Wehr 61\, 52355 Düren
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-victoria-pier-schophoven-m1-fc-golzheim-m2-270214@fussba
+ ll-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ Victoria Pier-Schophoven - FC Golzheim II
+DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/victoria-pier-schophoven-m1-fc-golzheim-m2-270214?utm_
+ source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/victoria-pier-schophoven-m1-fc-golzheim-m2-2
+ 70214?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270214T140000
+DTEND;TZID=Europe/Berlin:20270214T153000
+LOCATION:Ruraue\, 52459 Inden
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-fc-golzheim-m2-rhenania-mariaweiler-m1-270221@fussball-k
+ alender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - Rhenania Mariaweiler
+DESCRIPTION:16. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
+ uPa: https://www.fupa.net/match/fc-golzheim-m2-rhenania-mariaweiler-m1-270
+ 221?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m2-rhenania-mariaweiler-m1-27022
+ 1?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270221T121500
+DTEND;TZID=Europe/Berlin:20270221T134500
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-fc-golzheim-m1-salingia-barmen-m1-270221@fussball-kalend
+ er
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - Salingia Barmen
+DESCRIPTION:16. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
+ Pa: https://www.fupa.net/match/fc-golzheim-m1-salingia-barmen-m1-270221?ut
+ m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m1-salingia-barmen-m1-270221?utm
+ _source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270221T143000
+DTEND;TZID=Europe/Berlin:20270221T160000
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-sc-merzenich-m1-fc-golzheim-m1-270228@fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ SC Merzenich - FC Golzheim
+DESCRIPTION:17. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
+ Pa: https://www.fupa.net/match/sc-merzenich-m1-fc-golzheim-m1-270228?utm_s
+ ource=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/sc-merzenich-m1-fc-golzheim-m1-270228?utm_so
+ urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270228T150000
+DTEND;TZID=Europe/Berlin:20270228T163000
+LOCATION:Ellener Aller\, 52399 Merzenich 
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-1-fc-dueren-m2-fc-golzheim-m2-270228@fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ 1. FC Düren II - FC Golzheim II
+DESCRIPTION:17. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
+ uPa: https://www.fupa.net/match/1-fc-dueren-m2-fc-golzheim-m2-270228?utm_s
+ ource=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/1-fc-dueren-m2-fc-golzheim-m2-270228?utm_sou
+ rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270228T153000
+DTEND;TZID=Europe/Berlin:20270228T170000
+LOCATION:Kreuzauerstraße\, 52355 Düren
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-fc-golzheim-m2-viktoria-arnoldsweiler-m2-270307@fussball
+ -kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - Viktoria Arnoldsweiler II
+DESCRIPTION:18. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
+ uPa: https://www.fupa.net/match/fc-golzheim-m2-viktoria-arnoldsweiler-m2-2
+ 70307?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m2-viktoria-arnoldsweiler-m2-270
+ 307?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270307T124500
+DTEND;TZID=Europe/Berlin:20270307T141500
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-fc-golzheim-m1-jugendsport-wenau-m1-270307@fussball-kale
+ nder
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - Jugendsport Wenau
+DESCRIPTION:18. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
+ Pa: https://www.fupa.net/match/fc-golzheim-m1-jugendsport-wenau-m1-270307?
+ utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m1-jugendsport-wenau-m1-270307?u
+ tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270307T143000
+DTEND;TZID=Europe/Berlin:20270307T160000
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-hambacher-spielverein-m1-fc-golzheim-m1-270314@fussball-
+ kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ Hambacher Spielverein - FC Golzheim
+DESCRIPTION:19. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
+ Pa: https://www.fupa.net/match/hambacher-spielverein-m1-fc-golzheim-m1-270
+ 314?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/hambacher-spielverein-m1-fc-golzheim-m1-2703
+ 14?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270314T143000
+DTEND;TZID=Europe/Berlin:20270314T160000
+LOCATION:Triftstraße\, 52382 Niederzier
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-fc-golzheim-m2-viktoria-schlich-m1-270321@fussball-kalen
+ der
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - Viktoria Schlich
+DESCRIPTION:20. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
+ uPa: https://www.fupa.net/match/fc-golzheim-m2-viktoria-schlich-m1-270321?
+ utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m2-viktoria-schlich-m1-270321?ut
+ m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270321T124500
+DTEND;TZID=Europe/Berlin:20270321T141500
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-fc-golzheim-m1-fc-dueren-77-m1-270321@fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - FC Düren 77
+DESCRIPTION:20. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
+ Pa: https://www.fupa.net/match/fc-golzheim-m1-fc-dueren-77-m1-270321?utm_s
+ ource=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m1-fc-dueren-77-m1-270321?utm_so
+ urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270321T143000
+DTEND;TZID=Europe/Berlin:20270321T160000
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-sg-tuerkischer-sv-dueren-m2-fc-golzheim-m2-270404@fussba
+ ll-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ SG Türkischer SV Düren II - FC Golzheim II
+DESCRIPTION:21. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
+ uPa: https://www.fupa.net/match/sg-tuerkischer-sv-dueren-m2-fc-golzheim-m2
+ -270404?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/sg-tuerkischer-sv-dueren-m2-fc-golzheim-m2-2
+ 70404?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270404T120000
+DTEND;TZID=Europe/Berlin:20270404T133000
+LOCATION:Maltesertraße 85\, 52349 Düren
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-jsv-frenz-m1-fc-golzheim-m1-270404@fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ JSV Frenz - FC Golzheim
+DESCRIPTION:21. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
+ Pa: https://www.fupa.net/match/jsv-frenz-m1-fc-golzheim-m1-270404?utm_sour
+ ce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/jsv-frenz-m1-fc-golzheim-m1-270404?utm_sourc
+ e=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270404T150000
+DTEND;TZID=Europe/Berlin:20270404T163000
+LOCATION:Am hohen Ufer\, 52459 Inden
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-fc-golzheim-m2-sportfreunde-dueren-m2-270411@fussball-ka
+ lender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - Sportfreunde Düren II
+DESCRIPTION:22. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
+ uPa: https://www.fupa.net/match/fc-golzheim-m2-sportfreunde-dueren-m2-2704
+ 11?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m2-sportfreunde-dueren-m2-270411
+ ?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270411T124500
+DTEND;TZID=Europe/Berlin:20270411T141500
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-fc-golzheim-m1-schwarz-weiss-huchem-stammeln-m1-270411@f
+ ussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - Schwarz-Weiß Huchem-Stammeln
+DESCRIPTION:22. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
+ Pa: https://www.fupa.net/match/fc-golzheim-m1-schwarz-weiss-huchem-stammel
+ n-m1-270411?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_sche
+ dule
+URL:https://www.fupa.net/match/fc-golzheim-m1-schwarz-weiss-huchem-stammeln
+ -m1-270411?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_sched
+ ule
+DTSTART;TZID=Europe/Berlin:20270411T150000
+DTEND;TZID=Europe/Berlin:20270411T163000
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-sv-siersdorf-m1-fc-golzheim-m1-270418@fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ SV Siersdorf - FC Golzheim
+DESCRIPTION:23. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
+ Pa: https://www.fupa.net/match/sv-siersdorf-m1-fc-golzheim-m1-270418?utm_s
+ ource=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/sv-siersdorf-m1-fc-golzheim-m1-270418?utm_so
+ urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270418T150000
+DTEND;TZID=Europe/Berlin:20270418T163000
+LOCATION:Im Schleidener Thal\, 52457 Aldenhoven
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-sv-merken-m1-fc-golzheim-m2-270418@fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ SV Merken - FC Golzheim II
+DESCRIPTION:23. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
+ uPa: https://www.fupa.net/match/sv-merken-m1-fc-golzheim-m2-270418?utm_sou
+ rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/sv-merken-m1-fc-golzheim-m2-270418?utm_sourc
+ e=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270418T150000
+DTEND;TZID=Europe/Berlin:20270418T163000
+LOCATION:Peterstraße 148\, 52353 Düren
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-fc-golzheim-m2-sv-morschenich-m1-270425@fussball-kalende
+ r
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - SV Morschenich
+DESCRIPTION:24. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
+ uPa: https://www.fupa.net/match/fc-golzheim-m2-sv-morschenich-m1-270425?ut
+ m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m2-sv-morschenich-m1-270425?utm_
+ source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270425T124500
+DTEND;TZID=Europe/Berlin:20270425T141500
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-fc-golzheim-m1-viktoria-koslar-m1-270425@fussball-kalend
+ er
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - Viktoria Koslar
+DESCRIPTION:24. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
+ Pa: https://www.fupa.net/match/fc-golzheim-m1-viktoria-koslar-m1-270425?ut
+ m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m1-viktoria-koslar-m1-270425?utm
+ _source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270425T150000
+DTEND;TZID=Europe/Berlin:20270425T163000
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-tus-langerwehe-m2-fc-golzheim-m2-270429@fussball-kalende
+ r
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ TuS Langerwehe II - FC Golzheim II
+DESCRIPTION:25. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
+ uPa: https://www.fupa.net/match/tus-langerwehe-m2-fc-golzheim-m2-270429?ut
+ m_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/tus-langerwehe-m2-fc-golzheim-m2-270429?utm_
+ source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270429T184500
+DTEND;TZID=Europe/Berlin:20270429T201500
+LOCATION:Rymelsberg 21\, 52379 Langerwehe
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-gruen-weiss-welldorf-guesten-m1-fc-golzheim-m1-270429@fu
+ ssball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ Grün-Weiß Welldorf-Güsten - FC Golzheim
+DESCRIPTION:25. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
+ Pa: https://www.fupa.net/match/gruen-weiss-welldorf-guesten-m1-fc-golzheim
+ -m1-270429?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_sched
+ ule
+URL:https://www.fupa.net/match/gruen-weiss-welldorf-guesten-m1-fc-golzheim-
+ m1-270429?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedu
+ le
+DTSTART;TZID=Europe/Berlin:20270429T191500
+DTEND;TZID=Europe/Berlin:20270429T204500
+LOCATION:Sandweg 47\, 52428 Jülich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-fc-golzheim-m2-schwarz-weiss-dueren-m2-270509@fussball-k
+ alender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - Schwarz-Weiß Düren II
+DESCRIPTION:26. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
+ uPa: https://www.fupa.net/match/fc-golzheim-m2-schwarz-weiss-dueren-m2-270
+ 509?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m2-schwarz-weiss-dueren-m2-27050
+ 9?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270509T124500
+DTEND;TZID=Europe/Berlin:20270509T141500
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-fc-golzheim-m1-schwarz-weiss-dueren-m1-270509@fussball-k
+ alender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - Schwarz-Weiß Düren
+DESCRIPTION:26. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
+ Pa: https://www.fupa.net/match/fc-golzheim-m1-schwarz-weiss-dueren-m1-2705
+ 09?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m1-schwarz-weiss-dueren-m1-27050
+ 9?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270509T150000
+DTEND;TZID=Europe/Berlin:20270509T163000
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-borussia-freialdenhoven-m1-fc-golzheim-m1-270521@fussbal
+ l-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ Borussia Freialdenhoven - FC Golzheim
+DESCRIPTION:27. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
+ Pa: https://www.fupa.net/match/borussia-freialdenhoven-m1-fc-golzheim-m1-2
+ 70521?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/borussia-freialdenhoven-m1-fc-golzheim-m1-27
+ 0521?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270521T193000
+DTEND;TZID=Europe/Berlin:20270521T210000
+LOCATION:Ederener Straße\, 52457 Aldenhoven
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-csv-dueren-m1-fc-golzheim-m2-270523@fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ CSV Düren - FC Golzheim II
+DESCRIPTION:27. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
+ uPa: https://www.fupa.net/match/csv-dueren-m1-fc-golzheim-m2-270523?utm_so
+ urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/csv-dueren-m1-fc-golzheim-m2-270523?utm_sour
+ ce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270523T170000
+DTEND;TZID=Europe/Berlin:20270523T183000
+LOCATION:Mülhovener Straße 28\, 52353 Düren
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-bc-oberzier-m1-fc-golzheim-m1-270530@fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ BC Oberzier - FC Golzheim
+DESCRIPTION:28. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
+ Pa: https://www.fupa.net/match/bc-oberzier-m1-fc-golzheim-m1-270530?utm_so
+ urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/bc-oberzier-m1-fc-golzheim-m1-270530?utm_sou
+ rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270530T150000
+DTEND;TZID=Europe/Berlin:20270530T163000
+LOCATION:Drieschgärten\, 52382 Niederzier
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-rhenania-girbelsrath-m1-fc-golzheim-m2-270530@fussball-k
+ alender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ Rhenania Girbelsrath - FC Golzheim II
+DESCRIPTION:28. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
+ uPa: https://www.fupa.net/match/rhenania-girbelsrath-m1-fc-golzheim-m2-270
+ 530?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/rhenania-girbelsrath-m1-fc-golzheim-m2-27053
+ 0?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270530T150000
+DTEND;TZID=Europe/Berlin:20270530T163000
+LOCATION:Neuwerk\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m2-fc-golzheim-m2-fc-indenaltdorf-m1-270606@fussball-kalend
+ er
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - FC Inden/Altdorf
+DESCRIPTION:29. Spieltag: Kreisliga B2 Düren\; Alle Infos findest du auf F
+ uPa: https://www.fupa.net/match/fc-golzheim-m2-fc-indenaltdorf-m1-270606?u
+ tm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m2-fc-indenaltdorf-m1-270606?utm
+ _source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270606T124500
+DTEND;TZID=Europe/Berlin:20270606T141500
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-fc-golzheim-m1-sc-juelich-m1-270606@fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ FC Golzheim - SC Jülich/SV Hoengen
+DESCRIPTION:29. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
+ Pa: https://www.fupa.net/match/fc-golzheim-m1-sc-juelich-m1-270606?utm_sou
+ rce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/fc-golzheim-m1-sc-juelich-m1-270606?utm_sour
+ ce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270606T150000
+DTEND;TZID=Europe/Berlin:20270606T163000
+LOCATION:Herderstraße\, 52399 Merzenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-golzheim-m1-sg-noervenich-hochkirchen-m1-fc-golzheim-m1-270613@fussb
+ all-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 1 | ⚽️ SG Nörvenich-Hochkirchen - FC Golzheim
+DESCRIPTION:30. Spieltag: Kreisliga A Düren\; Alle Infos findest du auf Fu
+ Pa: https://www.fupa.net/match/sg-noervenich-hochkirchen-m1-fc-golzheim-m1
+ -270613?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/sg-noervenich-hochkirchen-m1-fc-golzheim-m1-
+ 270613?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270613T150000
+DTEND;TZID=Europe/Berlin:20270613T163000
+LOCATION:Oberbolheimer Straße 3\, 52388 Nörvenich
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m1
+END:VEVENT
+END:VCALENDAR
