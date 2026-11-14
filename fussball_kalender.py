@@ -111,6 +111,14 @@ def parse_start(event):
     return dt.datetime.strptime(value[:15], "%Y%m%dT%H%M%S").replace(tzinfo=tz), False
 
 
+def match_id(event):
+    """Stabile Kennung eines Spiels: der FuPa-Spiellink (FuPa-UIDs ändern sich bei jedem Abruf)."""
+    url = prop(event, "URL")[1]
+    if url:
+        return url.split("?")[0].rstrip("/").rsplit("/", 1)[-1]
+    return (prop(event, "DTSTART")[1] or "") + "|" + (prop(event, "SUMMARY")[1] or "")
+
+
 def is_future(event, now):
     start, allday = parse_start(event)
     if start is None:
@@ -159,9 +167,9 @@ def load_team(club, team, now, fetcher=fetch):
     for season, evs, tz, _ in chosen:
         tzs.extend(tz)
         for e in evs:
-            uid = prop(e, "UID")[1] or id(e)
-            if uid not in seen:
-                seen.add(uid)
+            mid = match_id(e)
+            if mid not in seen:
+                seen.add(mid)
                 events.append(e)
     return ", ".join(f[0] for f in chosen), events, tzs
 
@@ -183,7 +191,7 @@ def transform(event, label, key):
                 title += " (Anstoßzeit offen)"
             out.append(f"SUMMARY:{label} | {title}")
         elif base == "UID":
-            out.append(f"UID:{key}-{value}")
+            out.append(f"UID:{key}-{match_id(event)}@fussball-kalender")
         elif base == "DTSTAMP":
             out.append(FIXED_DTSTAMP)
         elif base in ("DTSTART", "DTEND", "DURATION") and tbd:
