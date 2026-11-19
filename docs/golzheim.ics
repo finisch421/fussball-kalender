@@ -650,23 +650,6 @@ STATUS:CONFIRMED
 X-FK-TEAM:fc-golzheim-m1
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-golzheim-m1-fc-rot-weiss-berrendorf-1926-m1-fc-golzheim-m1-261120@fu
- ssball-kalender
-DTSTAMP:20260101T000000Z
-SUMMARY:Golzheim 1 | ⚽️ FC Rot-Weiß Berrendorf 1926 - FC Golzheim
-DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
- /www.fupa.net/match/fc-rot-weiss-berrendorf-1926-m1-fc-golzheim-m1-261120?
- utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
-URL:https://www.fupa.net/match/fc-rot-weiss-berrendorf-1926-m1-fc-golzheim-
- m1-261120?utm_source=fupa&utm_medium=calendarabo&utm_campaign=match_schedu
- le
-DTSTART;TZID=Europe/Berlin:20261120T193000
-DTEND;TZID=Europe/Berlin:20261120T210000
-LOCATION:Am Sportplatz\, 50189  Elsdorf-Berrendorf
-STATUS:CONFIRMED
-X-FK-TEAM:fc-golzheim-m1
-END:VEVENT
-BEGIN:VEVENT
 UID:fc-golzheim-m2-fc-golzheim-m2-csv-dueren-m1-261129@fussball-kalender
 DTSTAMP:20260101T000000Z
 SUMMARY:Golzheim 2 | ⚽️ FC Golzheim II - CSV Düren
