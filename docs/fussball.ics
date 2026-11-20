@@ -1872,6 +1872,21 @@ STATUS:CONFIRMED
 X-FK-TEAM:alemannia-aachen-m1
 END:VEVENT
 BEGIN:VEVENT
+UID:fc-golzheim-m2-sc-merzenich-m2-fc-golzheim-m2-270131@fussball-kalender
+DTSTAMP:20260101T000000Z
+SUMMARY:Golzheim 2 | ⚽️ SC Merzenich II - FC Golzheim II
+DESCRIPTION:Testspiel: Testspiele\; Alle Infos findest du auf FuPa: https:/
+ /www.fupa.net/match/sc-merzenich-m2-fc-golzheim-m2-270131?utm_source=fupa&
+ utm_medium=calendarabo&utm_campaign=match_schedule
+URL:https://www.fupa.net/match/sc-merzenich-m2-fc-golzheim-m2-270131?utm_so
+ urce=fupa&utm_medium=calendarabo&utm_campaign=match_schedule
+DTSTART;TZID=Europe/Berlin:20270131T150000
+DTEND;TZID=Europe/Berlin:20270131T163000
+LOCATION:Ellener Allee 1\, 52399 Merzenich Ortsteil Morschenich - Neu
+STATUS:CONFIRMED
+X-FK-TEAM:fc-golzheim-m2
+END:VEVENT
+BEGIN:VEVENT
 UID:fc-bayern-muenchen-m1-fc-bayern-muenchen-m1-sv-elversberg-m1-270206@fus
  sball-kalender
 DTSTAMP:20260101T000000Z
